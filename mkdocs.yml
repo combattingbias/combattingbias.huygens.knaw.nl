@@ -1,13 +1,13 @@
-site_name: GLOBALISE Lab
-repo_name: "globalise-huygens/lab.globalise.huygens.knaw.nl/"
-repo_url: "https://github.com/globalise-huygens/lab.globalise.huygens.knaw.nl/"
+site_name: Combatting Bias project
+repo_name: "combattingbias/combattingbias.huygens.knaw.nl/"
+repo_url: "https://github.com/combattingbias/combattingbias.huygens.knaw.nl/"
 
 theme:
   name: material
   # logo: static/img/logo/globalise_g.svg
-  favicon: static/img/logo/globalise_g.svg
+  # favicon: static/img/logo/globalise_g.svg
   icon:
-    logo: material/flask
+    # logo: material/flask
   features:
     # - navigation.instant
     - navigation.tracking
