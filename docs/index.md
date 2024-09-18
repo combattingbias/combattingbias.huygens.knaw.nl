@@ -5,15 +5,7 @@ hide:
 
 # Home 
 
-<!-- ![GLOBALISE G](static/img/logo/globalise_g.svg) -->
-<p style="text-align: center">
-<img src="static/img/logo/globalise.svg" alt="GLOBALISE Logo" width="80%"/> <br>
-<img src="static/img/logo/globalise_lab.svg" alt="GLOBALISE Lab logo" width="25%"/>
-</p>
-
-The aim of the [GLOBALISE project](https://globalise.huygens.knaw.nl/) is to develop an online infrastructure that unlocks the key series of VOC documents and reports for advanced research methods. On this site, we share experiments and prototypes related to our datasets and infrastructure. We welcome [your feedback](https://globalise.huygens.knaw.nl/contact-us/).
-
-GLOBALISE is funded by the [The Netherlands Organization for Scientific Research (NWO)](https://www.nwo.nl/en).
+The aim of the Combatting Bias project is...
 
 ### Experiments
 
