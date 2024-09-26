@@ -26,7 +26,8 @@ nav:
       - "General Missives Search Interface": experiments/blacklab-search-interface-general-missives.md
       - "Text-Fabric Serialization of General Missives": experiments/text-fabric-general-missives.md
   #    - "Word Embeddings": experiments/word-embeddings.md
-  -  "About"
+  -  "About":
+      - "Mission": About/Mission.md
   -  "Team"
   -  "Partners"
   -  "Resources"
