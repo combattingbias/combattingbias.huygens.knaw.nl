@@ -16,7 +16,7 @@ theme:
     - navigation.top
 
 nav:
-  - Home: index.md
+  - Home: About/The Project.md
   #- About: about.md
   #- "Ongoing experiments":
   #    - "Transcriptions Viewer": experiments/htr-viewer.md
