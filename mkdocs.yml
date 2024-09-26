@@ -32,10 +32,8 @@ nav:
       - "FAIR+ Principles": About/FAIR+ Principles.md
   -  "Team"
   -  "Partners"
-  -  "Resources"
-  -  "Publications"
-  -  "News"
-  -  "Blog"
+  -  "Resources and Publications"
+  -  "News": News/News.md
   -  "FAQ": FAQ/FAQ.md
   -  "Contact": Contact/Contact.md
 markdown_extensions:
