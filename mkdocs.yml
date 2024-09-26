@@ -18,21 +18,25 @@ theme:
 nav:
   - Home: index.md
   #- About: about.md
-  - "Ongoing experiments":
-      - "Transcriptions Viewer": experiments/htr-viewer.md
-      - "Places Visualization": experiments/places-visualization.md
-      - "Word Embeddings": experiments/GLOBALISE_Word2Vec_Lab.ipynb
-  - "Completed experiments":
-      - "General Missives Search Interface": experiments/blacklab-search-interface-general-missives.md
-      - "Text-Fabric Serialization of General Missives": experiments/text-fabric-general-missives.md
+  #- "Ongoing experiments":
+  #    - "Transcriptions Viewer": experiments/htr-viewer.md
+  #    - "Places Visualization": experiments/places-visualization.md
+  #    - "Word Embeddings": experiments/GLOBALISE_Word2Vec_Lab.ipynb
+  #- "Completed experiments":
+  #    - "General Missives Search Interface": experiments/blacklab-search-interface-general-missives.md
+  #    - "Text-Fabric Serialization of General Missives": experiments/text-fabric-general-missives.md
   #    - "Word Embeddings": experiments/word-embeddings.md
   -  "About":
       - "The Project": About/The Project.md
       - "Mission": About/Mission.md
       - "FAIR+ Principles": About/FAIR+ Principles.md
-  -  "Team"
-  -  "Partners"
-  -  "Resources and Publications"
+  -  "Team": Team/Team.md
+  -  "Partners": 
+      - "Projects": Team/Partners/Projects.md
+      - "Advisors": Team/Partners/Advisors.md
+  -  "Resources and Publications": 
+      - "Resources": Resources and Publications/Resources.md
+      - "Publications": Resources and Publications/Publications.md
   -  "News": News/News.md
   -  "FAQ": FAQ/FAQ.md
   -  "Contact": Contact/Contact.md
