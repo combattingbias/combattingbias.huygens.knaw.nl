@@ -1,0 +1,1 @@
+Our mission is to promote ethical and responsible data practices in the humanities and social sciences by developing comprehensive guidelines for creating datasets that are not only technically sound but also fair and inclusive, and respectful of diverse perspectives and experiences.
