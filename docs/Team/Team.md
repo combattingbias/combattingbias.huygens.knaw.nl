@@ -7,3 +7,6 @@
 **Amber Zijlma** [<img src="../static/img/ORCID_iD.svg" alt="orcid logo" style="width:2%;">](https://orcid.org/0009-0005-8529-6190) works as a Data Steward (Data Governance) on the Combatting Bias project, evaluating data governance practices and strategies of dataset creation on their ethical sustainability. Her previous research has focused on global and colonial histories, with a special interest in the positionality of Chinese labour migrants in European colonial societies within Asia and Africa.
 
 The collaborative structure of the Combatting Bias project is visualised below through a three-tiered circular diagram. The innermost circle features the core members, directly involved in the project's daily operations. The second circle displays the four partner projects, indicating close collaborations. The outermost circle categorises the advisor projects by their expertise areas, showcasing the extensive support network and the diverse knowledge contributing to the project.
+
+
+[<img src="../static/img/ORCID_iD.svg" alt="orcid logo" style="width:2%;">]
