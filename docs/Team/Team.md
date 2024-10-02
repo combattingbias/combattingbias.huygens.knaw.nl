@@ -9,4 +9,4 @@
 The collaborative structure of the Combatting Bias project is visualised below through a three-tiered circular diagram. The innermost circle features the core members, directly involved in the project's daily operations. The second circle displays the four partner projects, indicating close collaborations. The outermost circle categorises the advisor projects by their expertise areas, showcasing the extensive support network and the diverse knowledge contributing to the project.
 
 
-[<img src="../static/img/ORCID_iD.svg" alt="orcid logo" style="width:2%;">]
+<img src="../static/img/Kickoff Combatting Bias Presentationpptx.jpg" alt="orcid logo" style="width:90%;">
