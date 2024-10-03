@@ -1,10 +1,10 @@
 _Combatting Bias_ works closely with partner projects, which will play a pivotal role in data sharing, collaboration, and knowledge exchange. These partner projects have a shared focus on data related to colonialism and slavery and as a practical matter, already deal with:
 
-**1. Dataset Creation:** They specialise in creating and organising data sourced from colonial archives, encompassing named and unnamed individuals, places, and polities across Asia, Africa, and the Americas.
+1. **Dataset Creation:** They specialise in creating and organising data sourced from colonial archives, encompassing named and unnamed individuals, places, and polities across Asia, Africa, and the Americas.
 
-**2. Addressing Historical Imbalances:** The partner projects work to counterbalance archival silences and rectify historiographic imbalances.
+2. **Addressing Historical Imbalances:** The partner projects work to counterbalance archival silences and rectify historiographic imbalances.
 
-**3. Ethical Considerations:** The coalition is deeply committed to addressing ethical dilemmas inherent in creating and (re)presenting data related to colonial histories.
+3. **Ethical Considerations:** The coalition is deeply committed to addressing ethical dilemmas inherent in creating and (re)presenting data related to colonial histories.
 
 These projects are:
 
