@@ -11,9 +11,11 @@ theme:
   features:
     # - navigation.instant
     - navigation.tracking
-    - navigation.sections
+    # - navigation.sections
     - navigation.path
     - navigation.top
+    # this will create tabs in our navigation bar:
+    - navigation.tabs
 
 nav:
   - Home: About/The Project.md
