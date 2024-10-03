@@ -14,7 +14,7 @@ The Slave Voyages project is a comprehensive digital resource that documents the
 
 ## Slave Registers
 
-<img src="../static/img/slaveregisters.jpeg" alt="slave registers" style="width:80%;">
+<img src="../static/img/slaveregisters.jpeg" alt="slave registers" style="width:50%;">
 
 
 ## Exploring Slave Trade in Asia (ESTA)
