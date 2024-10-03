@@ -14,7 +14,7 @@ The Slave Voyages project is a comprehensive digital resource that documents the
 
 ## Slave Registers
 
-<img src="../static/img/slaveregisters.jpeg" alt="orcid logo" style="width:60%;">
+<img src="../static/img/slaveregisters.jpeg" alt="slave registers" style="width:60%;">
 
 
 ## Exploring Slave Trade in Asia (ESTA)
