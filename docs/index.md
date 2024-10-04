@@ -10,6 +10,6 @@ Research within the social sciences and humanities (SSH) depends significantly o
 Combatting Bias is funded by the Dutch Research Council (NWO) via the Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH).
 
 
-
+<img src="/static/img/Kickoff Combatting Bias Presentationpptx.jpg" alt="collaborations" style="width:90%;">
     
 
