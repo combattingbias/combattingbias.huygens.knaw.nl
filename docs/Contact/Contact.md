@@ -1,3 +1,3 @@
-We welcome any feedback and/or questions regarding the project. Please also get in touch for inquiries about working together. 
+We value your input and are always eager to hear from you. Whether you have feedback about our project, questions you'd like answered, or are interested in potential collaboration opportunities, please reach out!
 
-You can write to us at: combattingbias[at]gmail[dot]com
+You can contact us via email at: combattingbias[at]gmail[dot]com
