@@ -10,6 +10,6 @@ Research within the social sciences and humanities (SSH) depends significantly o
 Combatting Bias is funded by the Dutch Research Council (NWO) via the Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH).
 
 
-<img src="/static/img/7_Dayanita-Singh_Museum-of-Chance_2013_©_Dayanita-Singh.webp" alt="Museum of Chance" style="width:90%;">
+<img src="/static/img/7_Dayanita-Singh_Museum-of-Chance_2013_©_Dayanita-Singh.webp" alt="Museum of Chance" title="Dayanita Singh, Museum of Chance, 2013. © Dayanita Singh" style="width:100%;">
     
 
