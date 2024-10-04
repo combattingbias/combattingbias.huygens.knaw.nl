@@ -39,6 +39,15 @@ body {
   color: black;
 }
 
+.md-grid {
+  max-width: 100%;
+  margin: 0;
+}
+
+.md-main__inner {
+  margin: 0;
+  padding: 0 1rem;
+}
 
 @media screen and (min-width: 76.25em) {
   label.md-nav__title {
