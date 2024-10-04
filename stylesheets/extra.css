@@ -45,31 +45,32 @@ body {
   padding: 0;
 }
 
-/* Adjust the grid layout if it exists */
+/* Increase the maximum width of the main container */
 .md-grid {
-  max-width: 100%;
-  margin: 0;
+  max-width: 1440px; /* Adjust this value as needed */
 }
 
-/* Modify the main content area */
-.md-main__inner {
-  margin: 0;
-  padding: 0 1rem; /* Adjust this value as needed */
-}
-
-/* Ensure the content itself spans the full width */
+/* Ensure the main content uses the full width */
 .md-content__inner {
-  margin: 0;
-  padding: 1rem; /* Adjust this value as needed */
+  margin: 0 0.8rem;
+  padding: 1.2rem 0;
+  max-width: none;
 }
 
-/* If there's a specific content wrapper, target it too */
-.md-content__inner.md-typeset {
-  max-width: 100%;
+/* Adjust the navigation drawer width if needed */
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary {
+    width: 200px; /* Adjust this value as needed */
+  }
+  .md-content {
+    margin-left: 200px; /* Should match the sidebar width */
+  }
 }
 
-  .md-nav__item--section {
-    display: block;
-    margin: 2em 0;
+/* Optional: Adjust the right sidebar (Table of Contents) if needed */
+@media screen and (min-width: 96.25em) {
+  .md-sidebar--secondary {
+    width: 200px; /* Adjust this value as needed */
+    margin-left: 1440px; /* Should match the max-width of .md-grid */
   }
 }
