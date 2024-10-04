@@ -18,7 +18,7 @@ theme:
     - navigation.tabs
 
 nav:
-  - Home: About/The Project.md
+  - Home: index.md
   #- About: about.md
   #- "Ongoing experiments":
   #    - "Transcriptions Viewer": experiments/htr-viewer.md
