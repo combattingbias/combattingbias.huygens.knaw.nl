@@ -13,3 +13,7 @@ Combatting Bias is funded by the Dutch Research Council (NWO) via the Thematic D
 <img src="/static/img/7_Dayanita-Singh_Museum-of-Chance_2013_©_Dayanita-Singh.webp" alt="Museum of Chance" title="Dayanita Singh, Museum of Chance, 2013. © Dayanita Singh" style="width:100%;">
     
 
+<figure>
+  <img src="/static/img/7_Dayanita-Singh_Museum-of-Chance_2013_©_Dayanita-Singh.webp" alt="Museum of Chance by Dayanita Singh">
+  <figcaption>Dayanita Singh, _Museum of Chance_, 2013. © Dayanita Singh</figcaption>
+</figure>
