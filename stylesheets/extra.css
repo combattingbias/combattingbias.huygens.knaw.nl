@@ -39,23 +39,37 @@ body {
   color: black;
 }
 
+/* Target the main container */
+.md-container {
+  max-width: 100%;
+  padding: 0;
+}
+
+/* Adjust the grid layout if it exists */
 .md-grid {
   max-width: 100%;
   margin: 0;
 }
 
+/* Modify the main content area */
 .md-main__inner {
   margin: 0;
-  padding: 0 1rem;
+  padding: 0 1rem; /* Adjust this value as needed */
 }
 
-@media screen and (min-width: 76.25em) {
-  label.md-nav__title {
-    display: none;
-  }
+/* Ensure the content itself spans the full width */
+.md-content__inner {
+  margin: 0;
+  padding: 1rem; /* Adjust this value as needed */
+}
+
+/* If there's a specific content wrapper, target it too */
+.md-content__inner.md-typeset {
+  max-width: 100%;
+}
 
   .md-nav__item--section {
     display: block;
-    margin: 1em 0;
+    margin: 2em 0;
   }
 }
