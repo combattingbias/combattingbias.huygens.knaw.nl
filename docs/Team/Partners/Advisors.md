@@ -39,6 +39,8 @@ The two advisors from District Six Museum are:
 
 ## FAIR Expertise Hub, Open Data Infrastructure for Social Science and Economic Innovations (ODISSEI)
 
+<img src="/static/img/FAIR" alt="FAIR expertise hub log" style="width:100%;">
+
 The FAIR Expertise Hub help communities establish their data management plans for adapting FAIR principles using their FAIR Implementation Profile. Their expertise will ensure that the project's guidelines are technically sound and its implementation is aligned with FAIR principles.
 
 The two advisors from this project are:
@@ -48,6 +50,7 @@ The two advisors from this project are:
 **Shuai Wang** is a scientific engineer at the FAIR Expertise Hub.
 
 ## Global Data Lab (GDL)
+<img src="/static/img/logo_gdl.svg" alt="GDL logo" style="width:100%;">
 
 GDL, situated at the Nijmegen School of Management, Radboud University, is an independent centre focusing on data and research. Utilising over 500 household survey datasets, GDL has created a comprehensive database encompassing information on 35 million individuals across 130+ countries, primarily in low- and middle-income regions. GDL's work involves conducting research and developing specialised databases, indices, and tools for monitoring and analysing societal status and progress. GDL's work on societal status and progress in low- and middle-income countries will inform the project's efforts to create inclusive data guidelines for the social sciences that reflect diverse global contexts and contribute to addressing historical and contemporary inequalities.
 
