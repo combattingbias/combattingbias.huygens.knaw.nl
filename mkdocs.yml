@@ -29,8 +29,8 @@ nav:
   #    - "Text-Fabric Serialization of General Missives": experiments/text-fabric-general-missives.md
   #    - "Word Embeddings": experiments/word-embeddings.md
   -  "About":
-      - "The Project": About/The Project.md
-      - "Mission": About/Mission.md
+      - "The Project": About/Mission.md
+  #   - "Mission": About/Mission.md
       - "FAIR+ Principles": About/FAIR+ Principles.md
   -  "Team": Team/Team.md
   -  "Partners": 
