@@ -29,6 +29,8 @@ Layan is the project coordinator for the project Decolonizing South East Asian S
 
 ## District Six Museum
 
+<img src="/static/img/District-Six_logo.png" alt="debias" style="width:100%;">
+
 The museum, located in the former residential area of District Six in Cape Town, South Africa, was established in 1994 as a tribute to the 60,000 forcibly relocated residents of various races during the 1970s Apartheid era. It not only commemorates this period but also actively participates in the reconstruction of the neighbourhood. These efforts aim to foster a community where dignity, identity, and the coexistence of different races are respected and celebrated. Their experiences in memorialisation and community engagement through the lens of apartheid's history will inform the project's approach to addressing historical injustices and biases.
 
 The two advisors from District Six Museum are:
