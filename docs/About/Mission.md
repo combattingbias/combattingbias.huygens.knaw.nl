@@ -1,8 +1,10 @@
-Our mission is to promote ethical and responsible data practices in the humanities and social sciences by developing comprehensive guidelines for creating datasets that are not only technically sound, but also fair, transparent and inclusive, and respectful of diverse perspectives and experiences.**
+**Our mission is to promote ethical and responsible data practices in the humanities and social sciences by developing comprehensive guidelines for creating datasets that are not only technically sound, but also fair, transparent and inclusive, and respectful of diverse perspectives and experiences.**
 
-> Working definition of bias:
-> **Bias** (n.) *disproportionate weight in favour of or against an idea or thing*
-> **Biased datasets** collections of data that disproportionately represent certain perspectives or groups
+___
+Working definition of bias: <br>
+**Bias** (n.) *disproportionate weight in favour of or against an idea or thing* <br>
+**Biased datasets** collections of data that disproportionately represent certain perspectives or groups
+___
 
 We believe this research is relevant and necessary, as epistemic systems and data creation are deeply intertwined. The increasing use of data in the field of SSH has allowed for more diversity in approaches to research questions, as well as broaden the possible range of questions that can be asked. However, historical data used in SSH research is by nature overwhelmed by biases, impacted by the author’s positionality and context, producing problematic language and categorisations. The complexity of this issue in the field of SSH lies within the fact that these skewed perspectives cannot simply be replaced with less biased alternatives (a ‘rewriting’ of the archives). Instead, we believe it is the responsibility of the dataset creators to critically reflect on the biases of the source data, and to acknowledge, contextualise and inform users about these. Combatting Bias underlines the necessity for responsible and transparent strategies to navigate these biases. Thus, we aim to create lasting and flexible handholds for dataset creators to guide them in this process. 
 
