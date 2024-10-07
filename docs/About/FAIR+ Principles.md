@@ -1,5 +1,6 @@
 Combatting Bias is aimed to tackle both the technological and ethical complexities surrounding data collection and dataset creation. 
 
+##FAIR 
 For the former, FAIR principles (Findable, Accessible, Interoperable, Reusable) have been established to guide the creation of human (re)usable and machine-usable scholarly data. In the field of SSH, the FAIR principles are a useful guide to make historical data easily (re)usable in the long-term, to the benefit of current and future research. Moreover, FAIR principles emphasise the importance of machine-usability as well. 
 
 **Findable**: 
@@ -23,6 +24,7 @@ For the former, FAIR principles (Findable, Accessible, Interoperable, Reusable) 
 
 See more about FAIR: https://www.go-fair.org/ 
 
+## +
 We believe it is necessary for historical data to be scrutinised at an ethical level. Historical sources are never objective and must be contextualised - the same goes for historical datasets based on those sources. This includes (re)considering certain concepts (such as gender and ethnicity), as well as critically examining the positionalities of the author(s) and researcher(s). This is what is looked at within the ‘+’.
 
 **+ (ethical considerations)**:
