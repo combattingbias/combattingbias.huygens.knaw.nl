@@ -39,7 +39,7 @@ The two advisors from District Six Museum are:
 
 ## FAIR Expertise Hub, Open Data Infrastructure for Social Science and Economic Innovations (ODISSEI)
 
-<img src="/static/img/FAIR" alt="FAIR expertise hub log" style="width:100%;">
+<img src="/static/img/FAIR_expert_logo.png" alt="FAIR expertise hub log" style="width:100%;">
 
 The FAIR Expertise Hub help communities establish their data management plans for adapting FAIR principles using their FAIR Implementation Profile. Their expertise will ensure that the project's guidelines are technically sound and its implementation is aligned with FAIR principles.
 
