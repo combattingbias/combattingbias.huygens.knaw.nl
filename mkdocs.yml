@@ -54,8 +54,8 @@ markdown_extensions:
   - footnotes
 plugins:
   - search # necessary for search to work
-  #- git-revision-date-localized
-  #- mkdocs-jupyter
+  - git-revision-date-localized
+  - mkdocs-jupyter
 extra_css:
   - stylesheets/extra.css
 extra:
