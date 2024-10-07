@@ -6,7 +6,9 @@ _Combatting Bias_ works closely with partner projects, which will play a pivotal
 
 3. **Ethical Considerations:** The coalition is deeply committed to addressing ethical dilemmas inherent in creating and (re)presenting data related to colonial histories.
 
-These projects are:
+___ 
+
+Our partner projects are:
 
 ## Slave Voyages
 
