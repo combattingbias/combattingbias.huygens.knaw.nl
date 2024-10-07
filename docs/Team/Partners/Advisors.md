@@ -13,6 +13,8 @@ Dr. Caroline Drieënhuizen is assistant professor of Cultural History at the Fac
 
 ## DE-BIAS, Netherlands Institute of Sound and Vision
 
+<img src="/static/img/debias_mainlogo.png" alt="debias" style="width:100%;">
+
 The DE-BIAS project detects offensive language and suggests alternative language within these collections, leading to more informed wording. Their work on detecting and addressing offensive language will guide the project in developing sensitive and inclusive metadata practices.
 
 **Stevie Nolten** is a researcher working on coloniality and institutional accountability. Apart from research, she is also a councillor for BIJ1 and group chairperson in Utrecht.
@@ -52,6 +54,8 @@ GDL, situated at the Nijmegen School of Management, Radboud University, is an in
 **Prof. Natascha Wagner** is a professor of International Economics at the Nijmegen School of Management at Radboud University, Netherlands and the director of the GDL. 
 
 ## HAICU
+
+<img src="/static/img/haicu-logo-retina.png" alt="haicu" style="width:100%;">
 
 The HAICu project brings together AI and Digital Humanities researchers, heritage professionals, and interested citizens to work together to achieve scientific breakthroughs in order to open up, link, and analyse large-scale digital heritage collections. 
 
