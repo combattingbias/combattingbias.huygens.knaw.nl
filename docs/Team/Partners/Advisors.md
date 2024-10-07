@@ -11,22 +11,15 @@ Jeftha Pattikawa is a project manager Diversity, Equity, and Inclusion (DEI) and
 
 Dr. Caroline Drieënhuizen is assistant professor of Cultural History at the Faculty of Law and Humanities, Open University of the Netherlands. Her focus is on the European cultural aspects of colonialism and Indonesia's decolonisation, approached through a museological and object-driven perspective in Indonesia, the Netherlands, and Europe. Dr. Drieënhuizen will help offer critical insights into ethical considerations and narrative framing within the project.
 
-
 ## DE-BIAS, Netherlands Institute of Sound and Vision
 
 The DE-BIAS project detects offensive language and suggests alternative language within these collections, leading to more informed wording. Their work on detecting and addressing offensive language will guide the project in developing sensitive and inclusive metadata practices.
 
-### Stevie Nolten
+**Stevie Nolten** is a researcher working on coloniality and institutional accountability. Apart from research, she is also a councillor for BIJ1 and group chairperson in Utrecht.
 
-Stevie is a researcher working on coloniality and institutional accountability. Apart from research, she is also a councillor for BIJ1 and group chairperson in Utrecht.
+**Isabel Beirigo** is a research communications specialist working on the DE-BIAS project and is a member of the working group on decolonisation, at the International Council of Museums (ICOM).
 
-### Isabel Beirigo
-
-Isabel is a research communications specialist working on the DE-BIAS project and is a member of the working group on decolonisation, at the International Council of Museums (ICOM).
-
-### Monique Groot
-
-Monique is a product manager of research and cultural heritage. 
+**Monique Groot** is a product manager of research and cultural heritage. 
 
 ## Layan Nijem
 
@@ -38,13 +31,9 @@ The museum, located in the former residential area of District Six in Cape Town,
 
 The two advisors from District Six Museum are:
 
-### Mandy Sanger
+**Mandy Sanger**, as the Head of Education at the District Six Museum, facilitates youth and community engagement through creative, hands-on experiences. Her work focuses on fostering resilience and solidarity, challenging societal norms of power and privilege, and promoting an egalitarian future through anti-racism programs and reimagining public spaces with a humanising approach.
 
-Mandy Sanger, as the Head of Education at the District Six Museum, facilitates youth and community engagement through creative, hands-on experiences. Her work focuses on fostering resilience and solidarity, challenging societal norms of power and privilege, and promoting an egalitarian future through anti-racism programs and reimagining public spaces with a humanising approach.
-
-### Tina Smith
-
-Tina Smith, Head of Collections at the District Six Museum, has played a pivotal role in the development of the museum’s curatorial framework and her work seeks to address ways of rethinking notions of memorialisation.
+**Tina Smith**, Head of Collections at the District Six Museum, has played a pivotal role in the development of the museum’s curatorial framework and her work seeks to address ways of rethinking notions of memorialisation.
 
 ## FAIR Expertise Hub, Open Data Infrastructure for Social Science and Economic Innovations (ODISSEI)
 
@@ -52,27 +41,18 @@ The FAIR Expertise Hub help communities establish their data management plans fo
 
 The two advisors from this project are:
 
-### Angelica M. Maineri
+**Angelica M. Maineri** is a data manager at ODISSEI, where she works to enhance data accessibility for the social science research community, implementing FAIR principles and developing resources like the ODISSEI code library.
 
-Angelica is a data manager at ODISSEI, where she works to enhance data accessibility for the social science research community, implementing FAIR principles and developing resources like the ODISSEI code library.
-
-### Shuai Wang
-
-Shuai Wang is a scientific engineer at the FAIR Expertise Hub.
+**Shuai Wang** is a scientific engineer at the FAIR Expertise Hub.
 
 ## Global Data Lab (GDL)
 
 GDL, situated at the Nijmegen School of Management, Radboud University, is an independent centre focusing on data and research. Utilising over 500 household survey datasets, GDL has created a comprehensive database encompassing information on 35 million individuals across 130+ countries, primarily in low- and middle-income regions. GDL's work involves conducting research and developing specialised databases, indices, and tools for monitoring and analysing societal status and progress. GDL's work on societal status and progress in low- and middle-income countries will inform the project's efforts to create inclusive data guidelines for the social sciences that reflect diverse global contexts and contribute to addressing historical and contemporary inequalities.
 
-
-### Prof. Natascha Wagner
-
-Prof. Natascha Wagner is a professor of International Economics at the Nijmegen School of Management at Radboud University, Netherlands and the director of the GDL. 
+**Prof. Natascha Wagner** is a professor of International Economics at the Nijmegen School of Management at Radboud University, Netherlands and the director of the GDL. 
 
 ## HAICU
 
 The HAICu project brings together AI and Digital Humanities researchers, heritage professionals, and interested citizens to work together to achieve scientific breakthroughs in order to open up, link, and analyse large-scale digital heritage collections. 
 
-### Prof. Julia Noordegraaf
-
-Prof. Julia Noordegraaf is professor of Digital Heritage and director of the Amsterdam Center of Cultural Heritage and Identity (ACHI) at the University of Amsterdam. 
+**Prof. Julia Noordegraaf** is professor of Digital Heritage and director of the Amsterdam Center of Cultural Heritage and Identity (ACHI) at the University of Amsterdam. 
