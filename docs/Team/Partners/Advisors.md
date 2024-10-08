@@ -67,6 +67,6 @@ The HAICu project brings together AI and Digital Humanities researchers, heritag
 **Prof. Julia Noordegraaf** is professor of Digital Heritage and director of the Amsterdam Center of Cultural Heritage and Identity (ACHI) at the University of Amsterdam. 
 
 ## Hub Global Labour Conflicts 
-The Hub Global Labour Conflicts provides scholars, students, activists, and other interested audiences with historical and contemporary data on workers’ collective actions. The project is currently expanding its scope to include data from all over the world, as well as reconsidering concepts around "labour". It aims to be a central resource for freely accessible global labour conflict data.
+The Hub Global Labour Conflicts provides scholars, students, activists, and other interested audiences with historical and contemporary data on workers’ collective actions. The project is currently expanding its scope to include data from all over the world, as well as reconsidering concepts around labour. It aims to be a central resource for freely accessible global labour conflict data.
 
 **Jens Aurich** is a junior researcher at the International Institute of Social History. For the Hub Global Labour Conflicts, he develops digital workflows for the collection of data on collective action from digitized sources.
