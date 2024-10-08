@@ -65,3 +65,8 @@ GDL, situated at the Nijmegen School of Management, Radboud University, is an in
 The HAICu project brings together AI and Digital Humanities researchers, heritage professionals, and interested citizens to work together to achieve scientific breakthroughs in order to open up, link, and analyse large-scale digital heritage collections. 
 
 **Prof. Julia Noordegraaf** is professor of Digital Heritage and director of the Amsterdam Center of Cultural Heritage and Identity (ACHI) at the University of Amsterdam. 
+
+## The Hub Global Labour Conflicts 
+The Hub Global Labour Conflicts provides scholars, students, activists, and other interested audiences with historical and contemporary data on workers’ collective actions. The project is currently expanding its scope to include data from all over the world, as well as reconsidering concepts around "labour". It aims to be a central resource for freely accessible global labour conflict data.
+
+**Jens Aurich** is a junior researcher at the International Institute of Social History. For the Hub Global Labour Conflicts, he develops digital workflows for the collection of data on collective action from digitized sources.
