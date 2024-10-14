@@ -14,7 +14,7 @@ Our partner projects are:
 
 The Slave Voyages project is a comprehensive digital resource that documents the forced transportation of over 12 million enslaved Africans. It combines the Trans-Atlantic and Intra-American slave trade databases, representing decades of collaborative research by international scholars. Developed by a multidisciplinary team, the project features datasets, historical information, and interactive tools. Developed at various universities, the Slave Voyages [website](https://www.slavevoyages.org/) is now hosted at Rice University, serving as a crucial resource for understanding the history and impact of the slave trade.
 
-<img src="/static/img/slavevoyages.png" alt="slave voyages" style="width:100%;">
+<img src="/static/img/sv-logo-black-01.png" alt="slave voyages" style="width:100%;">
 
 ## Historische Database van Suriname & de Cariben
 
