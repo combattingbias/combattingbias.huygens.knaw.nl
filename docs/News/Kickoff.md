@@ -37,24 +37,10 @@ Lastly, we talked about the need to include diverse perspectives in our work. Pa
 
 The group activity itself, with its many participants examining the data from various angles, was a case in point. It highlighted how diverse perspectives can reveal different kinds of biases.
 
-<style>
-  .image-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  .image-row {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-  }
-  .image-row img {
-    max-width: 45%;
-  }
-</style>
 
-<figure class="image-container">
-  <div class="image-row">
+
+<figure style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="/static/img/kickoff/breakoutgroup-analysis.jpg" width="40%" />
     <img src="/static/img/kickoff/breakoutgroup2-analysis.jpg" width="40%" />
   </div>
