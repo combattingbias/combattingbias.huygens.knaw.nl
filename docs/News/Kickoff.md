@@ -41,14 +41,14 @@ The group activity itself, with its many participants examining the data from va
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="/static/img/kickoff/breakoutgroup-analysis.jpg" width="40%" />
-    <img src="/static/img/kickoff/breakoutgroup2-analysis.jpg" width="40%" />
+    <img src="/static/img/kickoff/breakoutgroup-analysis.jpg" width="45%" />
+    <img src="/static/img/kickoff/breakoutgroup2-analysis.jpg" width="45%" />
   </div>
   <figcaption>Teams deep in dataset analysis</figcaption>
 </figure>
 
 
-The afternoon was a very encouraging start to the project. We are grateful to all the participants for their thought-provoking input and attendance. Special thanks go to Sebastiaan, Head of the Data Management Department of the Huygens Institute, and Nils Arlinghaus, Community Coordinator at the TDCC-SSH. Their presentations helped explain how Combatting Bias fits into wider research agendas. We also appreciate our colleagues from the GLOBALISE team who helped out during the breakout session.
+The afternoon was a very encouraging start to the project. We are grateful to all the participants for their thought-provoking input and attendance. Special thanks go to Sebastiaan Derks, Head of the Data Management Department of the Huygens Institute, and Nils Arlinghaus, Community Coordinator at the [TDCC-SSH](https://tdcc.nl/about-tddc/ssh/). Their presentations helped explain how Combatting Bias fits into wider research agendas. We also appreciate our colleagues from the GLOBALISE team who helped out during the breakout session.
 
-As we conclude this successful kickoff, we're energised by the challenges ahead. Creating ethical, accessible, and usable historical datasets is no small task, but it's one we're eager to tackle!
+As we conclude this successful kickoff, we're energised by the challenges ahead. Creating ethical, accessible, and usable datasets in the humanities and social sciences is no small task, but it's one we're eager to tackle!
 
