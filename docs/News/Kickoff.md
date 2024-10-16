@@ -39,8 +39,8 @@ The group activity itself, with its many participants examining the data from va
 
 <figure>
   <p float="left">
-    <img src="/static/img/kickoff/breakoutgroup-analysis.jpg" width="45%" />
-    <img src="/static/img/kickoff/breakoutgroup2-analysis.jpg" width="45%" />
+    <img src="/static/img/kickoff/breakoutgroup-analysis.jpg" width="40%" />
+    <img src="/static/img/kickoff/breakoutgroup2-analysis.jpg" width="40%" />
   </p>
   <figcaption>Teams deep in dataset analysis</figcaption>
 </figure>
