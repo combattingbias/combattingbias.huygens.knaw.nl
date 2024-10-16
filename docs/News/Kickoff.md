@@ -9,6 +9,7 @@ The day began with project introductions and research presentations, highlightin
   <figcaption>Group picture of (most of the) kickoff participants</figcaption>
 </figure>
 
+
 After the introductory presentations, participants engaged in breakout sessions where we delved into two datasets based on colonial sources: 
 
 1. Nationaal Archief's [Chinese contract labourers in Suriname](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/chinese-contractarbeiders-in-suriname-1858-1874)
@@ -43,6 +44,7 @@ The group activity itself, with its many participants examining the data from va
   </p>
   <figcaption>Teams deep in dataset analysis</figcaption>
 </figure>
+
 
 The afternoon was a very encouraging start to the project. We are grateful to all the participants for their thought-provoking input and attendance. Special thanks go to Sebastiaan, Head of the Data Management Department of the Huygens Institute, and Nils Arlinghaus, Community Coordinator at the TDCC-SSH. Their presentations helped explain how Combatting Bias fits into wider research agendas. We also appreciate our colleagues from the GLOBALISE team who helped out during the breakout session.
 
