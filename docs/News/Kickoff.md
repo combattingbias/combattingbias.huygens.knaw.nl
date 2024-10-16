@@ -11,4 +11,5 @@ The day began with project introductions and research presentations, highlightin
 
 After the introductory presentations, participants engaged in breakout sessions where we delved into two datasets based on colonial sources: 
 
-1. Nationaal Archief's 
+1. Nationaal Archief's [Chinese contract labourers in Suriname] (https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/chinese-contractarbeiders-in-suriname-1858-1874)
+2. GLOBALISE’s [Polities](https://datasets.iisg.amsterdam/dataset.xhtml?persistentId=hdl:10622/SOS0KC) dataset
