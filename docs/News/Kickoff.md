@@ -21,7 +21,7 @@ The discussions focussed on three main questions:
 2. Can you identify biases within this dataset?
 3. How is this bias combatted in the dataset? Can it be combatted?
 
-## Insights from Discussions
+<!-- ## Insights from Discussions -->
 The breakout sessions were eye-opening and raised some crucial points on creating ethical and sustainable datasets: 
 
 ### 1. Balancing Openness and Sensitivity
