@@ -5,7 +5,7 @@ repo_url: "https://github.com/combattingbias/combattingbias.huygens.knaw.nl/"
 theme:
   name: material
   # logo: static/img/logo/globalise_g.svg
-  # favicon: static/img/logo/globalise_g.svg
+  favicon: static/img/logo/combattingbias.png
   icon:
     # logo: material/flask
   features:
