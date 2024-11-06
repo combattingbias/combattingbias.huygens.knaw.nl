@@ -4,10 +4,10 @@ repo_url: "https://github.com/combattingbias/combattingbias.huygens.knaw.nl/"
 
 theme:
   name: material
-  # logo: static/img/logo/globalise_g.svg
+  logo: static/img/logo/combattingbias.png
   favicon: static/img/logo/combattingbias.png
   icon:
-    # logo: material/flask
+    logo: static/img/logo/combattingbias.png
   features:
     # - navigation.instant
     - navigation.tracking
