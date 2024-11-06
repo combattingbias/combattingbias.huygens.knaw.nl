@@ -10,14 +10,14 @@
   /* --md-default-bg-color--lightest: #23201E; */
 
   /* Primary color shades */
-  --md-primary-fg-color: #0837f9;  /* Top bar color was #33a9ac */
+  --md-primary-fg-color: #5447dc;  /* Top bar color was #33a9ac */
   --md-primary
   --md-primary-fg-color--light: #23201e;
   --md-primary-fg-color--dark: #23201e;
   --md-primary-bg-color: white;
   --md-primary-bg-color--light: #23201e;
 
-  --md-footer-bg-color: #0837f9;  /* Top bar color was #33a9ac*/
+  --md-footer-bg-color: #5447dc;  /* Top bar color was #33a9ac*/
   /* --md-footer-bg-color--dark: #33a9ac; */
   /* --md-footer-bg-color--light: #33a9ac; */
 
@@ -32,7 +32,7 @@
     --md-code-fg-color: #23201E; */
 
     /* Link color shades */
-    --md-typeset-a-color: #5447dc;
+    --md-typeset-a-color: #0837f9;
 }
 
 body {
