@@ -9,6 +9,14 @@ Research within the social sciences and humanities (SSH) depends significantly o
 
 Combatting Bias is funded by the Dutch Research Council (NWO) via the Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH). For more information about the TDCC-SSH, please visit their [website](https://tdcc.nl/about-tddc/ssh/).  
 
+<figure style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="/static/img/logo/combattingbias.png" width="45%" />
+    <img src=/static/img/TDCC-SSH-Logo_RGB.png" width="45%" />
+  </div>
+</figure>
+
+<!-- … 
 <figure>
   <img src="/static/img/TDCC-SSH-Logo_RGB.png" alt="TDCC-SSH logo">
 </figure>
@@ -17,3 +25,6 @@ Combatting Bias is funded by the Dutch Research Council (NWO) via the Thematic D
   <img src="/static/img/7_Dayanita-Singh_Museum-of-Chance_2013_©_Dayanita-Singh.webp" alt="Museum of Chance by Dayanita Singh">
   <figcaption>Dayanita Singh, Museum of Chance, 2013. © Dayanita Singh</figcaption>
 </figure>
+--> 
+
+_The project logo is designed by Jan-Pieter Karper._
