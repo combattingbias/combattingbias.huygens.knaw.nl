@@ -9,8 +9,8 @@ Research within the social sciences and humanities (SSH) depends significantly o
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="/static/img/logo/combattingbias.png" alt="Combatting Bias logo" width="45%" />
-    <img src="/static/img/TDCC-SSH-Logo_RGB.png" alt="TDCC-SSH logo" width="45%" />
+    <img src="/static/img/logo/combattingbias.png" alt="Combatting Bias logo" width="40%" />
+    <img src="/static/img/TDCC-SSH-Logo_RGB.png" alt="TDCC-SSH logo" width="50%" />
   </div>
 </figure>
 
