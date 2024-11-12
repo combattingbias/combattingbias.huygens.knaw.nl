@@ -57,6 +57,8 @@ plugins:
   - search # necessary for search to work
   - git-revision-date-localized
   - mkdocs-jupyter
+  - sitemap:
+      url: https://combattingbias.huygens.knaw.nl/
 extra_css:
   - stylesheets/extra.css
 extra:
