@@ -58,7 +58,6 @@ plugins:
   - search # necessary for search to work
   - git-revision-date-localized
   - mkdocs-jupyter
-  - simple-sitemap
 extra_css:
   - stylesheets/extra.css
 extra:
