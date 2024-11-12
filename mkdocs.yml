@@ -1,7 +1,7 @@
 site_name: Combatting Bias
 repo_name: "combattingbias/combattingbias.huygens.knaw.nl/"
 repo_url: "https://github.com/combattingbias/combattingbias.huygens.knaw.nl/"
-site_url: "https://combattingbias.huygens.knaw.nl/"
+site_url: https://combattingbias.huygens.knaw.nl/
 
 theme:
   name: material
