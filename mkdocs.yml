@@ -58,7 +58,7 @@ plugins:
   - git-revision-date-localized
   - mkdocs-jupyter
   - sitemap:
-      url: https://combattingbias.huygens.knaw.nl/
+      site_url: https://combattingbias.huygens.knaw.nl/
 extra_css:
   - stylesheets/extra.css
 extra:
