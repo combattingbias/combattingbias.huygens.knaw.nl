@@ -1,44 +1,151 @@
 :root {
-  /* Default color shades */
-  /* --md-default-fg-color: #33A9AC; */
-  /* --md-default-fg-color--light: #FF0055; */
-  /* --md-default-fg-color--lighter: #23201E; */
-  /* --md-default-fg-color--lightest: #23201E; */
-  /* --md-default-bg-color: #33A9AC; */
-  --md-default-bg-color--light: white;
-  /* --md-default-bg-color--lighter: #23201E; */
-  /* --md-default-bg-color--lightest: #23201E; */
+  /* Default colors with accessible white background */
+  --md-default-bg-color: #fafafa;
+  --md-default-bg-color--light: #ffffff;
+  
+  /* Text colors - using softer blacks for better accessibility */
+  --md-default-fg-color: #2d2d2d;
+  --md-default-fg-color--light: #424242;
+  --md-default-fg-color--lighter: #2a2a2a;
+  --md-default-fg-color--lightest: #8c8c8c;
 
-  /* Primary color shades */
-  --md-primary-fg-color: #5447dc;  /* Top bar color was #33a9ac */
-  --md-primary
-  --md-primary-fg-color--light: #23201e;
-  --md-primary-fg-color--dark: #23201e;
-  --md-primary-bg-color: white;
-  --md-primary-bg-color--light: #23201e;
+  /* Primary colors - transparent navbar */
+  --md-primary-fg-color: transparent;
+  --md-primary-fg-color--light: #424242;
+  --md-primary-fg-color--dark: #424242;
+  --md-primary-bg-color: transparent;
+  --md-primary-bg-color--light: #424242;
 
-  --md-footer-bg-color: #5447dc;  /* Top bar color was #33a9ac*/
-  /* --md-footer-bg-color--dark: #33a9ac; */
-  /* --md-footer-bg-color--light: #33a9ac; */
+  /* Footer */
+  --md-footer-bg-color: rgba(128, 128, 128, 0.457);
+  --md-footer-bg-color--dark: transparent;
+  
+  /* Accent colors */
+  --md-accent-fg-color: #424242;
+  --md-accent-bg-color: #424242;
 
-  /* Accent color shades */
-  --md-accent-fg-color: #23201e;
-  /* --md-accent-fg-color--transparent: #23201E; */
-  --md-accent-bg-color: #23201e;
-  /* --md-accent-bg-color--light: #23201E; */
+  /* Code block colors */
+  --md-code-bg-color: #f5f5f5;
+  --md-code-fg-color: #2d2d2d;
 
-  /* Code block color shades */
-  /* --md-code-bg-color: #23201E;
-    --md-code-fg-color: #23201E; */
-
-    /* Link color shades */
-    --md-typeset-a-color: #0837f9;
+  /* Link colors */
+  --md-typeset-a-color: #002FA7;
 }
 
 body {
+  color: #2d2d2d;
+}
+
+/* Navigation tabs styling */
+.md-tabs__link {
   color: black;
 }
 
+.md-tabs__link:hover {
+  color: #5447dc;
+}
+
+.md-tabs__item--active {
+  color: #002FA7;
+}
+
+/* Header and navbar styling */
+.md-header, 
+.md-header__inner,
+.md-tabs {
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+.md-header--shadow {
+  box-shadow: none;
+}
+
+.md-tabs {
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.1), 0 0.2rem 0.4rem rgba(0, 0, 0, 0.1);
+}
+
+/* Header text colors */
+.md-header__topic,
+.md-header__title,
+.md-header__button,
+.md-header__source,
+.md-header label.md-header__button {
+  color: #2d2d2d;
+}
+
+/* Search box styling */
+.md-search__input {
+  background-color: rgba(0, 0, 0, 0.05);
+  color: #2d2d2d;
+}
+
+.md-search__input::placeholder {
+  color: #424242;
+}
+
+/* Hover states */
+.md-header__button:hover,
+.md-header__topic:hover,
+.md-header__source:hover {
+  color: #002FA7;
+  opacity: 1;
+}
+
+/* Shadow on scroll */
+.md-header--shadow + .md-tabs {
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.1), 0 0.2rem 0.4rem rgba(0, 0, 0, 0.1);
+}
+
+/*COLOR SECTION ENDS*/
+
+/* Set the maximum width for the grid */
+.md-grid {
+  max-width: 1440px;
+  margin: 0 auto; /* Center the grid */
+}
+
+/* Content container styling */
+.md-content__inner {
+  max-width: 75vw;
+  margin: 0 auto; /* Center the content */
+}
+
+/* Add responsive breakpoints */
+@media screen and (max-width: 76.25em) {
+  .md-content__inner {
+    max-width: 90vw; /* Wider content on smaller screens */
+    padding: 0 1rem; /* Add some padding on smaller screens */
+  }
+}
+
+/* Mobile devices */
+@media screen and (max-width: 600px) {
+  .md-content__inner {
+    max-width: 100%; /* Full width on mobile */
+    padding: 0 0.8rem;
+  }
+}
+
+/* Add proper container spacing */
+.md-main__inner {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* For proper content alignment when navigation is hidden */
+.md-main {
+  display: flex;
+  justify-content: center;
+}
+
+.md-content {
+  flex: 1;
+  max-width: 1440px; /* Match grid max-width */
+}
+
+
+
+/*margin section ends here*/
 
 @media screen and (min-width: 76.25em) {
   label.md-nav__title {
