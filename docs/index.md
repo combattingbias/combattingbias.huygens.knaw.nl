@@ -1,7 +1,8 @@
-<!-- ---
+---
 hide:
+  - navigation
   - toc
---- -->
+---
 
 # Combatting Bias 
 
@@ -9,7 +10,7 @@ Research within the social sciences and humanities (SSH) depends significantly o
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="/static/img/logo/combattingbias.png" alt="Combatting Bias logo" width="40%" />
+    <img src="/static/img/logo/combattingbias.png" alt="Combatting Bias logo" title="The project logo is designed by Jan-Pieter Karper." width="40%" />
     <img src="/static/img/TDCC-SSH-Logo_RGB.png" alt="TDCC-SSH logo" width="50%" />
   </div>
 </figure>
@@ -25,6 +26,5 @@ Research within the social sciences and humanities (SSH) depends significantly o
 </figure>
 --> 
 
-_The project logo is designed by Jan-Pieter Karper._
 
 _Combatting Bias is funded by the Dutch Research Council (NWO) via the Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH). For more information about the TDCC-SSH, please visit their [website](https://tdcc.nl/about-tddc/ssh/)._

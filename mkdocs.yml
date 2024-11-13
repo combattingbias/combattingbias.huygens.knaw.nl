@@ -1,22 +1,36 @@
 site_name: Combatting Bias
-repo_name: "combattingbias/combattingbias.huygens.knaw.nl/"
-repo_url: "https://github.com/combattingbias/combattingbias.huygens.knaw.nl/"
+# repo_name: "combattingbias/combattingbias.huygens.knaw.nl/"
+# repo_url: "https://github.com/combattingbias/combattingbias.huygens.knaw.nl/"
 site_url: https://combattingbias.huygens.knaw.nl/
 
 theme:
   name: material
   logo: static/img/logo/combattingbias.png
-  favicon: static/img/logo/combattingbias.png
+  favicon: static/img/logo/combattingbias-icon.png
   icon:
     logo: static/img/logo/combattingbias.png
   features:
-    # - navigation.instant
-    - navigation.tracking
-    # - navigation.sections
-    - navigation.path
-    - navigation.top
-    # this will create tabs in our navigation bar:
-    - navigation.tabs
+    # Navigation fundamentals
+    - navigation.instant     # Fast page loading
+    - navigation.tracking    # URL updates with anchor targets
+    - navigation.instant.progress  # Show loading progress
+    
+    # Primary navigation setup
+    - navigation.tabs       # Top-level sections as tabs
+    - navigation.sections   # Sections in sidebar
+    - navigation.expand     # Expand all sections by default
+    
+    # Navigation enhancements
+    - navigation.path       # Breadcrumbs
+    - navigation.top        # Back to top button
+    - navigation.prune      # Reduce HTML size
+    - toc.integrate        # Table of contents in navigation
+    
+    # Search enhancements
+    - search.suggest       # Search suggestions
+
+plugins:
+  - search
 
 nav:
   - Home: index.md
@@ -61,10 +75,10 @@ plugins:
 extra_css:
   - stylesheets/extra.css
 extra:
-  social:
-    - icon: material/web
-      name: Website
-      link: https://globalise.huygens.knaw.nl/
+#   social:
+#     - icon: material/web
+#       name: Website
+#       link: https://globalise.huygens.knaw.nl/
   generator: false
 copyright: <p>
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License"
