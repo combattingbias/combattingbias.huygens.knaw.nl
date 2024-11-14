@@ -8,9 +8,9 @@ hide:
 
 <div style="display: flex; align-items: start; gap: 40px;">
    <div style="flex: 1; max-width: 60%;">
-       Research within the social sciences and humanities (SSH) depends significantly on data sources, many of which are drawn from - and therefore perpetuate - historical biases and inequalities. Combatting Bias is an initiative that aims to critically examine the use of this data, as well as define sustainable, ethical and transparent standards to which future SSH data creation can adhere to. We call these standards [FAIR+](/About/FAIR+Principles), a combination of the FAIR principles that make data technically sound; together with +, to ensure data is ethically sound as well. We conduct this research in [collaboration](/Team/Team) with four projects creating datasets from colonial archives and ten advisors from the social sciences and humanities.
+       Research within the social sciences and humanities (SSH) depends significantly on data sources, many of which perpetuate - historical biases and inequalities. _Combatting Bias_ is an initiative that aims to critically examine the use of this data, as well as define sustainable, ethical and transparent standards to which future SSH data creation can adhere to. We call these standards [FAIR+](../FAIR%2B%20Principles/), a combination of the FAIR principles that make data technically sound; together with +, to ensure data is ethically sound as well. We conduct this research in [collaboration](../Team/Partners) with four projects creating datasets from colonial archives and ten advisors from the social sciences and humanities.
    </div>
-   <div style="flex: 1; max-width: 40%;">
+   <div style="flex: 1; max-width: 20%;">
        <img src="/static/img/logo/combattingbias.png" alt="Combatting Bias logo" title="The project logo is designed by Jan-Pieter Karper." style="width: 100%;" />
    </div>
 </div>
