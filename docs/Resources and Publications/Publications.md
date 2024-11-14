@@ -1,8 +1,4 @@
-On this page, we will share research outputs from the Combatting Bias project. This will include publications, templates, presentations and talks. For blog posts and updates, see [here](../../News/Resource%20List/)!
 
-
-
-docs/static/img/dayanita_files.jpeg
 
 <div style="display: flex; align-items: start; gap: 40px;">
    <div style="flex: 1; max-width: 80%;">
