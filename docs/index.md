@@ -8,7 +8,7 @@ hide:
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
    <p style="flex: 2;">
-   Research within the social sciences and humanities (SSH) depends significantly on data sources, many of which are drawn from - and therefore perpetuate - historical biases and inequalities. Combatting Bias is an initiative that aims to critically examine the use of this data, as well as define sustainable, ethical and transparent standards to which future SSH data creation can adhere to. We call these standards <a href="About/FAIR+Principles.md" style="text-decoration: none; color: inherit;">FAIR+</a>, a combination of the FAIR principles that make data technically sound; together with +, to ensure data is ethically sound as well. We conduct this research in <a href="Team/Team.md" style="text-decoration: none; color: inherit;">collaboration</a> with four projects creating datasets from colonial archives and ten advisors from the social sciences and humanities.
+   Research within the social sciences and humanities (SSH) depends significantly on data sources, many of which are drawn from - and therefore perpetuate - historical biases and inequalities. Combatting Bias is an initiative that aims to critically examine the use of this data, as well as define sustainable, ethical and transparent standards to which future SSH data creation can adhere to. We call these standards [FAIR+](About/FAIR+Principles.md), a combination of the FAIR principles that make data technically sound; together with +, to ensure data is ethically sound as well. We conduct this research in [collaboration](Team/Team.md) with four projects creating datasets from colonial archives and ten advisors from the social sciences and humanities.
    </p>
 </div>
 
