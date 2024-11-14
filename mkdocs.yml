@@ -55,8 +55,8 @@ nav:
       - "Resources": Resources and Publications/Resources.md
       - "Publications": Resources and Publications/Publications.md
   -  "News":
-      - "Kickoff": News/Kickoff.md
       - "Resource List": News/Resource List.md
+      - "Kickoff": News/Kickoff.md
   -  "FAQ": FAQ/FAQ.md
   -  "Contact": Contact/Contact.md
 markdown_extensions:
