@@ -12,6 +12,7 @@ We’ve started with broad categories like **Bias**, **Dataset Creation and Docu
 * Absences/Silences
 * Representation
 * Discrimination
+* Power
 * Positionality/Situatedness
 * Categorisation
 * Interpretation 
