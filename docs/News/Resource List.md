@@ -7,15 +7,16 @@ As we begin the Combatting Bias project, we’re creating a [resource list](docs
 ## The Challenge of “Sorting Things Out”
                                                
 We’ve started with broad categories like **Bias**, **Dataset Creation and Documentation**, and **FAIR Principles**, but as we explore, we’re finding that “bias” can represent many interconnected themes, such as:
-- Transparency
-- Absences/Silences
-- Representation
-- Discrimination
-- Positionality/Situatedness
-- Categorisation
-- Interpretation 
-- Fairness
-- Truth?
+
+* Transparency
+* Absences/Silences
+* Representation
+* Discrimination
+* Positionality/Situatedness
+* Categorisation
+* Interpretation 
+* Fairness
+* Truth?
 
 ## Collaboration
 
