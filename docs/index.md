@@ -30,4 +30,3 @@ hide:
 --> 
 
 
-_Combatting Bias is funded by the Dutch Research Council (NWO) via the Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH). For more information about the TDCC-SSH, please visit their [website](https://tdcc.nl/about-tddc/ssh/)._
