@@ -21,7 +21,7 @@ We’ve started with broad categories like **Bias**, **Dataset Creation and Docu
 
 ## Collaboration
 
-While the list is currently open for viewing and suggesting resources, we’re working toward making it more manageable and community-driven in the future. **Have a resource or a better categorisation idea or ways to manage such a repository collectively?** We’d love to hear from you! Send your suggestions to combattingbias[at]gmail[dot]com.
+While the list is currently open for viewing and suggesting resources, we’re working toward making it more manageable and community-driven in the future. **Have a resource or a better categorisation idea or ways to manage such a repository collectively?** We’d love to hear from you: combattingbias[at]gmail[dot]com.
 
 
                                                
