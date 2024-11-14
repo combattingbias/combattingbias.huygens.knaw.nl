@@ -9,6 +9,7 @@ As we begin the Combatting Bias project, we’re creating a resource list[^1] to
 
 
 
+
 [^1]: We’ve been inspired by Casey Fiesler's [spreadsheet on AI Ethics and Policy news](https://docs.google.com/spreadsheets/d/11Ps8ILDHH-vojJGyIx7CcaoB5l1mBRHy3OQAgWkm0W4/edit?gid=0#gid=0)
 
 [^2]: Where possible, we’ve included links to open access publications that are not behind paywalls. However, we haven’t always been able to secure these for every resource.
