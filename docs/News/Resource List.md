@@ -1,6 +1,6 @@
 # Resource List
 
-As we begin the Combatting Bias project, we’re creating a [resource list](../Resources%20and%20Publications/Resources/)[^1] to gather and share resources on bias, dataset creation, documentation, and FAIR principles. Our goal is to build a diverse, ever-expanding collection of materials—not just academic papers, but also films, exhibitions, fiction, and more[^2]. We want this list to reflect a wide range of perspectives and approaches to bias.
+As we begin the Combatting Bias project, we’re creating a [resource list](../../Resources%20and%20Publications/Resources/)[^1] to gather and share resources on bias, dataset creation, documentation, and FAIR principles. Our goal is to build a diverse, ever-expanding collection of materials—not just academic papers, but also films, exhibitions, fiction, and more[^2]. We want this list to reflect a wide range of perspectives and approaches to bias.
 
 📂 Resource List: [Access and Contribute Here](https://docs.google.com/spreadsheets/d/17mAClY06JuPQm9qf3Z7ZmdYi08VrZboCUTOv27J6J-E/edit?gid=1318091503#gid=1318091503)
 
