@@ -1,13 +1,2 @@
-On this page, we will share research outputs from the Combatting Bias project.
+On this page, we will share research outputs from the Combatting Bias project. This will include publications, templates, presentations and talks. For blog posts and updates, see [here](../../News/Resource%20List/)!
 
-## Publications
-*Coming soon*
-
-## Guidelines & Templates
-*Coming soon*
-
-## Presentations & Talks
-*Coming soon*
-
-## Blog Posts & Updates
-See [here](../../News/Resource%20List/)
