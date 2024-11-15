@@ -45,7 +45,7 @@ nav:
   #    - "Word Embeddings": experiments/word-embeddings.md
   -  "About":
       - "The Project": about/mission.md
-  #   - "Mission": About/Mission.md
+  #   - "Mission": about/Mission.md
       - "FAIR+ Principles": about/fairplusprinciples.md
   -  "Team": team/team.md
   -  "Partners": 
