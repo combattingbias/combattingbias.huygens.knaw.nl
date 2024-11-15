@@ -9,7 +9,7 @@ Yes! We are open to feedback - especially if you have experience in the fields o
 
 If you are a user of historical datasets, we would also like to hear from you! Datasets are ultimately used by people - hence, while focusing on the ethical integrity of historical datasets, it is also important to us that the datasets and their attached documentation are easy to use. We are interested in what is important and/or challenging to different groups of users when engaging with data. 
 
-Find out how to contact us [here](Contact/Contact.md).
+Find out how to contact us [here](../../contact/contact/).
 ____
 
 **How long will the project run for?** <br>
