@@ -44,21 +44,21 @@ nav:
   #    - "Text-Fabric Serialization of General Missives": experiments/text-fabric-general-missives.md
   #    - "Word Embeddings": experiments/word-embeddings.md
   -  "About":
-      - "The Project": About/Mission.md
+      - "The Project": about/mission.md
   #   - "Mission": About/Mission.md
-      - "FAIR+ Principles": About/FAIR+ Principles.md
-  -  "Team": Team/Team.md
+      - "FAIR+ Principles": about/fairplusprinciples.md
+  -  "Team": team/team.md
   -  "Partners": 
-      - "Projects": Team/Partners/Partner Projects.md
-      - "Advisors": Team/Partners/Advisors.md
+      - "Projects": team/partners/partnerprojects.md
+      - "Advisors": team/partners/advisors.md
   -  "Resources and Publications": 
-      - "Resources": Resources and Publications/Resources.md
-      - "Publications": Resources and Publications/Publications.md
+      - "Resources": resourcesandpublications/resources.md
+      - "Publications": resourcesandpublications/publications.md
   -  "News":
-      - "Resource List": News/Resource List.md
-      - "Kickoff": News/Kickoff.md
-  -  "FAQ": FAQ/FAQ.md
-  -  "Contact": Contact/Contact.md
+      - "Resource List": news/resourcelist.md
+      - "Kickoff": news/kickoff.md
+  -  "FAQ": faq/faq.md
+  -  "Contact": contact/contact.md
 markdown_extensions:
   - toc:
       permalink: True
