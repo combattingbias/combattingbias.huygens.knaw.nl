@@ -43,10 +43,10 @@ nav:
   #    - "General Missives Search Interface": experiments/blacklab-search-interface-general-missives.md
   #    - "Text-Fabric Serialization of General Missives": experiments/text-fabric-general-missives.md
   #    - "Word Embeddings": experiments/word-embeddings.md
-  -  "About":
-      - "The Project": /about/mission.md
+  -  About:
+      - The Project: about/mission.md
   #   - "Mission": about/Mission.md
-      - "FAIR+ Principles": about/fairplusprinciples.md
+      - FAIR+ Principles: about/fairplusprinciples.md
   -  "Team": team/team.md
   -  "Partners": 
       - "Projects": team/partners/partnerprojects.md
