@@ -13,7 +13,9 @@ Dr. Caroline Drieënhuizen is assistant professor of Cultural History at the Fac
 
 ## DE-BIAS, Netherlands Institute of Sound and Vision
 
-<img src="/static/img/debias_mainlogo.png" alt="debias" style="width:100%;">
+<div style="text-align: center;">
+<img src="/static/img/debias_mainlogo.png" alt="DE-BIAS project logo" class="responsive-image">
+</div>
 
 The DE-BIAS project detects offensive language and suggests alternative language within these collections, leading to more informed wording. Their work on detecting and addressing offensive language will guide the project in developing sensitive and inclusive metadata practices.
 
@@ -29,7 +31,9 @@ Layan is the project coordinator for the project Decolonizing South East Asian S
 
 ## District Six Museum
 
-<img src="/static/img/District-Six_logo.png" alt="District Six" style="width:95%;">
+<div style="text-align: center;">
+<img src="/static/img/District-Six_logo.png" alt="District Six museum logo" class="responsive-image">
+</div>
 
 The museum, located in the former residential area of District Six in Cape Town, South Africa, was established in 1994 as a tribute to the 60,000 forcibly relocated residents of various races during the 1970s Apartheid era. It not only commemorates this period but also actively participates in the reconstruction of the neighbourhood. These efforts aim to foster a community where dignity, identity, and the coexistence of different races are respected and celebrated. Their experiences in memorialisation and community engagement through the lens of apartheid's history will inform the project's approach to addressing historical injustices and biases.
 
@@ -41,7 +45,9 @@ The two advisors from District Six Museum are:
 
 ## FAIR Expertise Hub, Open Data Infrastructure for Social Science and Economic Innovations (ODISSEI)
 
-<img src="/static/img/FAIR_expert_logo.png" alt="FAIR expertise hub log" style="width:100%;">
+<div style="text-align: center;">
+<img src="/static/img/FAIR_expert_logo.png" alt="FAIR expertise hub log" class="responsive-image">
+</div>
 
 The FAIR Expertise Hub help communities establish their data management plans for adapting FAIR principles using their FAIR Implementation Profile. Their expertise will ensure that the project's guidelines are technically sound and its implementation is aligned with FAIR principles.
 
@@ -52,7 +58,10 @@ The two advisors from this project are:
 **Shuai Wang** is a scientific engineer at the FAIR Expertise Hub.
 
 ## Global Data Lab (GDL)
-<img src="/static/img/logo_gdl.svg" alt="GDL logo" style="width:100%;">
+
+<div style="text-align: center;">
+<img src="/static/img/logo_gdl.svg" alt="GDL project logo" class="responsive-image">
+</div>
 
 GDL, situated at the Nijmegen School of Management, Radboud University, is an independent centre focusing on data and research. Utilising over 500 household survey datasets, GDL has created a comprehensive database encompassing information on 35 million individuals across 130+ countries, primarily in low- and middle-income regions. GDL's work involves conducting research and developing specialised databases, indices, and tools for monitoring and analysing societal status and progress. GDL's work on societal status and progress in low- and middle-income countries will inform the project's efforts to create inclusive data guidelines for the social sciences that reflect diverse global contexts and contribute to addressing historical and contemporary inequalities.
 
@@ -60,7 +69,9 @@ GDL, situated at the Nijmegen School of Management, Radboud University, is an in
 
 ## HAICU
 
-<img src="/static/img/haicu-logo-retina.png" alt="haicu" style="width:100%;">
+<div style="text-align: center;">
+<img src="/static/img/haicu-logo-retina.png" alt="HAICu project logo" class="responsive-image">
+</div>
 
 The HAICu project brings together AI and Digital Humanities researchers, heritage professionals, and interested citizens to work together to achieve scientific breakthroughs in order to open up, link, and analyse large-scale digital heritage collections. 
 
