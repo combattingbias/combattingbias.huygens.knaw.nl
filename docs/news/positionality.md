@@ -19,6 +19,15 @@ This is especially important, because history itself is a collection of multiple
 
 I think including the ‘I’ is one way to openly acknowledge biases that are present in an author’s positionality. There is power in this recognition, as well as value in enabling transparent discussion. History writing, after all, is inherently subjective, and consequently, history itself consists of (opposing) narratives and experiences. Understanding the human nature of this is crucial - only then can we properly reflect on biases present in historical research and navigate them effectively.
 
+<figure>
+  <img src="/static/img/Van_Eyck_-_Arnolfini_Portrait.jpg" alt="arnolfini portrait">
+  <img src="/static/img/amberpositionality.jpg" alt="amber photo">
+  <figcaption> Figures 1 and 2: I am here! </br>
+   Left: Jan van Eyck, The Arnolfini Portrait. Above the mirror is the inscription: Johannes de Eyck fuit hic. 1434 (Jan van Eyck was here. 1434). </br>
+   Right: Street view in reflection in Busan, South Korea. At the bottom of the mirror, you can see me take the photograph. 
+ </figcaption>
+</figure>
+
 ---
 #### Bibliography and further reading
 UCB Writing Centre. “How to Avoid Using First Person Point of View in Academic Writing,” 2013. https://blogs.ubc.ca/writingcentre/files/2013/01/Tutor-project-Avoid-First-Person-POV.pdf.
