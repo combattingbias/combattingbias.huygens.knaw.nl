@@ -8,7 +8,7 @@ hide:
 
 <div class="flex-container">
    <div class="text-block">
-       Research within the social sciences and humanities (SSH) depends significantly on data sources, many of which perpetuate - historical biases and inequalities. <em>Combatting Bias</em> is an initiative that aims to critically examine the use of this data, as well as define sustainable, ethical and transparent standards to which future SSH data creation can adhere to. We call these standards <a href="about/fairplusprinciples/">FAIR+</a>, a combination of the FAIR principles that make data technically sound; together with +, to ensure data is ethically sound as well. We conduct this research in <a href="team/partners/partnerprojects/">collaboration</a> with four projects creating datasets from colonial archives and ten advisors from the social sciences and humanities.
+       Research within the social sciences and humanities (SSH) depends significantly on data sources, many of which perpetuate historical biases and inequalities. <em>Combatting Bias</em> is an initiative that aims to critically examine the use of this data, as well as define sustainable, ethical and transparent standards to which future SSH data creation can adhere to. We call these standards <a href="about/fairplusprinciples/">FAIR+</a>, a combination of the FAIR principles that make data technically sound; together with +, to ensure data is ethically sound as well. We conduct this research in <a href="team/partners/partnerprojects/">collaboration</a> with four projects creating datasets from colonial archives and ten advisors from the social sciences and humanities.
    </div>
    <div class="image-block">
        <img src="/static/img/logo/combattingbias.png" alt="Combatting Bias logo" title="Combatting Bias project logo, designed by Jan-Pieter Karper." />
@@ -32,6 +32,13 @@ hide:
        </a>
    </div>
 </div>
+
+<div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
+  <div class="text-block">
+    Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>, <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://x.com/combattingbias" target="_top">X</a>!
+  </div>
+</div>
+    
 
 <!--
 <div style="display: flex; align-items: start; gap: 40px;">
