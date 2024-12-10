@@ -19,7 +19,7 @@ Combatting Bias is a collaborative project. We are grateful to work closely toge
 </div>
 
 ## Objectives 
-In short, the objectives of the project are threefold: 
+In short, the objectives of the project are the following: 
 
 1. **Identify biases**: critically reflect on existing datasets and the dataset creation process. This leads to insights into what is disproportionately represented in datasets.
 2. **Mitigate biases**: develop guidelines to aid researchers in creating ethical and sustainable datasets through transparent, contextual and FAIR documentation. 
