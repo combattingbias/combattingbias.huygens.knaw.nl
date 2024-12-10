@@ -16,6 +16,12 @@ hide:
 </div>
 
 <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
+  <div class="text-block">
+    Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>, <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://x.com/combattingbias" target="_top">X</a>!
+  </div>
+</div>
+
+<div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
    <p class="text-block"><em>Combatting Bias is funded by the <a href="https://nwo.nl" target="_top">Dutch Research Council (NWO)</a> via the  <a href="https://tdcc.nl" target="_blank">Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH)</a>. For more information about the TDCC-SSH, please visit their website.</em></p>
    <div class="image-block">
        <a href="https://tdcc.nl" target="_blank">
@@ -33,11 +39,7 @@ hide:
    </div>
 </div>
 
-<div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
-  <div class="text-block">
-    Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>, <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://x.com/combattingbias" target="_top">X</a>!
-  </div>
-</div>
+
     
 
 <!--
