@@ -211,3 +211,7 @@ body {
       width: 150px;
   }
 }
+
+figure figcaption {
+    text-align: center;
+}
