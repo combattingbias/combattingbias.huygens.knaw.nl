@@ -35,8 +35,8 @@ I think including the ‘I’ is one way to openly acknowledge biases that are p
 
 <figure>
 <p align="middle">
-  <img align="top" src="/static/img/Van_Eyck_-_Arnolfini_Portrait.jpg" alt="arnolfini portrait"/>
-  <img align="top" src="/static/img/amberpositionalityphoto.jpg" alt="amber photo" />
+  <img align="top" src="/static/img/Van_Eyck_-_Arnolfini_Portrait.jpg" alt="arnolfini portrait" width="100"/>
+  <img align="top" src="/static/img/amberpositionalityphoto.jpg" alt="amber photo" width="100"/>
 </p>
   <figcaption>
     Figures 1 and 2: I am here! </br>
