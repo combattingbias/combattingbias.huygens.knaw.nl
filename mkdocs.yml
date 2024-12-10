@@ -55,6 +55,7 @@ nav:
       - "Resources": resourcesandpublications/resources.md
       - "Publications": resourcesandpublications/publications.md
   -  "News":
+      - "‘I’ am here! The necessity of acknowledging the historian in scholarship.": news/positionality.md
       - "Resource List": news/resourcelist.md
       - "Kickoff": news/kickoff.md
   -  "FAQ": faq/faq.md
