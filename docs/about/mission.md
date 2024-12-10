@@ -13,7 +13,7 @@ We will therefore produce a set of guidelines for data creation that we call [FA
 
 ## Network of expertise
 <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
-   <p class="text-block">Combatting Bias is a collaborative project. We are grateful to work closely together with [four partner projects](../../team/partners/partnerprojects) and [ten advisors](../../team/partners/advisors), who will shape our guidelines, through insights into their experiences and expertise in dataset creation, (digital) heritage, decolonisation, fair data, and DEI. Through the wide range of perspectives, we will be able to develop comprehensive FAIR+ guidelines that effectively address data bias in SHH. The project itself is also embedded in two research institutes: Huygens Institute and the International Institute of Social History (IISH).</p>
+   <p class="text-block">Combatting Bias is a collaborative project. We are grateful to work closely together with <a href="../../team/partners/partnerprojects" target="_top">four partner projects</a> and <a href="../../team/partners/advisors" target="_top">ten advisors</a> who will shape our guidelines, through insights into their experiences and expertise in dataset creation, (digital) heritage, decolonisation, fair data, and DEI. Through the wide range of perspectives, we will be able to develop comprehensive FAIR+ guidelines that effectively address data bias in SHH. The project itself is also embedded in two research institutes: Huygens Institute and the International Institute of Social History (IISH).</p>
    <div class="image-block">
        <a href="https://iisg.amsterdam/nl" target="_blank">
            <img src="/static/img/iisglogo.png" alt="IISG logo"/>
