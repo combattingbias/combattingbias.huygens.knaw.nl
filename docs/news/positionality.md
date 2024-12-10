@@ -20,7 +20,9 @@ This is especially important, because history itself is a collection of multiple
 I think including the ‘I’ is one way to openly acknowledge biases that are present in an author’s positionality. There is power in this recognition, as well as value in enabling transparent discussion. History writing, after all, is inherently subjective, and consequently, history itself consists of (opposing) narratives and experiences. Understanding the human nature of this is crucial - only then can we properly reflect on biases present in historical research and navigate them effectively.
 
 <figure>
-  <img src="/static/img/Van_Eyck_-_Arnolfini_Portrait.jpg" alt="arnolfini portrait">
+  <img src="/static/img/Van_Eyck_-_Arnolfini_Portrait.jpg" alt="arnolfini portrait"> </figure>
+
+<figure>
   <img src="/static/img/amberpositionality.jpg" alt="amber photo">
   <figcaption> Figures 1 and 2: I am here! </br>
    Left: Jan van Eyck, The Arnolfini Portrait. Above the mirror is the inscription: Johannes de Eyck fuit hic. 1434 (Jan van Eyck was here. 1434). </br>
