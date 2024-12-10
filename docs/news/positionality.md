@@ -39,7 +39,7 @@ I think including the ‘I’ is one way to openly acknowledge biases that are p
 </p>
 <p align="middle">
  Figures 1 and 2: I am here! </br>
-   Left: Jan van Eyck, The Arnolfini Portrait (1434). Inscription above the mirror: Johannes de Eyck fuit hic. 1434 (Jan van Eyck was here. 1434). </br>
+   Left: Jan van Eyck, The Arnolfini Portrait (1434). Inscription above the mirror: <em>Johannes de Eyck fuit hic. 1434 </em> (Jan van Eyck was here. 1434). </br>
    Right: Street view in reflection, Busan, South Korea (2024). At the bottom of the mirror, you can see me take the photograph. 
 </p>
 
