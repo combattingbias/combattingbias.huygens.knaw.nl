@@ -17,7 +17,7 @@ hide:
 
 <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
   <div class="text-block">
-    Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>, <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://x.com/combattingbias" target="_top">X</a>!
+    Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>, <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://bsky.app/profile/combattingbias.mastodon.social.ap.brid.gy" target="_top">Bluesky</a>!
   </div>
 </div>
 
