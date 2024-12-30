@@ -8,9 +8,9 @@
 
 **Amber Zijlma _(Huygens Institute)_** [<img src="/static/img/ORCID_iD.svg" alt="orcid logo" style="width:2%;">](https://orcid.org/0009-0005-8529-6190) works as a Researcher on the Combatting Bias project, evaluating data governance practices and strategies of dataset creation on their ethical sustainability, through the consideration of critical archival and decolonial scholarship. Her previous research has focused on global and colonial histories, with a special interest in the positionality of Chinese labour migrants in European colonial societies within Asia and Africa.
 
-_You can email us at
-[firstname].[lastname]@huygens.knaw.nl (Lodewijk, Manjusha, Mrinalini and Amber)
-[firstname].[lastname]@iisg.knaw.nl (Richard)_
+_You can email us at </br>
+**[firstname].[lastname]@huygens.knaw.nl** (Lodewijk, Manjusha, Mrinalini and Amber) </br>
+**[firstname].[lastname]@iisg.knaw.nl** (Richard)_
 
 ___
 
