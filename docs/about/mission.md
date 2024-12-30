@@ -19,6 +19,11 @@ We will therefore produce a set of guidelines for data creation that we call [FA
            <img src="/static/img/iisglogo.png" alt="IISG logo"/>
        </a>
    </div>
+   <div class="image-block">
+       <a href="https://www.huygens.knaw.nl" target="_blank">
+           <img src="/static/img/Huygens-Instituut-RGB.svg" alt="Huygens Institute logo" />
+       </a>
+   </div>
 </div>
 
 ## Objectives 
