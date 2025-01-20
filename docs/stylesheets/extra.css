@@ -106,6 +106,38 @@ body {
 
 /* Content container styling */
 .md-content__inner {
+  max-width: 50ch;  /* Limit line length for better readability */
+  margin: 0 auto;
+  padding: 0 3rem;
+}
+
+.md-content {
+  flex: 1;
+  max-width: 1440px;
+}
+/* Responsive adjustments */
+@media screen and (max-width: 76.25em) {
+  .md-content__inner {
+    max-width: 50ch;
+    padding: 0 1rem;
+  }
+}
+
+/* Mobile devices */
+@media screen and (max-width: 600px) {
+  .md-content__inner {
+    max-width: 100%;
+    padding: 0 0.8rem;
+  }
+}
+/* Set the maximum width for the grid */
+.md-grid {
+  max-width: 1440px;
+  margin: 0 auto; /* Center the grid */
+}
+
+/* Content container styling */
+.md-content__inner {
   max-width: 75vw;
   margin: 0 auto; /* Center the content */
 }
