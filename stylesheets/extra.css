@@ -17,8 +17,10 @@
   --md-primary-bg-color--light: #424242;
 
   /* Footer */
-  --md-footer-bg-color: #6f6f6f;
+  --md-footer-bg-color: #595959;
   --md-footer-bg-color--dark: transparent;
+  --md-footer-fg-color--light: #ffffff; 
+
   
   /* Accent colors */
   --md-accent-fg-color: #424242;
@@ -257,3 +259,16 @@ a:hover {
   text-decoration: none;
 }
 
+/* Accessible progress bar handling */
+[role="progressbar"] {
+  display: block;
+  position: relative;
+}
+
+[role="progressbar"]::after {
+  content: attr(aria-valuetext);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  color: var(--md-default-fg-color);
+}
