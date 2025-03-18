@@ -1,7 +1,7 @@
 # Towards Creating Meaningful Infrastructures for Colonial Archives
 **Written by Renate Smit** 
 
-_This blog post was originally posted on the [Globalise website](https://globalise.huygens.knaw.nl/towards-creating-meaningful-infrastructures-for-colonial-archives/)_
+_This blog post was originally posted on the [Globalise website](https://globalise.huygens.knaw.nl/towards-creating-meaningful-infrastructures-for-colonial-archives/)._
 
 The digitization of colonial archives opens up many possibilities for exploring collections in new ways – thereby making room for previously hidden perspectives – but it also has its challenges.
 
