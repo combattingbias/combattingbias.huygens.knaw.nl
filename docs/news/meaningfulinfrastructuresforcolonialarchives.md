@@ -27,6 +27,5 @@ The principal message that was echoed by various speakers in the symposium was t
 
 <figure>
   <img src="/docs/static/img/symposium_logos_klein-1085x1536.png" alt="symposium poster">
-  <figcaption>Poster of the symposium</figcaption>
 </figure>
 
