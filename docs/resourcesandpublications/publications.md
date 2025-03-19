@@ -16,5 +16,5 @@ _COGLOSS x Globalise Webinar: Colonial Archives and Meaningful Digital Infrastru
 
 ### Events
 _Combatting Bias Project Kick-Off_ 8 October 2024 (<a href="../../news/kickoffannouncement.md/">blog</a>) – Amsterdam, NL <br/>
-_Colonial Archives and Meaningful Digital Infrastructures Symposium_ 24 January 2025 (co-organised with GLOBALISE, IISG Resisting Enslavement, and the Radboud Institute for Culture & History) (<a href="../../news/meaningfulinfrastructuresforcolonialarchives.md/">blog</a>) – Nijmegen, NL
+_Colonial Archives and Meaningful Digital Infrastructures Symposium_ 24 January 2025 (co-organised with  <a href="https://globalise.huygens.knaw.nl/">GLOBALISE</a>, <a href="https://iisg.amsterdam/en/blog/resisting-enslavement-global-historical-approach-slavery-dutch-atlantic-and-asian-empire-1620">IISG Resisting Enslavement</a>, and the <a href="https://www.ru.nl/radboud-institute-for-culture-history">Radboud Institute for Culture & History</a>) (<a href="../../news/meaningfulinfrastructuresforcolonialarchives.md/">blog</a>) – Nijmegen, NL
 
