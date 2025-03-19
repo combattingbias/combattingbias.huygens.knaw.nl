@@ -9,12 +9,12 @@
 </div>
 
 ### Talks
-_Internal Publication Parade_ at the IISG 14 January 2025 – Amsterdam, NL 
-_Colonial Archives and Meaningful Digital Infrastructures Symposium_ 24 January 2025 – Nijmegen, NL
-_Sector Event Bias in Erfgoedcollecties_ 14 March 2025 – Leuven, BE
-_COGLOSS x Globalise Webinar: Colonial Archives and Meaningful Digital Infrastructures_ 18 March 2025 – online 
+_Internal Publication Parade_ at the IISG 14 January 2025 – Amsterdam, NL <br/>
+_Colonial Archives and Meaningful Digital Infrastructures Symposium_ 24 January 2025 – Nijmegen, NL <br/>
+_Sector Event Bias in Erfgoedcollecties_ 14 March 2025 – Leuven, BE <br/>
+_COGLOSS x Globalise Webinar: Colonial Archives and Meaningful Digital Infrastructures_ 18 March 2025 – online <br/>
 
 ### Events
-_Combatting Bias Project Kick-Off_ 8 October 2024 <a href="../../news/kickoffannouncement.md/">(blog)</a> – Amsterdam, NL
-_Colonial Archives and Meaningful Digital Infrastructures Symposium_ 24 January 2025 (co-organised with GLOBALISE, IISG Resisting Enslavement, and the Radboud Institute for Culture & History) <a href="../../news/meaningfulinfrastructuresforcolonialarchives.md/">(blog)</a> – Nijmegen, NL
+_Combatting Bias Project Kick-Off_ 8 October 2024 (<a href="../../news/kickoffannouncement.md/">blog</a>) – Amsterdam, NL <br/>
+_Colonial Archives and Meaningful Digital Infrastructures Symposium_ 24 January 2025 (co-organised with GLOBALISE, IISG Resisting Enslavement, and the Radboud Institute for Culture & History) (<a href="../../news/meaningfulinfrastructuresforcolonialarchives.md/">blog</a>) – Nijmegen, NL
 
