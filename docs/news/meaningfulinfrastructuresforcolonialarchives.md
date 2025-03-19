@@ -26,6 +26,6 @@ Historian Mark Ponte and sociologist Stephanie Welvaart focused on reaching new 
 The principal message that was echoed by various speakers in the symposium was the vital need to involve different stakeholders – from researchers to people from the former colonies – in creating meaningful digital infrastructures for unlocking colonial archives. It was reiterated that the colonial archives need to be contextualized in a way that does justice to the past and offers the means to explore its contents in accordance with today’s needs. In doing so, projects and persons have to be transparent about the choices they make when creating digital infrastructures and highlight the biases that are present or still persist in the archives, and parts of the infrastructure. This ensures that users are entrusted with all the information they need to be able to use the digitized colonial archives ethically, responsibly and optimally. After all, the colonial archives hold a wide range of meanings for different people and communities. They should not only serve as a useful source for historical research but can also be a deeply personal window into the pasts of individuals and societies, revealing how colonialism shaped the past and present.
 
 <figure>
-  <img src="/docs/static/img/symposium_logos_klein-1085x1536.png" alt="symposium poster">
+  <img src="/static/img/symposium_logos_klein-1085x1536.png" alt="symposium poster">
 </figure>
 
