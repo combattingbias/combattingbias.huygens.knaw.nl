@@ -5,7 +5,7 @@ As an early modern historian, the written archive is vital to my craft. Fortunat
 
 <figure style="width: 90%; margin: 2rem auto">
   <img src="/static/img/raam_bananas.jpg" alt="man with book infront of window with bananas dangling above"> 
-  <figcaption> Brush drawing of a man, possibly Brandes himself, reading on the windowsill of probably the VOC ship Stavenisse on the route Batavia - Ceylon - Cape of Good Hope. Above the man's head hangs a bunch of bananas, colored in. Part of the sketchbook of Jan Brandes, vol. 2 (1808), p. 21. 
+  <figcaption> Brush drawing of a man, possibly Brandes himself, reading on the windowsill of probably the VOC ship Stavenisse on the route Batavia - Ceylon - Cape of Good Hope. Above the man's head hangs a bunch of bananas, colored in. Part of the sketchbook of Jan Brandes, vol. 2 (1808), p. 21. Image credit: <a href="https://id.rijksmuseum.nl/200242629">Rijksmuseum</a>.
 </figcaption> 
 </figure>
 
@@ -28,7 +28,7 @@ Just as we carefully consider and craft solutions for dealing with these very re
 
 [^3]: According to Thom, women’s history benefited from the British feminist movement and left politics. Thom, Deborah, “What happened to Gender and History,” French Journal of British Studies, Vol. XIV-4, 2008. <https://doi.org/10.4000/rfcb.5978>.
 
-[^4]: The past is a foreign country’ is the title of David Lowenthal’s popular work. Lowenthal, David, The Past is a Foreign Country (Cambridge: Cambridge University Press, 1985). 
+[^4]: 'The past is a foreign country’ is the title of David Lowenthal’s popular work. Lowenthal, David, The Past is a Foreign Country (Cambridge: Cambridge University Press, 1985). 
 
 [^5]: Memorie Van den Raad Extraordinair van India en afgaande Gouverneur en Directeur van Java’s Noord Oostcust Nicolaas Hartingh. NL-HaNA, VOC, 3000, 0103, transcription [GLOBALISE project](https://globalise.huygens.knaw.nl/){:target="_blank"}, March 2024. <https://transcriptions.globalise.huygens.knaw.nl/detail/urn:globalise:NL-HaNA_1.04.02_3000_0103>. Accessed on 14th March 2025. 
 
