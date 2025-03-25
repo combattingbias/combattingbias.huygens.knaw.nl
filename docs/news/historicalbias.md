@@ -22,18 +22,18 @@ The Dutch East India Company has left behind an obscenely voluminous archive. Wh
 Just as we carefully consider and craft solutions for dealing with these very relevant and real issues, the digitalization of the Dutch East India Company archives has flung new challenges into the mix. While previously historians had to visit archival institutions such as the National Archives in the Hague in person and pore over archival documents for days and months on end, scanned and transcribed versions of the documents can now be perused online anywhere in the world free of change. On one hand, this accessibility radically tears down biases, in terms of who previously could and who can now access and read these archives.[^7] On the other hand, it raises new questions as to how increased accessibility of the VOC archives can result in the overutilization of the digitized VOC archives at the expense of other local archives. A foreseeable and inevitable consequence of this engagement will be overrepresentation of the VOC in the writing of early modern histories. 
 
 
-[^1]: See for instance Tracy, James D. "Asian Despotism? Mughal Government as Seen From the Dutch East India Company Factory in Surat", Journal of Early Modern History 3, 3 (1999): 256-280, doi: <https://doi.org/10.1163/157006599X00260>
+[^1]: See for instance Tracy, James D. "Asian Despotism? Mughal Government as Seen From the Dutch East India Company Factory in Surat", _Journal of Early Modern History_ 3, 3 (1999): 256-280, doi: <https://doi.org/10.1163/157006599X00260>
 
-[^2]: For a penetrating analysis of this friction between recognizing these sources as records of historical occurrences, and as literary analysis and the historicity of texts, see Sanjay Subrahmanyam, In “The Company of the Mughals between Sir Thomas Roe and William Norris,”  in Mughals and Franks: Explorations in Connected History (New Delhi: Oxford University Press, 2005), 144. 
+[^2]: For a penetrating analysis of this friction between recognizing these sources as records of historical occurrences, and as literary analysis and the historicity of texts, see Sanjay Subrahmanyam, In “The Company of the Mughals between Sir Thomas Roe and William Norris,”  in _Mughals and Franks: Explorations in Connected History_ (New Delhi: Oxford University Press, 2005), 144. 
 
-[^3]: According to Thom, women’s history benefited from the British feminist movement and left politics. Thom, Deborah, “What happened to Gender and History,” French Journal of British Studies, Vol. XIV-4, 2008. <https://doi.org/10.4000/rfcb.5978>.
+[^3]: According to Thom, women’s history benefited from the British feminist movement and left politics. Thom, Deborah, “What happened to Gender and History,” _French Journal of British Studies_, Vol. XIV-4, 2008. <https://doi.org/10.4000/rfcb.5978>.
 
-[^4]: 'The past is a foreign country’ is the title of David Lowenthal’s popular work. Lowenthal, David, The Past is a Foreign Country (Cambridge: Cambridge University Press, 1985). 
+[^4]: 'The past is a foreign country’ is the title of David Lowenthal’s popular work. Lowenthal, David, _The Past is a Foreign Country_ (Cambridge: Cambridge University Press, 1985). 
 
 [^5]: Memorie Van den Raad Extraordinair van India en afgaande Gouverneur en Directeur van Java’s Noord Oostcust Nicolaas Hartingh. NL-HaNA, VOC, 3000, 0103, transcription [GLOBALISE project](https://globalise.huygens.knaw.nl/){:target="_blank"}, March 2024. <https://transcriptions.globalise.huygens.knaw.nl/detail/urn:globalise:NL-HaNA_1.04.02_3000_0103>. Accessed on 14th March 2025. 
 
-[^6]: This phrase is borrowed from Simon Schama, _The Embarrassment of Riches: An Interpretation of Dutch Culture in the Golden Age_ (New York: Random House, 1997). 
+[^6]: This phrase has been borrowed from the title of Simon Schama's book. Schama, Simon, _The Embarrassment of Riches: An Interpretation of Dutch Culture in the Golden Age_ (New York: Random House, 1997). 
 
-[^7]: See Lassig for a pertinent discussion on the subject. Simone Lässig, ‘Digital History: Challenges and Opportunities for the Profession’, Geschichte und Gesellschaft 47, no. 1 (2021): 5-34 (here: 14-15). <https://doi.org/10.13109/gege.2021.47.1.5>. 
+[^7]: See Lassig for a pertinent discussion on the subject. Simone Lässig, ‘Digital History: Challenges and Opportunities for the Profession’, _Geschichte und Gesellschaft_ 47, no. 1 (2021): 5-34 (here: 14-15). <https://doi.org/10.13109/gege.2021.47.1.5>. 
 
-[^7]: For information on the image, see: <https://id.rijksmuseum.nl/200242629>
+[^8]: For information on the image, see: <https://id.rijksmuseum.nl/200242629>
