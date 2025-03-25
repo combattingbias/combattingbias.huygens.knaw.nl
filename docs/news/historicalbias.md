@@ -32,7 +32,7 @@ Just as we carefully consider and craft solutions for dealing with these very re
 
 [^5]: Memorie Van den Raad Extraordinair van India en afgaande Gouverneur en Directeur van Java’s Noord Oostcust Nicolaas Hartingh. NL-HaNA, VOC, 3000, 0103, transcription [GLOBALISE project](https://globalise.huygens.knaw.nl/){:target="_blank"}, March 2024. <https://transcriptions.globalise.huygens.knaw.nl/detail/urn:globalise:NL-HaNA_1.04.02_3000_0103>. Accessed on 14th March 2025. 
 
-[^6]: This phrase is borrowed from Schama, Simon, _The Embarrassment of Riches: An Interpretation of Dutch Culture in the Golden Age_ (New York: Random House, 1997). 
+[^6]: This phrase is borrowed from Simon Schama, _The Embarrassment of Riches: An Interpretation of Dutch Culture in the Golden Age_ (New York: Random House, 1997). 
 
 [^7]: See Lassig for a pertinent discussion on the subject. Simone Lässig, ‘Digital History: Challenges and Opportunities for the Profession’, Geschichte und Gesellschaft 47, no. 1 (2021): 5-34 (here: 14-15). <https://doi.org/10.13109/gege.2021.47.1.5>. 
 
