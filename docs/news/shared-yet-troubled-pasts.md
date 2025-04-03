@@ -1,5 +1,4 @@
 # Uncovering Shared Yet Troubled Pasts
-_14.00-15.00h @ Spinhuis Canteen_
 
 <figure style="width: 100%; margin: 2rem auto">
   <img src="/static/img/UNCOVERING SHARED YET TROUBLED PASTS poster.png" alt="poster of image of window by Dayanita Singh and some details"> 
