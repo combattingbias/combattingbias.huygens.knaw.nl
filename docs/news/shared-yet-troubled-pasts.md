@@ -10,7 +10,7 @@ We invite you to join us for this session in the canteen of the Spinhuis. In cas
 <figure style="width: 90%; margin: 2rem auto">
   <img src="/static/img/UNCOVERING SHARED YET TROUBLED PASTS poster.png" alt="poster of image of window by Dayanita Singh and some details"> 
   <figcaption>Dayanita Singh, The File Room, 2013. © Dayanita Singh.
-This image has been used with Dayanita's permission. </a>.
+This image has been used with Dayanita's permission. </a>
 </figcaption> 
 </figure>
 
