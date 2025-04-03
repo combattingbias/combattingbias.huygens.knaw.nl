@@ -9,16 +9,7 @@ How should we deal with histories that are contested, painful and/or shameful? S
 
 In this panel presentation session, Mandy Sanger (District Six Museum), Jane Hooper (Slave Voyages) and Lotte Baltussen (Huygens/Oorlog voor de Rechter) will speak about their experiences of navigating this tension. Each focusing on a different time period and geographic region, they highlight different forms of sharing these troubled histories with their audiences, touching on plurivocality, future work, and dealing with ethical concerns. 
 
-##Sign-up
-We invite you to join us for this session in the canteen of the [Spinhuis](https://g.co/kgs/1eJzQAk). Please fill in the form below (or follow this [link](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffiiaNA1l0JdLs5tjlJ5DnJ9UMUFZSlcyODdIT1ZSVlhGSlNFSk9LVkVMVi4u)) to let us know whether you'll be joining in person or online, and we'll make sure we can accomodate everyone!
 
-<iframe
-  id="signup form"
-  title="Signup form"
-  width="100%"
-  height="800"
-  src="https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffiiaNA1l0JdLs5tjlJ5DnJ9UMUFZSlcyODdIT1ZSVlhGSlNFSk9LVkVMVi4u">
-</iframe>
 
 
 
@@ -38,3 +29,13 @@ Lotte Baltussen is a digital project manager in the cultural heritage sector. Ce
 
 
 
+##Sign-up
+We invite you to join us for this session in the canteen of the [Spinhuis](https://g.co/kgs/1eJzQAk). Please fill in the form below (or follow this [link](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffiiaNA1l0JdLs5tjlJ5DnJ9UMUFZSlcyODdIT1ZSVlhGSlNFSk9LVkVMVi4u)) to let us know whether you'll be joining in person or online, and we'll make sure we can accomodate everyone!
+
+<iframe
+  id="signup form"
+  title="Signup form"
+  width="100%"
+  height="800"
+  src="https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffiiaNA1l0JdLs5tjlJ5DnJ9UMUFZSlcyODdIT1ZSVlhGSlNFSk9LVkVMVi4u">
+</iframe>
