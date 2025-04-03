@@ -1,18 +1,26 @@
-#Uncovering Shared Yet Troubled Pasts
-_14.00-15.00h @ Spinhuis Canteen_ 
-
-How should we deal with histories that are contested, painful and/or shameful? Shared histories call for shared ownership - or at the least, shared accessibility - so that communities affected are equally a part of the dialogues that shape history. This way also gives insight into the complexity of perspectives of the past. However, careless and unrestricted “opening up” of archives also risks causing harm or perpetuating biases, paradoxically reiterating narratives from dominant powers. 
-
-In this panel presentation session, Mandy Sanger (District Six Museum), Jane Hooper (Slave Voyages) and Lotte Baltussen (Huygens/Oorlog voor de Rechter) will speak about their experiences of navigating this tension. Each focusing on a different time period and geographic region, they highlight different forms of sharing these troubled histories with their audiences, touching on plurivocality, future work, and dealing with ethical concerns. 
-
-We invite you to join us for this session in the canteen of the Spinhuis. In case you’re unable to join in person, we will also offer online attendance - please find the details on our website.
-
-<figure style="width: 90%; margin: 2rem auto">
+<figure style="width: 100%; margin: 2rem auto">
   <img src="/static/img/UNCOVERING SHARED YET TROUBLED PASTS poster.png" alt="poster of image of window by Dayanita Singh and some details"> 
   <figcaption>Dayanita Singh, The File Room, 2013. © Dayanita Singh.
 This image has been used with Dayanita's permission. </a>
 </figcaption> 
 </figure>
+
+How should we deal with histories that are contested, painful and/or shameful? Shared histories call for shared ownership - or at the least, shared accessibility - so that communities affected are equally a part of the dialogues that shape history. This way also gives insight into the complexity of perspectives of the past. However, careless and unrestricted “opening up” of archives also risks causing harm or perpetuating biases, paradoxically reiterating narratives from dominant powers. 
+
+In this panel presentation session, Mandy Sanger (District Six Museum), Jane Hooper (Slave Voyages) and Lotte Baltussen (Huygens/Oorlog voor de Rechter) will speak about their experiences of navigating this tension. Each focusing on a different time period and geographic region, they highlight different forms of sharing these troubled histories with their audiences, touching on plurivocality, future work, and dealing with ethical concerns. 
+
+##Sign-up
+We invite you to join us for this session in the canteen of the [Spinhuis](https://g.co/kgs/1eJzQAk). Please fill in the form below (or follow this [link](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffiiaNA1l0JdLs5tjlJ5DnJ9UMUFZSlcyODdIT1ZSVlhGSlNFSk9LVkVMVi4u)) to let us know whether you'll be joining in person or online, and we'll make sure we can accomodate everyone!
+
+<iframe
+  id="signup form"
+  title="Signup form"
+  width="100%"
+  height="800"
+  src="https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffiiaNA1l0JdLs5tjlJ5DnJ9UMUFZSlcyODdIT1ZSVlhGSlNFSk9LVkVMVi4u">
+</iframe>
+
+
 
 ##Speakers
 **Mandy Sanger**, [District Six Museum](https://www.districtsix.co.za/) (Cape Town, South Africa) 
