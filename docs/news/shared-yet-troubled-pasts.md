@@ -1,3 +1,6 @@
+# Uncovering Shared Yet Troubled Pasts
+_14.00-15.00h @ Spinhuis Canteen_
+
 <figure style="width: 100%; margin: 2rem auto">
   <img src="/static/img/UNCOVERING SHARED YET TROUBLED PASTS poster.png" alt="poster of image of window by Dayanita Singh and some details"> 
   <figcaption>Dayanita Singh, The File Room, 2013. © Dayanita Singh.
@@ -9,11 +12,10 @@ How should we deal with histories that are contested, painful and/or shameful? S
 
 In this panel presentation session, Mandy Sanger (District Six Museum), Jane Hooper (Slave Voyages) and Lotte Baltussen (Huygens/Oorlog voor de Rechter) will speak about their experiences of navigating this tension. Each focusing on a different time period and geographic region, they highlight different forms of sharing these troubled histories with their audiences, touching on plurivocality, future work, and dealing with ethical concerns. 
 
+**Date & time**: 12 May 2025, 14:00-15:00 <br/>
+**Location**: Spinhuis Canteen (Oudezijds Achterburgwal 185, 1012 CJ Amsterdam)
 
-
-
-
-##Speakers
+## Speakers 
 **Mandy Sanger**, [District Six Museum](https://www.districtsix.co.za/) (Cape Town, South Africa) 
 
 Mandy Sanger is the Head of Education at the District Six Museum, a museum that represents one of many urban sites of forced displacement under the apartheid regime. She focuses on youth and community engagement through creative, hands-on experiences. As the Museum is a living archive working with memory to support restitution, her work is centred on fostering resilience and solidarity, challenging societal norms of power and privilege, and promoting an egalitarian future through anti-racism programs and reimagining public spaces with a humanising pedagogy approach.
@@ -29,7 +31,7 @@ Lotte Baltussen is a digital project manager in the cultural heritage sector. Ce
 
 
 
-##Sign-up
+## Sign-up
 We invite you to join us for this session in the canteen of the [Spinhuis](https://g.co/kgs/1eJzQAk). Please fill in the form below (or follow this [link](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffiiaNA1l0JdLs5tjlJ5DnJ9UMUFZSlcyODdIT1ZSVlhGSlNFSk9LVkVMVi4u)) to let us know whether you'll be joining in person or online, and we'll make sure we can accomodate everyone!
 
 <iframe
