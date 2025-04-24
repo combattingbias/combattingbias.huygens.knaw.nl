@@ -27,7 +27,7 @@ Jane Hooper is Professor at the Department of History and Art History at George 
 
 Lotte Baltussen is a digital project manager in the cultural heritage sector. Central to her projects is user research, balancing the wishes of these users with the mission of the organisation and the possibilities and limitations of technology. She currently works as Senior Data Manager at the Huygens Institute for the Oorlog voor de Rechter-project (War in Court), which makes public the largest Dutch WWII-archive. 
 
-**CHAIR**: **Britt van Duijvenvoorde** [Resisting Enslavement](https://voices.iisg.nl/?page_id=7) (The Netherlands)
+**CHAIR**: **Britt van Duijvenvoorde**, [Resisting Enslavement](https://voices.iisg.nl/?page_id=7) (The Netherlands)
 
 Britt van Duijvenvoorde is PhD Researcher at the International Institute of Social History. With a background in philosophy and history, she currently works as part of the project _Resisting Enslavement: A Global Historical Approach to Slavery in the Dutch Atlantic and Asian Empire (1620-1815)_, where she focusses on the dialectic between resistance and enslavement. 
 
