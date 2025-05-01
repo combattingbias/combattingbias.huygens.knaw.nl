@@ -29,7 +29,7 @@ Lotte Baltussen is a digital project manager in the cultural heritage sector. Ce
 
 **CHAIR**: **Britt van Duijvenvoorde**, [Resisting Enslavement](https://voices.iisg.nl/?page_id=7) (The Netherlands)
 
-Britt van Duijvenvoorde is PhD Researcher at the International Institute of Social History. With a background in philosophy and history, she currently works as part of the project _Resisting Enslavement: A Global Historical Approach to Slavery in the Dutch Atlantic and Asian Empire (1620-1815)_, where she focusses on the dialectic between resistance and enslavement. 
+Britt van Duijvenvoorde is PhD Researcher at the International Institute of Social History. With a background in philosophy and history, she currently works as part of the project _Resisting Enslavement: A Global Historical Approach to Slavery in the Dutch Atlantic and Asian Empire (1620-1815)_, where she focuses on the intersection between local bondage systems and export slave trade in South India, and how captive individuals challenged their enslavement (with)in these systems.
 
 
 ## Sign-up
