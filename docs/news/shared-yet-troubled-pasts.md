@@ -12,7 +12,7 @@ How should we deal with histories that are contested, painful and/or shameful? S
 In this panel presentation session, Mandy Sanger (District Six Museum), Jane Hooper (Slave Voyages) and Lotte Baltussen (Huygens/Oorlog voor de Rechter) will speak about their experiences of navigating this tension. Each focusing on a different time period and geographic region, they highlight different forms of sharing these troubled histories with their audiences, touching on plurivocality, future work, and dealing with ethical concerns. 
 
 **Date & time**: 12 May 2025, 14:00-15:00 <br/>
-**Location**: Spinhuis Canteen (Oudezijds Achterburgwal 185, 1012 CJ Amsterdam)
+**Location**: Spinhuis Canteen ([Oudezijds Achterburgwal 185, 1012 CJ Amsterdam](https://g.co/kgs/ZncJeNJ))
 
 ## Speakers 
 **Mandy Sanger**, [District Six Museum](https://www.districtsix.co.za/) (Cape Town, South Africa) 
