@@ -1,6 +1,6 @@
 # Uncovering Shared Yet Troubled Pasts
 
-<figure>
+<figure style="width: 100%; max-width: 100%; margin: 0;">
   <img src="/static/img/UNCOVERING SHARED YET TROUBLED PASTS_poster.jpg" alt="poster of image of window by Dayanita Singh and some details"> 
   <figcaption>Dayanita Singh, The File Room, 2013. © Dayanita Singh.
 This image has been used with Dayanita's permission. </a>
