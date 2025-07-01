@@ -21,9 +21,11 @@ We were so pleased with how these events went – below, we’ll recap them and 
  <a href="https://combattingbias.huygens.knaw.nl/news/shared-yet-troubled-pasts/#speakers">here</a>. 
    </div>
    <div class="image-block">
-       <img src="/static/img/logo/combattingbias.png" alt="Combatting Bias logo" title="Combatting Bias project logo, designed by Jan-Pieter Karper." />
+       <img src="/static/img/mayevents/12may.jpeg" alt="introducing event" title="Amber introducing the panel presentation" />
    </div>
 </div>
+
+
 
 
 
