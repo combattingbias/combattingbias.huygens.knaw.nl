@@ -37,7 +37,7 @@ Mandy Sanger rounded the presentation panel off by introducing her work as Head 
   <img alt="jane event" src="/static/img/mayevents/12may2.jpeg" width="45%">
 </p>
 <p align="middle">
- Mandy and Jane presenting
+ <i>Mandy and Jane presenting</i>
 </p>
 
 It was really great to see how these presentations spoke to one another on this tension of inclusivity versus sensitivity – a tension already identified during our [kick-off meeting](https://combattingbias.huygens.knaw.nl/news/kickoff/) – coming from different disciplines, traditions and with different ambitions. We are grateful to Jane, Lotte, and Mandy for taking the time to prepare and present their work – and to Britt for chairing the Q&A afterwards. And thank you to all who listened in - your attention and questions and discussion made this a great afternoon. 
@@ -53,7 +53,7 @@ Our workshop was a space to reflect on the work we had done up until that point 
   <img alt="manjusha" src="/static/img/mayevents/20250513_140825.jpg">
 </p>
 <p align="middle">
- Manjusha opening the workshop
+ <i> Manjusha opening the workshop </i>
 </p>
 
 The interactivity came in the form of two activities to which we allocated most of the workshop time to. The first activity was ‘Mindmapping with Magazines’, where the main question was ‘What is bias?’. By looking at magazines, we created collages of images and words connected to the concept of bias. The second activity moved from conceptual thinking about bias to practical application of bias, where each group recommended good-better-best practices for dealing with different types of biases.
@@ -62,7 +62,8 @@ In the spirit of reflexivity and openness, and inspired by Mandy’s presentatio
 
 Bias can, and is often, used **normatively**, for example through the passing of certain laws. Apartheid was mentioned as an example of when hegemonic biases were legalised and made normative. Moreover, economic power dictates whose emotions and perspectives are represented, as some are more economically ‘valuable’ under certain political, legal and social frameworks (where biases are made normative) than others. As research needs funding to survive, these economic frameworks continue to control what perspectives are given attention, at the expense of others. 
 
-<div class="flex-container">
+<div class = "flex-container"> 
+   <div class="flex-container">
    <p align="left">
   <img alt="group1mindmapping" src="/static/img/mayevents/13may1.jpeg" width="45%">
 </p>
@@ -75,8 +76,9 @@ Bias can, and is often, used **normatively**, for example through the passing of
   <img alt="group3mindmapping" src="/static/img/mayevents/13may2.jpeg" width="45%">
 </p>
 <p align="middle">
- Groups creating their bias mindmaps
+ <i> Groups creating their bias mindmaps </i>
 </p>
+</div>
 
 Tying into this, ownership was also a concept that kept coming back. In line with the [CARE](https://www.gida-global.org/care) principles, there is the **necessity to transfer ownership** to community groups whose data it originally is. This is a way to lessen harmful impacts of bias, as there is active involvement through ownership and management from affected communities. But for this to happen, a lack of attachment to ownership from current dominant powers is necessary. This would require a change in economic structures (i.e. funding requirements), as it’s often impossible to sustain research if ownership of outputs is not secured.  
 
