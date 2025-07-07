@@ -7,7 +7,6 @@
        <a href="https://tdcc.nl" target="_blank">
            <img src="/static/img/TDCC-SSH-Logo_RGB.png" alt="TDCC-SSH logo" />
        </a>
-   </div>
 </div>
 
 On 13 May, we organised our **project workshop** for our network of collaborators. This was one of the major expected outputs for our project, as a moment to showcase our work as well as collectively think about ways forward. At the same time, as we hope to promote transparency and accessibility as required considerations for responsible research, we wanted to create an event in combination with our workshop. On 12 May, we therefore organised the open-to-all event **_Uncovering Shared Yet Troubled Pasts_**, a presentation panel with Mandy Sanger, Jane Hooper, Lotte Baltussen, and chaired by Britt van Duijvenvoorde. 
@@ -62,7 +61,7 @@ In the spirit of reflexivity and openness, and inspired by Mandy’s presentatio
 
 Bias can, and is often, used **normatively**, for example through the passing of certain laws. Apartheid was mentioned as an example of when hegemonic biases were legalised and made normative. Moreover, economic power dictates whose emotions and perspectives are represented, as some are more economically ‘valuable’ under certain political, legal and social frameworks (where biases are made normative) than others. As research needs funding to survive, these economic frameworks continue to control what perspectives are given attention, at the expense of others. 
 
-<div class = "flex-container"> 
+<div> 
    <div class="flex-container">
    <p align="left">
   <img alt="group1mindmapping" src="/static/img/mayevents/13may1.jpeg" width="45%">
