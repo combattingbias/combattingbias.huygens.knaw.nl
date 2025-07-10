@@ -21,7 +21,7 @@ We were so pleased with how these events went – below, we’ll recap them and 
        This panel hosted three researchers and practitioners, Mandy Sanger, Jane Hooper, and Lotte Baltussen, chaired by Britt van Duijvenvoorde. Each of the speakers is working with projects and/or institutions that deal with ‘opening up’ (in the widest sense of the word) a troubled past, in different time periods and regions in the world. For more information about the event and speakers, see our blog post
  <a href="https://combattingbias.huygens.knaw.nl/news/shared-yet-troubled-pasts/#speakers">here</a>. 
    </div>
-   <div class="image-block" style="width:35%">
+   <div class="image-block" style="max-width: 50%;">
        <img src="/static/img/mayevents/12may.jpeg" alt="introducing event" title="Amber introducing the panel presentation" />
    </div>
 </div>
