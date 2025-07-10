@@ -16,15 +16,12 @@ On 13 May, we organised our **project workshop** for our network of collaborator
 We were so pleased with how these events went – below, we’ll recap them and outline our takeaways for the future of this project. 
 
 ## 12 May: Uncovering Shared Yet Troubled Pasts
-<div class="flex-container" style="width:100%";>
-   <div class="text-block">
-       This panel hosted three researchers and practitioners, Mandy Sanger, Jane Hooper, and Lotte Baltussen, chaired by Britt van Duijvenvoorde. Each of the speakers is working with projects and/or institutions that deal with ‘opening up’ (in the widest sense of the word) a troubled past, in different time periods and regions in the world. For more information about the event and speakers, see our blog post
+This panel hosted three researchers and practitioners, Mandy Sanger, Jane Hooper, and Lotte Baltussen, chaired by Britt van Duijvenvoorde. Each of the speakers is working with projects and/or institutions that deal with ‘opening up’ (in the widest sense of the word) a troubled past, in different time periods and regions in the world. For more information about the event and speakers, see our blog post
  <a href="https://combattingbias.huygens.knaw.nl/news/shared-yet-troubled-pasts/#speakers">here</a>. 
-   </div>
-   <div class="image-block" style="width: 40%">
-       <img src="/static/img/mayevents/12may.jpeg" alt="introducing event" title="Amber introducing the panel presentation" />
-   </div>
-</div>
+
+<p align="center">
+   <img src="/static/img/mayevents/12may.jpeg" alt="introducing event" title="Amber introducing the panel presentation" />
+</p>
 
 Jane Hooper, working on the [Slave Voyages](https://www.slavevoyages.org/) project, spoke about the database’s expansion to include Indian Ocean voyages. She emphasised the need for new approaches when working with a new region: there are different cultural sensitivities with regards to descendancy from enslaved persons in the Atlantic versus the Indian Ocean region for example. It’s crucial to first understand what the impact of publishing new data will have on affected people’s lives – travelling to these regions, engaging with their archives and heritage, and speaking to researchers are a necessary part of this.
 
