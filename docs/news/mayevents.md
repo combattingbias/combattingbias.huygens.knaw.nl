@@ -33,7 +33,7 @@ Similarly, presenting on [Oorlog voor de Rechter](https://oorlogvoorderechter.nl
 Mandy Sanger rounded the presentation panel off by introducing her work as Head of Education at the [District Six Museum](https://www.districtsix.co.za/). As a museum that hosts and exhibits a living archive, Mandy emphasised the importance of centering the collective human experience, through her humanising pedagogy approach. For this, we need to create discursive spaces, in which people can speak openly about shared histories in the space of the history itself - the space forms a bridge between different languages people use to speak about experiences and knowledge. 
 
 <p align="center">
-  <img alt="mandy event" src="/static/img/mayevents/12may1.jpeg" width="45%">
+   <img alt="mandy event" src="/static/img/mayevents/12may1.jpeg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="jane event" src="/static/img/mayevents/12may2.jpeg" width="45%">
 </p>
@@ -69,7 +69,6 @@ Bias can, and is often, used **normatively**, for example through the passing of
 <p align="middle">
  <i> Groups creating their bias mindmaps </i>
 </p>
-</div>
 
 Tying into this, ownership was also a concept that kept coming back. In line with the [CARE](https://www.gida-global.org/care) principles, there is the **necessity to transfer ownership** to community groups whose data it originally is. This is a way to lessen harmful impacts of bias, as there is active involvement through ownership and management from affected communities. But for this to happen, a lack of attachment to ownership from current dominant powers is necessary. This would require a change in economic structures (i.e. funding requirements), as it’s often impossible to sustain research if ownership of outputs is not secured.  
 
