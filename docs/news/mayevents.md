@@ -20,7 +20,10 @@ This panel hosted three researchers and practitioners, Mandy Sanger, Jane Hooper
  <a href="https://combattingbias.huygens.knaw.nl/news/shared-yet-troubled-pasts/#speakers">here</a>. 
 
 <p align="center">
-   <img src="/static/img/mayevents/12may.jpeg" alt="introducing event" title="Amber introducing the panel presentation" />
+   <img src="/static/img/mayevents/12may.jpeg" alt="introducing event" title="Amber introducing the panel presentation" width="60%"/>
+</p>
+<p align="middle">
+ <i> Amber introducing the panel presentation </i>
 </p>
 
 Jane Hooper, working on the [Slave Voyages](https://www.slavevoyages.org/) project, spoke about the database’s expansion to include Indian Ocean voyages. She emphasised the need for new approaches when working with a new region: there are different cultural sensitivities with regards to descendancy from enslaved persons in the Atlantic versus the Indian Ocean region for example. It’s crucial to first understand what the impact of publishing new data will have on affected people’s lives – travelling to these regions, engaging with their archives and heritage, and speaking to researchers are a necessary part of this.
