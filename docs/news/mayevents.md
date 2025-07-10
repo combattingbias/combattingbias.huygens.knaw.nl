@@ -3,12 +3,12 @@
 
 <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
    <p class="text-block">
-     While we’re already busying ourselves with many events, conferences, and workshops happening in June and July, we also want to take some space for reflecting on an eventful month of May for the Combatting Bias project (a <a href="https://tdcc.nl/about-tddc/ssh/" target="_blank">TDCC-SSH</a> and NWO-funded project). </p>
-       <div class="image-block"> 
-          <a href="https://tdcc.nl" target="_blank">
+     While we’re already busying ourselves with many events, conferences, and workshops happening in June and July, we also want to take some space for reflecting on an eventful month of May for the Combatting Bias project (a <a href="https://tdcc.nl/about-tddc/ssh/" target="_blank">TDCC-SSH</a> and NWO-funded project).</p>
+   <div class="image-block"> 
+      <a href="https://tdcc.nl" target="_blank">
            <img src="/static/img/TDCC-SSH-Logo_RGB.png" alt="TDCC-SSH logo" />
        </a>
-       </div>
+   </div>
 </div>
 
 On 13 May, we organised our **project workshop** for our network of collaborators. This was one of the major expected outputs for our project, as a moment to showcase our work as well as collectively think about ways forward. Along with this workshop, as we hope to promote transparency and wider accessibility as crucial aspects of responsible research, we wanted to host a public event too. On 12 May, we therefore organised **_Uncovering Shared Yet Troubled Pasts_**, a presentation panel with Mandy Sanger, Jane Hooper, Lotte Baltussen, and chaired by Britt van Duijvenvoorde. 
