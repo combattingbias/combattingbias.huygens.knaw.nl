@@ -1,4 +1,4 @@
-# Combatting Bias in person! Looking back at our 12 and 13 May events
+# Combatting Bias Together! A Reflection on our May Events
 **Written by Amber Zijlma** </br>
 
 <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
