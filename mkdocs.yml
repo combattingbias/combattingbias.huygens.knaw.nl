@@ -48,10 +48,10 @@ nav:
       - FAIR+ Principles: about/fairplusprinciples.md
       - On Bias: about/onbias.md
       - Ethical Commitments: about/ethicalcommitments.md
-  -  "Team": team/team.md
-  -  "Partners": 
-      - "Projects": team/partners/partnerprojects.md
-      - "Advisors": team/partners/advisors.md
+  -  "Team": 
+      - Core Team: team/team.md
+      - Partner Projects: team/partners/partnerprojects.md
+      - Advisors: team/partners/advisors.md
   -  "Resources and Publications": 
       - "Resources": resourcesandpublications/resources.md
       - "Publications": resourcesandpublications/publications.md
