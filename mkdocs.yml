@@ -41,8 +41,8 @@ nav:
         - Core Team: team/team.md
         - Partner Projects: team/partners/partnerprojects.md
         - Advisors: team/partners/advisors.md
- - On Bias:
-    - Bias: onbias/bias.md
+ - Bias:
+    - On Bias: bias/onbias.md
  
  - "Resources and Publications": 
    - "Resources": resourcesandpublications/resources.md
