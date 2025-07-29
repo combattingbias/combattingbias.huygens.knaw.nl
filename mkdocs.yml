@@ -33,29 +33,21 @@ plugins:
   - search
 
 nav:
-  - Home: index.md
-  #- About: about.md
-  #- "Ongoing experiments":
-  #    - "Transcriptions Viewer": experiments/htr-viewer.md
-  #    - "Places Visualization": experiments/places-visualization.md
-  #    - "Word Embeddings": experiments/GLOBALISE_Word2Vec_Lab.ipynb
-  #- "Completed experiments":
-  #    - "General Missives Search Interface": experiments/blacklab-search-interface-general-missives.md
-  #    - "Text-Fabric Serialization of General Missives": experiments/text-fabric-general-missives.md
-  #    - "Word Embeddings": experiments/word-embeddings.md
-  -  About:
+ - Home: index.md
+ - About:
       - The Project: about/mission.md
-      - FAIR+ Principles: about/fairplusprinciples.md
-      - On Bias: about/onbias.md
       - Ethical Commitments: about/ethicalcommitments.md
-  -  "Team": 
-      - Core Team: team/team.md
-      - Partner Projects: team/partners/partnerprojects.md
-      - Advisors: team/partners/advisors.md
-  -  "Resources and Publications": 
-      - "Resources": resourcesandpublications/resources.md
-      - "Publications": resourcesandpublications/publications.md
-  -  "News":
+      - Team: 
+        - Core Team: team/team.md
+        - Partner Projects: team/partners/partnerprojects.md
+        - Advisors: team/partners/advisors.md
+ - On Bias:
+    - Bias: onbias/bias.md
+ 
+ - "Resources and Publications": 
+   - "Resources": resourcesandpublications/resources.md
+   - "Publications": resourcesandpublications/publications.md
+ - "News":
       - "Combatting Bias Together! A Reflection on our May Events": news/mayevents.md
       - "Uncovering Shared yet Troubled Pasts (Event)": news/shared-yet-troubled-pasts.md
       - "Prisoners of the Past: Reflections on Bias in the Dutch East India Company Historian’s Craft ": news/historicalbias.md
@@ -64,8 +56,7 @@ nav:
       - "‘I’ am here! The necessity of acknowledging the historian in scholarship.": news/positionality.md
       - "Resource List": news/resourcelist.md
       - "Kickoff": news/kickoff.md
-  -  "FAQ": faq/faq.md
-  -  "Contact": contact/contact.md
+ - "Contact": contact/contact.md
 markdown_extensions:
   - toc:
       permalink: True
