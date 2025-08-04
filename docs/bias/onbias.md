@@ -1,7 +1,7 @@
 _**Please note**: this page is a work in progress_
 ___
 
-To begin conceptualising bias, we first turned to its etymology. “Bias” first entered the English language in the 1570s as a technical term from the game of boules to refer to balls weighted on one side, causing them to curve obliquely. From this emerged the figurative sense of “a one-sided tendency of the mind” and later “undue propensity or prejudice,” particularly in legal contexts. The French origin biais means “sideways, askance, against the grain”—suggesting movement contrary to an expected direction.[^1] Some etymologists trace it to Latin biaxius (”with two axes”).[^2]
+To begin conceptualising bias, we first turned to its etymology. “Bias” first entered the English language in the 1570s as a technical term from the game of boules to refer to balls weighted on one side, causing them to curve obliquely. From this emerged the figurative sense of “a one-sided tendency of the mind” and later “undue propensity or prejudice,” particularly in legal contexts. The French origin biais means “sideways, askance, against the grain”—suggesting movement contrary to an expected direction.[^1] Some etymologists trace it to Latin biaxius (“with two axes”).[^2]
 
 <div style="float: right; display: block; margin-top: 10px; margin-left: 25px" width="10"">
        <img src="../../static/img/Boules_NA.jpg" alt="Woman throws Ball" style="width: 100%;" />

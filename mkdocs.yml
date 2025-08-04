@@ -37,6 +37,7 @@ nav:
  - About:
       - The Project: about/mission.md
       - Ethical Commitments: about/ethicalcommitments.md
+      - Project CV: about/project_cv.md
       - Team: 
         - Core Team: team/team.md
         - Partner Projects: team/partners/partnerprojects.md
