@@ -39,9 +39,9 @@ nav:
       - Ethical Commitments: about/ethicalcommitments.md
       - Project CV: about/project_cv.md
       - Team: 
-        - Core Team: team/team.md
-        - Partner Projects: team/partners/partnerprojects.md
-        - Advisors: team/partners/advisors.md
+        - Core Team: about/team/team.md
+        - Partner Projects: about/team/partnerprojects.md
+        - Advisors: about/team/advisors.md
  - Bias:
     - On Bias: bias/onbias.md
  
