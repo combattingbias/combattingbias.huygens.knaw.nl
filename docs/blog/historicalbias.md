@@ -1,7 +1,3 @@
-+++
-aliases = ['/news/historicalbias']
-+++
-
 # Prisoners of the (written and accessible) Past: Reflections on Bias in the Dutch East India Company Historian’s Craft 
 **Written by Manjusha Kuruppath**
 
