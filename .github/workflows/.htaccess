@@ -1,0 +1,4 @@
+RewriteEngine On
+  RewriteBase /
+  RewriteCond %{HTTP_HOST} !https://combattingbias.huygens.knaw.nl/news/historicalbias/$ [NC]
+  RewriteRule ^(.*)$ https://combattingbias.huygens.knaw.nl/blog/historicalbias/$1 [L,R=301]
