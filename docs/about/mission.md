@@ -26,7 +26,7 @@ For more on our conceptualisation of bias, see [_On Bias_](/bias/onbias).
 ## Why Datasets?
 Within the broader developments of the increased entanglement between computational tools and SSH research, our framework specifically focuses on the dataset as the unit of analysis. A dataset is where **data** (content of datasets, whether from archives, digitally-born or sociological interviews), **researchers** (creators of datasets), **users** (audience of datasets) and **computational methods** (trained on datasets) all intersect – it is therefore a necessary and productive area of intervention. 
 
-Datasets are not only areas of ‘risk’ in need of intervention, they are also areas of immense possibility, if created critically and with awareness of bias. Dataset creation is the ‘deconstruction of archival sources’, through which researchers can uncover new insights and gaps in their sources. It is, for example, due to the creation of datasets and their analysis that it becomes clear that a [17-year old woman named Flora](https://doi.org/10.1080/1081602X.2024.2340542) played a key role in the escape of nineteen peoples from slavery - re-inscribing her into the historical narrative, when her name is not barely in sources. 
+Datasets are not only areas of ‘risk’ in need of intervention, they are also areas of immense possibility, if created critically and with awareness of bias. Dataset creation is the ‘deconstruction of archival sources’[^2], through which researchers can uncover new insights and gaps in their sources. It is, for example, due to the creation of datasets and their analysis that it becomes clear that a [17-year old woman named Flora](https://doi.org/10.1080/1081602X.2024.2340542) played a key role in the escape of nineteen peoples from slavery - re-inscribing her into the historical narrative, when her name is not barely in sources. 
 
 ## Urgent Questions and Urgent Responses
 There are several troubles with the concept of bias that make it both urgent and crucial to deal with if we want to advance within data ethics:
@@ -79,3 +79,4 @@ The above points, specifically the Vocabulary, will be integrated into existing 
 </div>
 
 [^1]: See David Leslie, Michael Katell, Mhairi Aitken, et al. “Advancing Data Justice Research and Practice: An Integrated Literature Review.” SSRN Scholarly Paper No. 4073376. Social Science Research Network, March 22, 2022. https://doi.org/10.2139/ssrn.4073376; Data Justice Lab https://datajusticelab.org/; Global Data Justice https://globaldatajustice.org/. 
+[^2]: Interview with Historische Database Suriname and Caribbean, 2024/25.
