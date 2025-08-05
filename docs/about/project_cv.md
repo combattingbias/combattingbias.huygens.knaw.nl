@@ -6,6 +6,18 @@ The Combatting Bias project (file number ICT.TDCC.001.001) is a **TDCC-SSH Bottl
 ## Funding 
 - [TDCC-SSH Bottleneck Projects Grant](https://tdcc.nl/tdcc-ssh-bottleneck-projects/), €150.000, 2024-2025
 
+## Publications
+
+**Pre-publications** <br/>
+
+- Mrinalini Luthra and Amber Zijlma. (2025, 7 June). _So Everything is Biased… Now What?!_ DH Benelux 2025, Amsterdam, The Netherlands. https://doi.org/10.5281/zenodo.15614858. 
+- Mrinalini Luthra and Amber Zijlma (2025, 2 June). _Everything is biased ... now what?! Introducing the Bias-Aware Framework_. SemDH workshop, Portorož, Slovenia. https://semdh.github.io/accepted-papers#paper20. 
+- Mrinalini Luthra and Amber Zijlma. (2025, 12 June). _From Bias Paralysis to Bias as a Category of Analysis. Introducing the Bias-Aware Framework_. Association for Digital Humanities and Digital Culture (AIUCD), Verona, Italy.https://aiucd2025.dlls.univr.it/assets/pdf/papers/85.pdf. 
+
+**Bibliographies** <br/>
+
+- [List of Resources](/resourcesandpublications/resources)
+
 ## Events Organised
 - Manjusha Kuruppath, Mrinalini Luthra, Lodewijk Petram, Amber Zijlma. (2025, 13 May). [_Combatting Bias Workshop_](https://combattingbias.huygens.knaw.nl/news/mayevents/) [Workshop]. Amsterdam, The Netherlands.
 - Manjusha Kuruppath, Mrinalini Luthra, Lodewijk Petram, Amber Zijlma. (2025, 12 May). [_Uncovering Shared Yet Troubled Pasts_](https://combattingbias.huygens.knaw.nl/news/shared-yet-troubled-pasts/) [Panel presentation]. Amsterdam, The Netherlands.
@@ -22,11 +34,4 @@ Laura Hollink, Rossana Damiano, Torsten Schrade, Harald Sack, Mrinalini Luthra, 
 - Mrinalini Luthra and Amber Zijlma. (2025, 18 March). _Everything is biased… Now what?! Introducing the Combatting Bias Project_ [Presentation]. [COGLOSS x Globalise Webinar](https://www.universiteitleiden.nl/en/events/2025/03/cogloss-march-2025), online. 
 - Mrinalini Luthra and Amber Zijlma. (2025, 14 March). _Everything is biased… Now what?! Introducing the Bias-Aware Dataset Lifecycle_ [Presentation]. [Bias in Erfgoedcollecties Sector Event](https://kadoc.kuleuven.be/4_agenda/2025/20250314_face-surface), Leuven, Belgium. 
 - Mrinalini Luthra and Amber Zijlma. (2025, 24 January). _What’s the Buzz about Bias? About Bias and the Combatting Bias project_ [Presentation]. [Colonial Archives and Meaningful Digital Infrastructures Symposium](https://globalise.huygens.knaw.nl/symposium-colonial-archives-and-meaningful-digital-infrastructure/), Nijmegen, The Netherlands.
-
-## Publications
-
-**Pre-publications** <br/>
-
-- Mrinalini Luthra and Amber Zijlma. (2025, 7 June). _So Everything is Biased… Now What?!_ DH Benelux 2025, Amsterdam, The Netherlands. https://doi.org/10.5281/zenodo.15614858. 
-- Mrinalini Luthra and Amber Zijlma (2025, 2 June). _Everything is biased ... now what?! Introducing the Bias-Aware Framework_. SemDH workshop, Portorož, Slovenia. https://semdh.github.io/accepted-papers#paper20. 
 
