@@ -35,3 +35,13 @@ Laura Hollink, Rossana Damiano, Torsten Schrade, Harald Sack, Mrinalini Luthra, 
 - Mrinalini Luthra and Amber Zijlma. (2025, 14 March). _Everything is biased… Now what?! Introducing the Bias-Aware Dataset Lifecycle_ [Presentation]. [Bias in Erfgoedcollecties Sector Event](https://kadoc.kuleuven.be/4_agenda/2025/20250314_face-surface), Leuven, Belgium. 
 - Mrinalini Luthra and Amber Zijlma. (2025, 24 January). _What’s the Buzz about Bias? About Bias and the Combatting Bias project_ [Presentation]. [Colonial Archives and Meaningful Digital Infrastructures Symposium](https://globalise.huygens.knaw.nl/symposium-colonial-archives-and-meaningful-digital-infrastructure/), Nijmegen, The Netherlands.
 
+<p align="center">
+  <img alt="mrinalini at AIUCD" src="/static/img/presentations/M_AIUCD.jpeg" height="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="mrinalini at dh benelux" src="/static/img/presentations/M_DH Benelux.png" height="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="amber at dh lisbon" src="/static/img/presentations/dh2025.jpeg" height="30%">
+</p>
+<p align="middle">
+  <em> Impressions of conference presentations. From L-R: AIUCD 2025, DH Benelux 2025, DH Lisbon 2025</em>
+</p>
