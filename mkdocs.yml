@@ -44,6 +44,7 @@ nav:
         - Advisors: about/team/advisors.md
  - Bias:
     - On Bias: bias/onbias.md
+    - Bias Vocabulary: bias/biasvocabulary.md
  
  - "Resources and Publications": 
    - "Resources": resourcesandpublications/resources.md

@@ -74,7 +74,29 @@ We believe it is the responsibility of the dataset creators to critically reflec
 The above points, specifically the Vocabulary, will be integrated into existing reusable and machine-readable data documentation templates, such as the Data-Envelopes. In addition, we will create templates that encourage data awareness discussion among project teams. Through this, we not only hope to establish an ethical and sustainable framework for future data collection and curation, but also encourage that different, less represented data is collected.
 
 ## Network of expertise
-<div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
+
+<!-- changed logos to vertical alignment -->
+
+<div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 10px;">
+   <p class="text-block">Combatting Bias is a collaborative project. We are grateful to work closely together with over 15 researchers, practitioners, and domain experts (see <a href="https://combattingbias.huygens.knaw.nl/team/partners/partnerprojects/" target="_top"><i>Partner Projects</i></a> and <a href="https://combattingbias.huygens.knaw.nl/team/partners/advisors/" target="_top"><i>Advisors</i></a>), who shape our work and thinking through insights into their experiences and expertise in cultural heritage, critical archival studies, community (memory) work, natural language processing, and the FAIR principles, among others. The project itself is also embedded in two research institutes: Huygens Institute and the International Institute of Social History (IISH). Read more about this in our <i>Project Methodology [under construction]</i>. 
+</p>
+   
+   <div class="logos-container" style="display: flex; flex-direction: column; gap: 40px;">
+       <div class="image-block">
+           <a href="https://iisg.amsterdam/nl" target="_blank">
+               <img src="/static/img/iisglogo.png" alt="IISG logo"/>
+           </a>
+       </div>
+       <div class="image-block">
+           <a href="https://www.huygens.knaw.nl" target="_blank">
+               <img src="/static/img/Huygens-Instituut-RGB.svg" alt="Huygens Institute logo" />
+           </a>
+       </div>
+   </div>
+</div>
+
+
+<!-- <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
    <p class="text-block">Combatting Bias is a collaborative project. We are grateful to work closely together with over 15 researchers, practitioners, and domain experts (see <a href="https://combattingbias.huygens.knaw.nl/team/partners/partnerprojects/" target="_top"><i>Partner Projects</i></a> and <a href="https://combattingbias.huygens.knaw.nl/team/partners/advisors/" target="_top"><i>Advisors</i></a>), who shape our work and thinking through insights into their experiences and expertise in cultural heritage, critical archival studies, community (memory) work, natural language processing, and the FAIR principles, among others. The project itself is also embedded in two research institutes: Huygens Institute and the International Institute of Social History (IISH). Read more about this in our <i>Project Methodology [under construction]</i>. 
 </p>
    <div class="image-block">
@@ -87,7 +109,7 @@ The above points, specifically the Vocabulary, will be integrated into existing 
            <img src="/static/img/Huygens-Instituut-RGB.svg" alt="Huygens Institute logo" />
        </a>
    </div>
-</div>
+</div> -->
 
 [^1]: See David Leslie, Michael Katell, Mhairi Aitken, et al. “Advancing Data Justice Research and Practice: An Integrated Literature Review.” SSRN Scholarly Paper No. 4073376. Social Science Research Network, March 22, 2022. https://doi.org/10.2139/ssrn.4073376; Data Justice Lab https://datajusticelab.org/; Global Data Justice https://globaldatajustice.org/. 
 [^2]: Interview with Historische Database Suriname and Caribbean, 2024/25.

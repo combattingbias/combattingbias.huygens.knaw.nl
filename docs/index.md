@@ -8,36 +8,89 @@ hide:
 <div style="float: right; margin: 0 0 0 20px; max-width: 120px;">
     <img src="../../static/img/logo/cblogo_black.png" alt="Combatting Bias Logo Black designed by JP Karper" style="width: 100%;" />
 </div>
- The contemporary moment seems to be one of “enchanted determinism”—a constructed belief that technology will inevitably ﬁnd the right answers if fed enough data. Yet the familiar principle of “garbage in, garbage out” remains as relevant as ever. The “garbage” in this equation increasingly takes the form of bias, manifesting in algorithms that discriminate against marginalised populations and (digital) systems that reproduce harmful content.
+ The contemporary moment seems to be one of “enchanted determinism”—a constructed belief that technology will inevitably ﬁnd the right answers if fed enough data. Yet the principle of “garbage in, garbage out” remains as relevant as ever. The “garbage” in this equation increasingly takes the form of bias, resulting in algorithms that discriminate against marginalised populations and systems that reproduce harmful content.
 
+This challenge is compounded by multiple intersecting forms of bias such as in source (selection), interpretation, representation, and algorithms. Despite growing attention to ‘bias mitigation’, the term carries different meanings across disciplines, complicating systematic approaches. This conceptual instability, if left unexamined, has the tendency to render bias both omnipresent and at a risk of becoming meaningless.
 
-This challenge is compounded by multiple intersecting forms of bias: biases in source (selection), historical power structures in interpretation, representational biases in digitisation, and algorithmic biases in analysis. Despite growing attention to ‘bias mitigation’, the term carries different meanings across disciplines, complicating systematic approaches. This conceptual instability, if left unexamined, has the tendency to render bias both omnipresent and at a risk of becoming meaningless.
-
-Combatting Bias addresses bias at the dataset level—a critical intersection where researchers, users, and digital infrastructures converge. Rather than pursuing the impossible goal of complete bias elimination, this project systematically examines how bias functions and manifests throughout the research process.
+Combatting Bias is an initiative that has created a "bias-aware framework" to support researchers in identifying, describing, and reducing harmful biases in their data. Rather than pursuing the impossible goal of complete bias elimination, this project provides guidelines for researchers to understand and transparently document biases.
 
 <ol>
-  <li><strong>Bias Vocabulary</strong>: a systematic categorisation of bias-related concepts and terminology to establish a shared vocabulary across disciplines</li>
+  <li><strong>Bias Vocabulary</strong>: categorisation of bias-related concepts and terminology to establish a shared vocabulary across disciplines</li>
   <li><strong>Bias-Aware Data Lifecycle Model</strong>: where and how bias emerges at different stages of dataset creation and use</li>
   <li><strong>Practical Guidelines</strong>: evidence-based recommendations and reflective questions for each phase of the dataset lifecycle</li>
 </ol>
 
+___
+
+<div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 10px;">
+   <p class="text-block">Combatting Bias is funded by the <a href="https://nwo.nl" target="_top">Dutch Research Council (NWO)</a> via the  <a href="https://tdcc.nl" target="_blank">Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH)</a><br><br>
+   Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>, <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://bsky.app/profile/combattingbias.bsky.social" target="_top">Bluesky</a>!<br><br>
+Combatting Bias is hosted at the <a href="https://www.huygens.knaw.nl" target="_top">Huygens Institute</a>.
+</p>
+  <div class="logos-container" style="display: flex; flex-direction: column; gap: 4px;">
+        <div class="image-block">
+            <a href="https://tdcc.nl" target="_blank">
+                <img src="./static/img/TDCC-SSH-Logo_RGB.png" alt="IISG logo"/>
+            </a>
+        </div>
+        <div class="image-block">
+            <a href="https://www.huygens.knaw.nl" target="_blank">
+                <img src="/static/img/Huygens-Instituut-RGB.svg" alt="Huygens Institute logo" />
+            </a>
+        </div>
+    </div>
+</div>
+<!-- 
+<div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 10px;">
+   <p class="text-block">Combatting Bias is funded by the <a href="https://nwo.nl" target="_top">Dutch Research Council (NWO)</a> via the  <a href="https://tdcc.nl" target="_blank">Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH)</a>
+   Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>, <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://bsky.app/profile/combattingbias.bsky.social" target="_top">Bluesky</a>!
+Combatting Bias is hosted by the <a href="https://www.huygens.knaw.nl" target="_top">Huygens Institute</a>.
+  -->
+<!-- </p>
+  <div class="logos-container" style="display: flex; flex-direction: column; gap: 4px;">
+        <div class="image-block">
+            <a href="https://tdcc.nl" target="_blank">
+                <img src="./static/img/TDCC-SSH-Logo_RGB.png" alt="IISG logo"/>
+            </a>
+        </div>
+        <div class="image-block">
+            <a href="https://www.huygens.knaw.nl" target="_blank">
+                <img src="/static/img/Huygens-Instituut-RGB.svg" alt="Huygens Institute logo" />
+            </a>
+        </div>
+    </div>
+</div>
+ -->
+
+ 
+
+
+
+
+<!-- 
 <div style="float: right; margin: 0 0 0 0px; max-width: 150px;">
     <img src="./static/img/TDCC-SSH-Logo_RGB.png" alt="TDCC-SSH logo" style="width: 100%;" />
 </div>
-Combatting Bias is funded by the <a href="https://nwo.nl" target="_top">Dutch Research Council (NWO)</a> via the  <a href="https://tdcc.nl" target="_blank">Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH)</a>
- 
-Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>, <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://bsky.app/profile/combattingbias.bsky.social" target="_top">Bluesky</a>!
 
-
-Combatting Bias is hosted by the <a href="https://www.huygens.knaw.nl" target="_top">Huygens Institute</a>.
 <div style="float: right; margin: 0px 0 0px 0px; max-width: 150px;">
     <img src="./static/img/Huygens-Instituut-RGB.svg" alt="Huygens Institute logo" style="width: 100%;" />
-</div>
+</div> -->
 
 
 
+<!-- <div class="image-block">
+       <a href="https://iisg.amsterdam/nl" target="_blank">
+           <img src="/static/img/TDCC-SSH-Logo_RGB.png" alt="TDCC-SSH lOGO"/>
+       </a>
+   </div>
+   <div class="image-block">
+       <a href="https://www.huygens.knaw.nl" target="_blank">
+           <img src="/static/img/Huygens-Instituut-RGB.svg" alt="Huygens Institute logo" />
+       </a>
+   </div> -->
 
-<!-- <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
+
+<!-- <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 2px;">
    <p class="text-block"><em>Combatting Bias is hosted by the <a href="https://www.huygens.knaw.nl" target="_top">Huygens Institute</a>.</em></p>
    <div class="image-block">
        <a href="https://www.huygens.knaw.nl" target="_blank">
