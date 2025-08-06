@@ -1,12 +1,23 @@
 ## Mission
+
+<div style="float: right; margin: 0 0 0 25px; max-width: 150px;">
+    <img src="\static\img\RP-P-1956-760.jpg"/>
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">
+        <i> Carp Swimming Against a Waterfall</i>. Utagawa Hiroshige. 
+        Image credit: <a href="https://id.rijksmuseum.nl/200134856">Rijksmuseum</a>
+    </figcaption>
+</div>
 Our mission is to promote ethical and responsible data practices in the humanities and social sciences (SSH) by developing a toolkit, including vocabulary, comprehensive guidelines, and resources, for creating datasets that prioritise transparency, inclusivity and respect for diverse perspectives and experiences. 
+
 
 We believe this research is relevant and necessary, as epistemic systems and data creation are deeply intertwined. The increasing use of data in the field of SSH has allowed for more diversity in approaches to research questions, as well as broadened the possible range of questions that can be asked. However, historical data used in SSH research is by nature overwhelmed by biases, impacted by the author’s positionality and context, producing problematic language and categorisations. There is harm in these biases: they can have real impacts on minoritised groups today, through the production of incorrect and/or one-dimensional narratives that further silence and obscure marginalised perspectives. Alongside (research) frameworks that centre around the role of data in the advancement of social justice, such as [data justice](https://guides.lib.berkeley.edu/c.php?g=1353693&p=9993493)[^1], [data feminism](https://data-feminism.mitpress.mit.edu/), [data advocacy](https://da4all.github.io/methodology/) and [CARE](https://www.gida-global.org/care), we hope to add to the critical discourse around responsible creation and use of data to produce knowledge.
 
+
+<!-- 
 <figure>
 <img style="float: right; display: block; margin-top: 10px; margin-left: 25px" width="130" src="\static\img\RP-P-1956-760.jpg"/>
 <figcaption><i> Carp Swimming Against a Waterfall</i>. Utagawa Hiroshige. Image credit: https://id.rijksmuseum.nl/200134856</figcaption>
-</figure>
+</figure> -->
 
 ## Objectives
 In short, the objectives of the Combatting Bias project are threefold: 

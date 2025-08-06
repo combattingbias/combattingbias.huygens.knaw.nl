@@ -5,42 +5,57 @@ hide:
 ---
 
 # Combatting Bias
+<div style="float: right; margin: 0 0 0 20px; max-width: 120px;">
+    <img src="../../static/img/logo/cblogo_black.png" alt="Combatting Bias Logo Black designed by JP Karper" style="width: 100%;" />
+</div>
+ The contemporary moment seems to be one of “enchanted determinism”—a constructed belief that technology will inevitably ﬁnd the right answers if fed enough data. Yet the familiar principle of “garbage in, garbage out” remains as relevant as ever. The “garbage” in this equation increasingly takes the form of bias, manifesting in algorithms that discriminate against marginalised populations and (digital) systems that reproduce harmful content.
 
-<div class="flex-container">
-   <div class="text-block">
-       Research within the social sciences and humanities (SSH) depends significantly on data sources, many of which perpetuate historical biases and inequalities. <em>Combatting Bias</em> is an initiative that aims to critically examine the use of this data, as well as define sustainable, ethical and transparent standards to which future SSH data creation can adhere to. We call these standards <a href="about/fairplusprinciples/">FAIR+</a>, a combination of the FAIR principles that make data technically sound; together with +, to ensure data is ethically sound as well. We conduct this research in <a href="team/partners/partnerprojects/">collaboration</a> with four projects creating datasets from colonial archives and ten advisors from the social sciences and humanities.
-   </div>
-   <div class="image-block">
-       <img src="/static/img/logo/combattingbias.png" alt="Combatting Bias logo" title="Combatting Bias project logo, designed by Jan-Pieter Karper." />
-   </div>
+
+This challenge is compounded by multiple intersecting forms of bias: biases in source (selection), historical power structures in interpretation, representational biases in digitisation, and algorithmic biases in analysis. Despite growing attention to ‘bias mitigation’, the term carries different meanings across disciplines, complicating systematic approaches. This conceptual instability, if left unexamined, has the tendency to render bias both omnipresent and at a risk of becoming meaningless.
+
+Combatting Bias addresses bias at the dataset level—a critical intersection where researchers, users, and digital infrastructures converge. Rather than pursuing the impossible goal of complete bias elimination, this project systematically examines how bias functions and manifests throughout the research process.
+
+<ol>
+  <li><strong>Bias Vocabulary</strong>: a systematic categorisation of bias-related concepts and terminology to establish a shared vocabulary across disciplines</li>
+  <li><strong>Bias-Aware Data Lifecycle Model</strong>: where and how bias emerges at different stages of dataset creation and use</li>
+  <li><strong>Practical Guidelines</strong>: evidence-based recommendations and reflective questions for each phase of the dataset lifecycle</li>
+</ol>
+
+<div style="float: right; margin: 0 0 0 0px; max-width: 150px;">
+    <img src="./static/img/TDCC-SSH-Logo_RGB.png" alt="TDCC-SSH logo" style="width: 100%;" />
+</div>
+Combatting Bias is funded by the <a href="https://nwo.nl" target="_top">Dutch Research Council (NWO)</a> via the  <a href="https://tdcc.nl" target="_blank">Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH)</a>
+ 
+Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>, <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://bsky.app/profile/combattingbias.bsky.social" target="_top">Bluesky</a>!
+
+
+Combatting Bias is hosted by the <a href="https://www.huygens.knaw.nl" target="_top">Huygens Institute</a>.
+<div style="float: right; margin: 0px 0 0px 0px; max-width: 150px;">
+    <img src="./static/img/Huygens-Instituut-RGB.svg" alt="Huygens Institute logo" style="width: 100%;" />
 </div>
 
-<div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
-  <div class="text-block">
-    Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>, <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://bsky.app/profile/combattingbias.bsky.social" target="_top">Bluesky</a>!
-  </div>
-</div>
 
-<div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
-   <p class="text-block"><em>Combatting Bias is funded by the <a href="https://nwo.nl" target="_top">Dutch Research Council (NWO)</a> via the  <a href="https://tdcc.nl" target="_blank">Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH)</a>. For more information about the TDCC-SSH, please visit their website.</em></p>
-   <div class="image-block">
-       <a href="https://tdcc.nl" target="_blank">
-           <img src="/static/img/TDCC-SSH-Logo_RGB.png" alt="TDCC-SSH logo" />
-       </a>
-   </div>
-</div>
 
-<div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
+
+<!-- <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
    <p class="text-block"><em>Combatting Bias is hosted by the <a href="https://www.huygens.knaw.nl" target="_top">Huygens Institute</a>.</em></p>
    <div class="image-block">
        <a href="https://www.huygens.knaw.nl" target="_blank">
            <img src="/static/img/Huygens-Instituut-RGB.svg" alt="Huygens Institute logo" />
        </a>
    </div>
-</div>
+</div> -->
 
 
     
+<!-- _<div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
+   <p class="text-block"><em>Combatting Bias is funded by the <a href="https://nwo.nl" target="_top">Dutch Research Council (NWO)</a> via the  <a href="https://tdcc.nl" target="_blank">Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH)</a>. </em></p>
+   <div class="image-block">
+       <a href="https://tdcc.nl" target="_blank">
+           <img src="/static/img/TDCC-SSH-Logo_RGB.png" alt="TDCC-SSH logo" />
+       </a>
+   </div>
+</div>_ -->
 
 <!--
 <div style="display: flex; align-items: start; gap: 40px;">
