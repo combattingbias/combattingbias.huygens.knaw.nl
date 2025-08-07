@@ -35,7 +35,15 @@ Bias is already a widely used term in the context of creating, identifying and a
 For more on our conceptualisation of bias, see [_On Bias_](/bias/onbias). 
 
 ## Why Datasets?
+
 Within the broader developments of the increased entanglement between computational tools and SSH research, our framework specifically focuses on the dataset as the unit of analysis. A dataset is where **data** (content of datasets, whether from archives, digitally-born or sociological interviews), **researchers** (creators of datasets), **users** (audience of datasets) and **computational methods** (trained on datasets) all intersect – it is therefore a necessary and productive area of intervention. 
+
+<div style="float: left; margin: 5px 25px 0 0; max-width: 400px;">
+    <img src="\static\img\computerstudents.webp"/>
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">
+        Ed van der Elsken, Groningen and Kyoto students trying-out a translating computer at Kyoto University, May 1985. © Ed van der Elsken (<a href="https://id.rijksmuseum.nl/200134856">Rijksmuseum</a>)
+    </figcaption>
+</div>
 
 Datasets are not only areas of ‘risk’ in need of intervention, they are also areas of immense possibility, if created critically and with awareness of bias. Dataset creation is the ‘deconstruction of archival sources’[^2], through which researchers can uncover new insights and gaps in their sources. It is, for example, due to the creation of datasets and their analysis that it becomes clear that a [17-year old woman named Flora](https://doi.org/10.1080/1081602X.2024.2340542) played a key role in the escape of nineteen peoples from slavery - re-inscribing her into the historical narrative, when her name is not barely in sources. 
 

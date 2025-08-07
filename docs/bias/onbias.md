@@ -23,7 +23,7 @@ Rather than pursuing an illusory “bias-free” ideal, we find inspiration in a
 
 Instead of searching for one definitive meaning, our research reveals that bias functions as a **heuristic**—a shorthand referring to a web of interconnected concerns relating to power, inequality, positionality, silences, knowledge, and representation. 
 
-Based on our interviews with dataset creators and digital infrastructure projects, we find that people use "bias" to address different yet interrelated concepts: harmful language, source selection, representation, algorithmic discrimination, and others. Rather than forcing these into a single definition, we are developing a [**'bias vocabulary'**](/Users/mrinaliniluthra/combattingbias.huygens.knaw.nl/docs/bias/biasvocabulary.md) that maps these concepts, visualises their connections, and places them within the dataset lifecycle.
+Based on our interviews with dataset creators and digital infrastructure projects, we find that people use "bias" to address different yet interrelated concepts: harmful language, source selection, representation, algorithmic discrimination, and others. Rather than forcing these into a single definition, we are developing a [**'bias vocabulary'**](/bias/biasvocabulary) that maps these concepts, visualises their connections, and places them within the dataset lifecycle.
 
 [^1]: https://en.wiktionary.org/wiki/bias
 [^2]: https://www.etymonline.com/word/bias

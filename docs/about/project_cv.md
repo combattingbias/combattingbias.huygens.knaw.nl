@@ -1,8 +1,9 @@
 ## Project History
-The Combatting Bias project grew directly out of [Mrinalini](/about/team/team)’s work at the University of Amsterdam on "unsilencing" VOC testaments using digital methods ([paper](arXiv:2210.02194)) and [Globalise](https://globalise.huygens.knaw.nl/) project – leading to publications on [Data Envelopes](https://aclanthology.org/2024.legal-1.9/) for data contextualisation, [gender representation](https://aclanthology.org/2024.gitt-1.5/) in multilingual archives, and working with [entity recognition](https://doi.org/10.1108/JD-02-2022-0038) in colonial archives. The research, while dealing with many aspects of bias, did not focus on explaining or mapping these biases. The Combatting Bias is a first step to fill this gap.   
+The Combatting Bias project grew directly out of [Mrinalini](/about/team/team)’s work at the University of Amsterdam on ["unsilencing" VOC testaments](https://doi.org/10.48550/arXiv.2210.02194) using digital methods and the [Globalise](https://globalise.huygens.knaw.nl/) project – leading to publications on [Data Envelopes](https://aclanthology.org/2024.legal-1.9/) for data contextualisation, centralising [social justice](https://doi.org/10.1515/9783111381831-008) in archival studies, [gender representation](https://aclanthology.org/2024.gitt-1.5/) in multilingual archives, and working with [entity recognition](https://doi.org/10.1108/JD-02-2022-0038) in colonial archives. The research, while dealing with many aspects of bias, did not focus on explaining or mapping these biases. The Combatting Bias is a first step to fill this gap.   
 
 The Combatting Bias project (file number ICT.TDCC.001.001) is a **TDCC-SSH Bottleneck Project**, financed by the Dutch Research Council (NWO) via the [Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH)](https://tdcc.nl/about-tddc/ssh/). 
 
+<br/>
 
 <div style="text-align: center;">
     <div style="display: flex; gap: 10px; justify-content: center;">
@@ -44,3 +45,10 @@ Laura Hollink, Rossana Damiano, Torsten Schrade, Harald Sack, Mrinalini Luthra, 
 - Mrinalini Luthra and Amber Zijlma. (2025, 18 March). _Everything is biased… Now what?! Introducing the Combatting Bias Project_ [Presentation]. [COGLOSS x Globalise Webinar](https://www.universiteitleiden.nl/en/events/2025/03/cogloss-march-2025), online. 
 - Mrinalini Luthra and Amber Zijlma. (2025, 14 March). _Everything is biased… Now what?! Introducing the Bias-Aware Dataset Lifecycle_ [Presentation]. [Bias in Erfgoedcollecties Sector Event](https://kadoc.kuleuven.be/4_agenda/2025/20250314_face-surface), Leuven, Belgium. 
 - Mrinalini Luthra and Amber Zijlma. (2025, 24 January). _What’s the Buzz about Bias? About Bias and the Combatting Bias project_ [Presentation]. [Colonial Archives and Meaningful Digital Infrastructures Symposium](https://globalise.huygens.knaw.nl/symposium-colonial-archives-and-meaningful-digital-infrastructure/), Nijmegen, The Netherlands.
+
+<div style="text-align: center; margin: 0 auto; max-width: 500px;">
+    <img src="../../static/img/Go-Away-Book-binding-2006.webp" alt="Room with bound paper" style="width: 100%;" />
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">
+        Dayanita Singh, Go Away Closer, 2007. © <a href="https://dayanitasingh.net/go-away-closer"/>Dayanita Singh</a>
+    </figcaption>
+</div>

@@ -34,18 +34,18 @@ plugins:
 
 nav:
  - Home: index.md
+ - Bias:
+    - On Bias: bias/onbias.md
+    - Bias Vocabulary: bias/biasvocabulary.md
  - About:
       - The Project: about/mission.md
-      - Ethical Commitments: about/ethicalcommitments.md
       - Project CV: about/project_cv.md
+      - Ethical Commitments: about/ethicalcommitments.md
       - Team: 
         - Core Team: about/team/team.md
         - Partner Projects: about/team/partnerprojects.md
         - Advisors: about/team/advisors.md
- - Bias:
-    - On Bias: bias/onbias.md
-    - Bias Vocabulary: bias/biasvocabulary.md
- 
+
  - "Resources and Publications": 
    - "Resources": resourcesandpublications/resources.md
    - "Publications": resourcesandpublications/publications.md
