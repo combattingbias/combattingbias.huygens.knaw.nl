@@ -11,7 +11,7 @@ The Combatting Bias project (file number ICT.TDCC.001.001) is a **TDCC-SSH Bottl
         <img alt="mrinalini at dh benelux" src="/static/img/presentations/M_DH Benelux.png" style="height: 200px; width: auto; object-fit: cover; flex: 1;">
         <img img alt="amber at dh lisbon" src="/static/img/presentations/dh2025.jpeg" style="height: 200px; width: auto; object-fit: cover; flex: 1;">
     </div>
-    <p style="margin: 10px 0 0 0; font-size: 14px; color: #666;"><em> Impressions of conference presentations. <br/> From L-R: AIUCD 2025, DH Benelux 2025, DH Lisbon 2025</em></p>
+    <p style="margin: 10px 0 0 0; font-size: 16px; color: #666;"><em> Impressions of conference presentations. <br/> From L-R: AIUCD 2025, DH Benelux 2025, DH Lisbon 2025</em></p>
 </div>
 
 ## Funding 

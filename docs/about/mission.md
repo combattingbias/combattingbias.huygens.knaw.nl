@@ -2,7 +2,7 @@
 
 <div style="float: right; margin: 0 0 0 25px; max-width: 150px;">
     <img src="\static\img\RP-P-1956-760.jpg"/>
-<figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">
+<figcaption style="font-size: 16px; color: #666; margin-top: 5px;">
         <i> Carp Swimming Against a Waterfall</i>. Utagawa Hiroshige. 
         Image credit: <a href="https://id.rijksmuseum.nl/200134856">Rijksmuseum</a>
     </figcaption>
@@ -40,7 +40,7 @@ Within the broader developments of the increased entanglement between computatio
 
 <div style="float: left; margin: 5px 25px 0 0; max-width: 400px;">
     <img src="\static\img\computerstudents.webp"/>
-<figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">
+<figcaption style="font-size: 16px; color: #666; margin-top: 5px;">
         Ed van der Elsken, Groningen and Kyoto students trying-out a translating computer at Kyoto University, May 1985. © Ed van der Elsken (<a href="https://id.rijksmuseum.nl/200134856">Rijksmuseum</a>)
     </figcaption>
 </div>
@@ -59,6 +59,13 @@ These three concerns are current roadblocks in the data ethics practices of the 
 1. What do we mean by "bias" in (SSH) research?
 2. Where does bias occur in the dataset creation process? 
 3. How do we identify, understand, articulate and reduce bias in datasets?
+
+<div style="text-align: center; margin: 0 auto; max-width: 500px;">
+    <img src="../../static/img/dayanita_files.jpeg" alt="Sea of Files" style="width: 100%;" />
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">
+        Dayanita Singh, File Room, 2013. © <a href="https://dayanitasingh.net/file-room/"/>Dayanita Singh</a>
+    </figcaption>
+</div>
 
 We believe it is the responsibility of the dataset creators to critically reflect on the biases of the source data, and to acknowledge, contextualise and inform users about these - taking active measures to lessen the harmful impacts of biases throughout the lifecycle of data (and beyond). Combatting Bias underlines the necessity for responsible and transparent strategies to navigate these biases. Thus, addressing the above questions, the Combatting Bias project will create a framework that consists of the following corresponding components, that will help guide dataset creators and researchers produce responsible research. 
 
@@ -86,7 +93,7 @@ The above points, specifically the Vocabulary, will be integrated into existing 
 <!-- changed logos to vertical alignment -->
 
 <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 10px;">
-   <p class="text-block">Combatting Bias is a collaborative project. We are grateful to work closely together with over 15 researchers, practitioners, and domain experts (see <a href="https://combattingbias.huygens.knaw.nl/team/partners/partnerprojects/" target="_top"><i>Partner Projects</i></a> and <a href="https://combattingbias.huygens.knaw.nl/team/partners/advisors/" target="_top"><i>Advisors</i></a>), who shape our work and thinking through insights into their experiences and expertise in cultural heritage, critical archival studies, community (memory) work, natural language processing, and the FAIR principles, among others. The project itself is also embedded in two research institutes: Huygens Institute and the International Institute of Social History (IISH). Read more about this in our <i>Project Methodology [under construction]</i>. 
+   <p class="text-block">Combatting Bias is a collaborative project. We are grateful to work closely together with over 15 researchers, practitioners, and domain experts (see <a href="https://combattingbias.huygens.knaw.nl/team/partners/partnerprojects/" target="_top"><i>Partner Projects</i></a> and <a href="https://combattingbias.huygens.knaw.nl/team/partners/advisors/" target="_top"><i>Advisors</i></a>), who shape our work and thinking through insights into their experiences and expertise in cultural heritage, critical archival studies, community (memory) work, natural language processing, and the FAIR principles, among others. The project itself is also embedded in two research institutes: Huygens Institute and the International Institute of Social History (IISH). Read more about our collaboration with partner projects and advisors in our <a href="/about/projectmethodology" target="_top"><i>Project Methodology</i></a>. 
 </p>
    
    <div class="logos-container" style="display: flex; flex-direction: column; gap: 40px;">
