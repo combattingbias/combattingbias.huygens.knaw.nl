@@ -25,15 +25,15 @@ The Combatting Bias project (file number ICT.TDCC.001.001) is a **TDCC-SSH Bottl
 - Mrinalini Luthra and Amber Zijlma (2025, 2 June). _Everything is biased ... now what?! Introducing the Bias-Aware Framework_. SemDH workshop, Portorož, Slovenia. https://semdh.github.io/accepted-papers#paper20. 
 - Mrinalini Luthra and Amber Zijlma. (2025, 12 June). _From Bias Paralysis to Bias as a Category of Analysis. Introducing the Bias-Aware Framework_. Association for Digital Humanities and Digital Culture (AIUCD), Verona, Italy. https://aiucd2025.dlls.univr.it/assets/pdf/papers/85.pdf. 
 
-**Bibliographies** <br/>
+**List of Resources** <br/>
 
-- [List of Resources](/resourcesandpublications/resources)
+- [Combatting Bias Resource List](https://www.zotero.org/groups/5670390/combatting_bias/library) (August 2025). _Zotero Group Library_. <br> Documentation: [Resource List blog](/news/resourcelist/). 
 
 ## Events Organised
 - Manjusha Kuruppath, Mrinalini Luthra, Lodewijk Petram, Amber Zijlma. (2025, 13 May). [_Combatting Bias Workshop_](https://combattingbias.huygens.knaw.nl/news/mayevents/) [Workshop]. Amsterdam, The Netherlands.
 - Manjusha Kuruppath, Mrinalini Luthra, Lodewijk Petram, Amber Zijlma. (2025, 12 May). [_Uncovering Shared Yet Troubled Pasts_](https://combattingbias.huygens.knaw.nl/news/shared-yet-troubled-pasts/) [Panel presentation]. Amsterdam, The Netherlands.
 - Manjusha Kuruppath, Mrinalini Luthra, Lodewijk Petram, Amber Zijlma. (2025, 12 May). [_Colonial Archives and Meaningful Digital Infrastructures Symposium_](https://globalise.huygens.knaw.nl/symposium-colonial-archives-and-meaningful-digital-infrastructure/) [Symposium]. Nijmegen, The Netherlands.
-- Manjusha Kuruppath, Mrinalini Luthra, Lodewijk Petram, Amber Zijlma. (2025, 8 October). [Combatting Bias Project Kick-Off](https://combattingbias.huygens.knaw.nl/news/kickoff/) [Workshop]. Amsterdam, The Netherlands.
+- Manjusha Kuruppath, Mrinalini Luthra, Lodewijk Petram, Amber Zijlma. (2025, 8 October). [_Combatting Bias Project Kick-Off_](https://combattingbias.huygens.knaw.nl/news/kickoff/) [Workshop]. Amsterdam, The Netherlands.
 
 ## Conferences and Talks
 - Mrinalini Luthra and Amber Zijlma. (2025, 14-18 July). _From Bias Paralysis to Bias as a Category of Analysis_ [Short paper presentation]. [Digital Humanities Conference 2025](https://dh2025.adho.org/), Lisbon, Portugal. 

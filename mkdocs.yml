@@ -46,18 +46,14 @@ nav:
         - Core Team: about/team/team.md
         - Partner Projects: about/team/partnerprojects.md
         - Advisors: about/team/advisors.md
-
- - "Resources and Publications": 
-   - "Resources": resourcesandpublications/resources.md
-   - "Publications": resourcesandpublications/publications.md
  - "Blog":
+      - "Resource List": news/resourcelist.md
       - "Combatting Bias Together! A Reflection on our May Events": news/mayevents.md
       - "Uncovering Shared yet Troubled Pasts (Event)": news/shared-yet-troubled-pasts.md
       - "Prisoners of the Past: Reflections on Bias in the Dutch East India Company Historian’s Craft ": news/historicalbias.md
       - "Towards Creating Meaningful Infrastructures for Colonial Archives": news/meaningfulinfrastructuresforcolonialarchives.md
       - "Reflecting on Bias: Lessons from the VOC Data Experience": news/voc_bias.md
       - "‘I’ am here! The necessity of acknowledging the historian in scholarship.": news/positionality.md
-      - "Resource List": news/resourcelist.md
       - "Kickoff": news/kickoff.md
  - "Contact": contact/contact.md
 markdown_extensions:
