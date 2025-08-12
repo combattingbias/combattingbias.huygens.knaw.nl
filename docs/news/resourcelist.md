@@ -1,6 +1,13 @@
 # Resource List
 <i> This post has been updated from its first verson (published November 2024). </i>
 
+<div style="text-align: center; margin: 0 auto; max-width: 500px;">
+    <img src="\static\img\010028001472.jpg" alt="man with cart of books" style="width: 100%;" />
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">
+        G.L.W. Oppenheim, Marktgezichten, 1955. <br> Credit: <a href="https://archief.amsterdam/beeldbank/detail/a370ecf4-f339-aeab-1a01-bfc9afb239e4"/>Stadsarchief Amsterdam / G.L.W. Oppenheim </a>
+    </figcaption>
+</div>
+
 This [**List of Resources**](https://www.zotero.org/groups/5670390/combatting_bias/library)[^1], as it is in its current form (August 2025), is the result of our initial enquiries into works, scholarship and practices around broad topics central to the Combatting Bias project: Bias, Dataset Creation and Documentation and the FAIR Principles.
 
 > **Our aim**: A bottom-up overview of concerns surrounding bias and related topics, as well as an insight into the scatteredness of these relevant resources. Collecting these resources into an accessible and shareable list - ideally editable as well, so it can reflect current interests and needs of those working with/on bias and so become community-driven. Furthermore, as knowledge does not merely exist in the realm of (peer-reviewed) academic papers and/or publications, we did our best to include films, exhibitions, fiction, and more. In this way we wanted this list to reflect a wide range of perspectives and approaches. 
@@ -196,6 +203,13 @@ visualisation<br>
 From how overwhelming this list of concepts is, it is clear that the concept-tags do not necessarily categorise the resources in a workable way. The goal was also not to achieve a formal framework for categorisation for these resources; instead, it meant to show the whole range of concepts that can be associated with ‘bias’ (also through FAIR and documentation). 
 
 This range of concepts shows that bias is a [**‘heuristic’**](/bias/onbias/bias-as-heuristic), which can be a productive [**category of analysis**](/bias/onbias/) in research processes. Please note that not all concepts outlined above are incorporated into the Bias Vocabulary, as this list represents our initial orientation for our research.
+
+<div style="text-align: center; margin: 0 auto; max-width: 600px;">
+    <img src="\static\img\010003037609.jpg" alt="maquette building" style="width: 100%;" />
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">
+        Model from the Efficiency Exhibition, 1928 <br> Credit: <a href="https://archief.amsterdam/beeldbank/detail/a370ecf4-f339-aeab-1a01-bfc9afb239e4"/>Stadsarchief Amsterdam / Internationaal Persfoto Bureau N.V. </a>
+    </figcaption>
+</div>
 
 ## Methodology
 
