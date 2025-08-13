@@ -33,7 +33,7 @@ When positionality goes unconsidered or unacknowledged, the research is impacted
 | Good | Better | Best|
 |---|---|---|
 |Cultivate awareness of the role of positionality in research within your research (team).| Do not aim for your research to be grounded in a 'neutral' or 'objective' voice. Decenter 'neutrality', while centering 'radical empathy' (<a href='https://archivaria.ca/index.php/archivaria/article/view/13557'>Caswell and Cifor, 2016</a>), respect and care.[^2]| Discuss positionality in your research in internal and/or public documentation - you can conduct positionality interviews and analysis among team members.[^3]|
-| | Center complicity in reflexive reparative practices, instead of asserting privilege. Prioritise reflection, humility and resistance to performance.[^4]| Create plurivocality in your research (include different areas of situatedness). See: [Collaboration](../collaboration).|
+| | Center complicity in reflexive reparative practices, instead of asserting privilege. Prioritise reflection, humility and resistance to performance.[^4]| Create plurivocality in your research (include different areas of situatedness). See: **Collaboration** [link to be added].|
 | | | Include positionality statements in your Ethical Commitments, Mission Statement and/or general website.[^5]|
 
 ## Resources
