@@ -37,6 +37,13 @@ nav:
  - Bias:
     - On Bias: bias/onbias.md
     - Bias Vocabulary: bias/biasvocabulary.md
+    - Types:
+      - Positionality: bias/types/positionality.md
+      - Silences: bias/types/silences.md
+      - Representation: bias/types/representation.md
+      - Collaboration: bias/types/collaboration.md
+    - Toolkit: 
+      - Explore: bias/toolkit.md
  - About:
       - The Project: about/mission.md
       - Project CV: about/project_cv.md
@@ -73,6 +80,8 @@ plugins:
   - mkdocs-jupyter
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - javascripts/bias-config.js
 extra:
 #   social:
 #     - icon: material/web

@@ -1,3 +1,10 @@
+---
+title: "Silences"
+type: ["opacity", "discrimination"]
+stages: ["setup", "analyse"]
+keywords: ["archival gaps", "missing data", "representation", "absences", "documentation", "historical record"]
+---
+
 ## Definition
 “A gap in the (historical) record resulting from the unintentional or purposeful absence or distortion of documentation.” This goes for both the documentation as well as processes and institutional policies.
 

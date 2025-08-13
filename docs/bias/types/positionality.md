@@ -1,3 +1,12 @@
+---
+title: "Positionality"
+type: ["opacity"]
+stages: ["setup"]
+stakes: "opacity"
+related_concepts: ["representation", "collaboration", "silences"]
+keywords: ["social position", "power structures", "identity", "reflexivity", "privilege", "oppression", "situatedness"]
+---
+
 ## Definition
 “One’s social position or place in a given society in relation to race, ethnicity, and other statuses (e.g., age, gender, gender identity and expression, religion, national origin, immigration status, language, disability, sexual orientation, socioeconomic status) within systems of power and oppression. Positionality refers to individual identities and the intersection of those identities and statuses with systems of privilege and oppression. Positionality shapes a person’s psychological experiences, worldview, perceptions others have of them, social relationships, and access to resources (Muhammad et al., 2015). Positionality therefore means actively understanding and negotiating the systemic processes and hierarchy of power and the ways that statuses affect relationships because of power dynamics related to privilege and oppression (APA Task Force on Race and Ethnicity Guidelines in Psychology, 2019)”
 

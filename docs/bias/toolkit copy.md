@@ -1,0 +1,680 @@
+---
+title: Bias Toolkit
+hide:
+  - toc
+---
+
+<style>
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+}
+
+.container-custom {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.post-title {
+    color: #333;
+    font-size: 2.5rem;
+    font-weight: 300;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.post-description {
+    text-align: center;
+    color: #666;
+    font-size: 1.1rem;
+    margin-bottom: 40px;
+}
+
+.filter-section {
+    margin-bottom: 30px;
+    padding: 25px;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border-radius: 12px;
+    border-left: 4px solid #007bff;
+}
+
+.filter-section h3 {
+    color: #333;
+    font-weight: 500;
+    margin-bottom: 20px;
+    font-size: 1.3rem;
+}
+
+.button-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.filter-btn {
+    padding: 15px 20px;
+    border: 2px solid #dee2e6;
+    background: white;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: 500;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.filter-btn:hover {
+    border-color: #007bff;
+    background-color: #f8f9fa;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,123,255,0.15);
+}
+
+.filter-btn.active {
+    background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+    color: white;
+    border-color: #007bff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0,123,255,0.3);
+}
+
+.search-container {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.search-container input {
+    flex: 1;
+    padding: 12px 16px;
+    border: 2px solid #dee2e6;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: border-color 0.3s ease;
+}
+
+.search-container input:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 3px rgba(0,123,255,0.1);
+}
+
+.search-btn {
+    padding: 12px 24px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: 500;
+}
+
+.search-btn:hover {
+    background: #0056b3;
+    transform: translateY(-1px);
+}
+
+.reset-btn {
+    padding: 12px 24px;
+    background: #6c757d;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.reset-btn:hover {
+    background: #545b62;
+    transform: translateY(-1px);
+}
+
+.card {
+    border: 1px solid #e9ecef;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    background: white;
+    overflow: hidden;
+}
+
+.card:hover {
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+    transform: translateY(-3px);
+    border-color: #007bff;
+}
+
+.card-body {
+    padding: 25px;
+}
+
+.card-title {
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #333;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.card-title i {
+    color: #007bff;
+    font-size: 1.2rem;
+}
+
+.card-text {
+    color: #666;
+    margin-bottom: 12px;
+    line-height: 1.6;
+}
+
+.card-text.keyword {
+    font-style: italic;
+    color: #888;
+    font-size: 0.9rem;
+}
+
+.badge {
+    display: inline-block;
+    padding: 6px 12px;
+    background: #e9ecef;
+    color: #495057;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+.badge.discrimination {
+    background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);
+    color: white;
+}
+
+.badge.opacity {
+    background: linear-gradient(135deg, #17a2b8 0%, #138496 100%);
+    color: white;
+}
+
+.badge.stage {
+    background: linear-gradient(135deg, #28a745 0%, #218838 100%);
+    color: white;
+}
+
+hr.solid {
+    border-top: 2px solid #e9ecef;
+    margin: 20px 0;
+    opacity: 1;
+}
+
+#resource-count {
+    font-weight: 700;
+    color: #007bff;
+    font-size: 1.1rem;
+}
+
+.results-header {
+    text-align: center;
+    margin: 40px 0 30px 0;
+    padding: 30px;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border-radius: 12px;
+    border-top: 4px solid #007bff;
+}
+
+.results-header h2 {
+    color: #333;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.results-header p {
+    color: #666;
+    margin: 0;
+}
+
+.intro-section {
+    background: linear-gradient(135deg, #e3f2fd 0%, #f8f9fa 100%);
+    padding: 30px;
+    border-radius: 12px;
+    margin-bottom: 40px;
+    border-left: 4px solid #2196f3;
+}
+
+.intro-section p {
+    margin-bottom: 0;
+    color: #333;
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+</style>
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
+
+<div class="container-custom">
+    <header class="post-header">
+        <h1 class="post-title">Bias Vocabulary</h1>
+        <p class="post-description">
+            Explore different types of bias and their manifestations throughout the research lifecycle. 
+            Use the filters below to find concepts by category or research stage.
+        </p>
+    </header>
+
+    <article>
+        <div class="intro-section">
+            <p>
+                <strong>Use the filters below</strong> to explore types of biases by their <strong>category</strong> (discrimination or opacity) 
+                or by the <strong>research stage</strong> where they commonly occur. You can also search for specific keywords across all bias concepts. 
+                Each concept includes definitions, practical questions, and actionable guidance for researchers.
+            </p>
+        </div>
+        
+        <!-- Type Filter -->
+        <div class="filter-section">
+            <h3><i class="fa-solid fa-tags"></i> Types of Bias</h3>
+            <div class="button-grid">
+                <button class="filter-btn type-btn" data-filter="type" data-value="discrimination">
+                    <i class="fa-solid fa-exclamation-triangle"></i>
+                    Discrimination
+                </button>
+                <button class="filter-btn type-btn" data-filter="type" data-value="opacity">
+                    <i class="fa-solid fa-eye-slash"></i>
+                    Opacity 
+                </button>
+            </div>
+        </div>
+
+        <!-- Stage Filter -->
+        <div class="filter-section">
+            <h3><i class="fa-solid fa-project-diagram"></i> Research Stage</h3>
+            <div class="button-grid">
+                <button class="filter-btn stage-btn" data-filter="stage" data-value="setup">
+                    <i class="fa-solid fa-cog"></i>
+                    Set Up 
+                </button>
+                <button class="filter-btn stage-btn" data-filter="stage" data-value="collection">
+                    <i class="fa-solid fa-database"></i>
+                    Collection 
+                </button>
+                <button class="filter-btn stage-btn" data-filter="stage" data-value="process">
+                    <i class="fa-solid fa-gears"></i>
+                    Process 
+                </button>
+                <button class="filter-btn stage-btn" data-filter="stage" data-value="analyse">
+                    <i class="fa-solid fa-chart-bar"></i>
+                    Analyse 
+                </button>
+                <button class="filter-btn stage-btn" data-filter="stage" data-value="share">
+                    <i class="fa-solid fa-share"></i>
+                    Share & Preserve 
+                </button>
+            </div>
+        </div>
+
+        <!-- Search -->
+        <div class="filter-section">
+            <h3><i class="fa-solid fa-search"></i> Search Concepts</h3>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search for bias concepts, definitions, keywords, or questions...">
+                <button id="search-btn" class="search-btn">
+                    <i class="fa-solid fa-search"></i> Search
+                </button>
+                <button id="clear-search-btn" class="search-btn" style="background: #6c757d;">
+                    <i class="fa-solid fa-times"></i> Clear
+                </button>
+            </div>
+        </div>
+
+        <!-- Reset -->
+        <div class="filter-section">
+            <button class="reset-btn" data-reset="all">
+                <i class="fa-solid fa-rotate-left"></i>
+                Reset all filters
+            </button>
+        </div>
+
+        <hr style="border-top: 3px solid #dee2e6; margin: 40px 0;">
+
+        <!-- Results Header -->
+        <div class="results-header">
+            <h2>
+                Bias Concepts (<span id="resource-count"></span>)
+            </h2>
+            <p>
+                <i class="fa-solid fa-info-circle"></i> 
+                Click on any card to explore the concept in detail
+            </p>
+        </div>
+
+        <!-- Cards Container -->
+        <div id="card-list">
+            <!-- Positionality Card -->
+            <div class="card-wrapper" onclick="window.open('../types/positionality/', '_blank');" style="cursor: pointer;">
+                <div class="card" data-type="opacity" data-stage="setup">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <i class="fa-solid fa-user-circle"></i>
+                            Positionality
+                        </h5>
+                        <div style="margin-bottom: 15px;">
+                            <span class="badge opacity">Opacity</span>
+                            <span class="badge stage">Set Up</span>
+                        </div>
+                        <p class="card-text">
+                            "One's social position or place in a given society in relation to race, ethnicity, and other statuses within systems of power and oppression. Positionality shapes a person's psychological experiences, worldview, and access to resources."
+                        </p>
+                        <p class="card-text keyword">
+                            <i class="fa-solid fa-tags"></i>
+                            <strong>Keywords:</strong> social position, power structures, identity, reflexivity, privilege, situatedness
+                        </p>
+                        <hr class="solid">
+                        <p class="card-text">
+                            <i class="fa-solid fa-exclamation-triangle" style="color: #ffc107;"></i>
+                            <strong>Stakes:</strong> When unconsidered, research lacks transparency and connection to current contexts, hindering reproducibility and reuse.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Silences Card -->
+            <div class="card-wrapper" onclick="window.open('../types/silences/' style="cursor: pointer;">
+                <div class="card" data-type="opacity,discrimination" data-stage="setup,analyse">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <i class="fa-solid fa-volume-xmark"></i>
+                            Silences
+                        </h5>
+                        <div style="margin-bottom: 15px;">
+                            <span class="badge opacity">Opacity</span>
+                            <span class="badge discrimination">Discrimination</span>
+                            <span class="badge stage">Set Up</span>
+                            <span class="badge stage">Analyse</span>
+                        </div>
+                        <p class="card-text">
+                            "A gap in the (historical) record resulting from the unintentional or purposeful absence or distortion of documentation." This applies to both documentation and institutional processes and policies.
+                        </p>
+                        <p class="card-text keyword">
+                            <i class="fa-solid fa-tags"></i>
+                            <strong>Keywords:</strong> archival gaps, missing data, representation, absences, documentation
+                        </p>
+                        <hr class="solid">
+                        <p class="card-text">
+                            <i class="fa-solid fa-exclamation-triangle" style="color: #ffc107;"></i>
+                            <strong>Stakes:</strong> Silences create skewed narratives where certain voices and experiences are not acknowledged or included.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Source Selection Card
+            <div class="card-wrapper" onclick="alert('Navigate to source selection details');" style="cursor: pointer;">
+                <div class="card" data-type="discrimination,opacity" data-stage="collection">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <i class="fa-solid fa-filter"></i>
+                            Source Selection
+                        </h5>
+                        <div style="margin-bottom: 15px;">
+                            <span class="badge discrimination">Discrimination</span>
+                            <span class="badge opacity">Opacity</span>
+                            <span class="badge stage">Collection</span>
+                        </div>
+                        <p class="card-text">
+                            The systematic choices made about which sources, archives, or datasets to include or exclude from research, often reflecting institutional priorities, accessibility, and historical power structures.
+                        </p>
+                        <p class="card-text keyword">
+                            <i class="fa-solid fa-tags"></i>
+                            <strong>Keywords:</strong> selection criteria, institutional bias, accessibility, power structures, archives
+                        </p>
+                        <hr class="solid">
+                        <p class="card-text">
+                            <i class="fa-solid fa-exclamation-triangle" style="color: #ffc107;"></i>
+                            <strong>Stakes:</strong> Biased source selection can perpetuate existing inequalities and limit the scope of historical understanding.
+                        </p>
+                    </div>
+                </div>
+            </div> -->
+
+            <!-- Algorithmic Bias Card
+            <div class="card-wrapper" onclick="alert('Navigate to algorithmic bias details');" style="cursor: pointer;">
+                <div class="card" data-type="discrimination" data-stage="process,analyse">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <i class="fa-solid fa-robot"></i>
+                            Algorithmic Bias
+                        </h5>
+                        <div style="margin-bottom: 15px;">
+                            <span class="badge discrimination">Discrimination</span>
+                            <span class="badge stage">Process</span>
+                            <span class="badge stage">Analyse</span>
+                        </div>
+                        <p class="card-text">
+                            Systematic and unfair discrimination that occurs when algorithms produce results that are prejudiced due to biased training data, flawed assumptions, or discriminatory design choices.
+                        </p>
+                        <p class="card-text keyword">
+                            <i class="fa-solid fa-tags"></i>
+                            <strong>Keywords:</strong> machine learning, automation, discrimination, fairness, algorithms, AI
+                        </p>
+                        <hr class="solid">
+                        <p class="card-text">
+                            <i class="fa-solid fa-exclamation-triangle" style="color: #ffc107;"></i>
+                            <strong>Stakes:</strong> Algorithmic bias can amplify and systematize discrimination, affecting decision-making at scale.
+                        </p>
+                    </div>
+                </div>
+            </div> -->
+
+            <!-- Representation Card -->
+            <div class="card-wrapper" onclick="alert('Navigate to representation details');" style="cursor: pointer;">
+                <div class="card" data-type="discrimination,opacity" data-stage="collection,analyse,share">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <i class="fa-solid fa-users"></i>
+                            Representation
+                        </h5>
+                        <div style="margin-bottom: 15px;">
+                            <span class="badge discrimination">Discrimination</span>
+                            <span class="badge opacity">Opacity</span>
+                            <span class="badge stage">Collection</span>
+                            <span class="badge stage">Analyse</span>
+                            <span class="badge stage">Share</span>
+                        </div>
+                        <p class="card-text">
+                            How different groups, perspectives, or phenomena are depicted, included, or excluded in data and research, affecting whose voices are heard and whose experiences are documented.
+                        </p>
+                        <p class="card-text keyword">
+                            <i class="fa-solid fa-tags"></i>
+                            <strong>Keywords:</strong> inclusion, diversity, voice, visibility, marginalization, demographics
+                        </p>
+                        <hr class="solid">
+                        <p class="card-text">
+                            <i class="fa-solid fa-exclamation-triangle" style="color: #ffc107;"></i>
+                            <strong>Stakes:</strong> Poor representation can marginalize communities and create incomplete understandings of social phenomena.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Collaboration Card -->
+            <div class="card-wrapper" onclick="alert('Navigate to collaboration details');" style="cursor: pointer;">
+                <div class="card" data-type="opacity" data-stage="setup,collection,share">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <i class="fa-solid fa-handshake"></i>
+                            Collaboration
+                        </h5>
+                        <div style="margin-bottom: 15px;">
+                            <span class="badge opacity">Opacity</span>
+                            <span class="badge stage">Set Up</span>
+                            <span class="badge stage">Collection</span>
+                            <span class="badge stage">Share</span>
+                        </div>
+                        <p class="card-text">
+                            The involvement of multiple stakeholders, communities, and perspectives in research processes, helping to address blind spots and ensure more inclusive and ethical research practices.
+                        </p>
+                        <p class="card-text keyword">
+                            <i class="fa-solid fa-tags"></i>
+                            <strong>Keywords:</strong> stakeholder engagement, community involvement, plurivocality, participatory research
+                        </p>
+                        <hr class="solid">
+                        <p class="card-text">
+                            <i class="fa-solid fa-exclamation-triangle" style="color: #ffc107;"></i>
+                            <strong>Stakes:</strong> Lack of collaboration can result in research that fails to serve the communities it studies.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            class BiasToolkitFilter {
+                constructor() {
+                    this.state = {
+                        type: null,
+                        stage: null,
+                        searchQuery: ""
+                    };
+                    this.init();
+                }
+
+                init() {
+                    this.bindEvents();
+                    this.filterCards();
+                }
+
+                bindEvents() {
+                    // Type filter buttons
+                    document.querySelectorAll(".type-btn").forEach(btn => {
+                        btn.addEventListener("click", () => this.handleFilter("type", btn));
+                    });
+
+                    // Stage filter buttons
+                    document.querySelectorAll(".stage-btn").forEach(btn => {
+                        btn.addEventListener("click", () => this.handleFilter("stage", btn));
+                    });
+
+                    // Reset buttons
+                    document.querySelectorAll(".reset-btn").forEach(btn => {
+                        btn.addEventListener("click", () => {
+                            if (btn.dataset.reset === "all") {
+                                this.clearAllFilters();
+                            } else {
+                                this.handleReset(btn.dataset.reset);
+                            }
+                        });
+                    });
+
+                    // Search functionality
+                    const searchInput = document.getElementById("search-input");
+                    searchInput.addEventListener("input", () => this.handleSearch());
+                    searchInput.addEventListener("keypress", (e) => {
+                        if (e.key === "Enter") {
+                            e.preventDefault();
+                            this.handleSearch();
+                        }
+                    });
+
+                    document.getElementById("search-btn").addEventListener("click", () => this.handleSearch());
+                    document.getElementById("clear-search-btn").addEventListener("click", () => this.clearSearch());
+                }
+
+                handleFilter(filterType, button) {
+                    const value = button.dataset.value;
+                    
+                    if (this.state[filterType] === value) {
+                        // Deactivate if clicking the same button
+                        this.state[filterType] = null;
+                        button.classList.remove("active");
+                    } else {
+                        // Clear other buttons of the same type
+                        document.querySelectorAll(`.${filterType}-btn`).forEach(btn => {
+                            btn.classList.remove("active");
+                        });
+                        
+                        // Activate the clicked button
+                        this.state[filterType] = value;
+                        button.classList.add("active");
+                    }
+                    
+                    this.filterCards();
+                }
+
+                filterCards() {
+                    const cards = document.querySelectorAll(".card");
+                    let visibleCount = 0;
+
+                    cards.forEach(card => {
+                        const cardTypes = card.dataset.type ? card.dataset.type.split(",") : [];
+                        const cardStages = card.dataset.stage ? card.dataset.stage.split(",") : [];
+                        const cardText = card.textContent.toLowerCase();
+
+                        const typeMatch = !this.state.type || cardTypes.includes(this.state.type);
+                        const stageMatch = !this.state.stage || cardStages.includes(this.state.stage);
+                        const searchMatch = !this.state.searchQuery || cardText.includes(this.state.searchQuery);
+
+                        const shouldShow = typeMatch && stageMatch && searchMatch;
+                        
+                        card.style.display = shouldShow ? "block" : "none";
+                        if (shouldShow) visibleCount++;
+                    });
+
+                    document.getElementById("resource-count").textContent = visibleCount;
+                }
+
+                handleSearch() {
+                    const searchInput = document.getElementById("search-input");
+                    this.state.searchQuery = searchInput.value.toLowerCase();
+                    this.filterCards();
+                }
+
+                clearSearch() {
+                    document.getElementById("search-input").value = "";
+                    this.state.searchQuery = "";
+                    this.filterCards();
+                }
+
+                handleReset(filterType) {
+                    this.state[filterType] = null;
+                    document.querySelectorAll(`.${filterType}-btn`).forEach(btn => {
+                        btn.classList.remove("active");
+                    });
+                    this.filterCards();
+                }
+
+                clearAllFilters() {
+                    this.state = {
+                        type: null,
+                        stage: null,
+                        searchQuery: ""
+                    };
+                    
+                    document.querySelectorAll(".filter-btn").forEach(btn => {
+                        btn.classList.remove("active");
+                    });
+                    
+                    document.getElementById("search-input").value = "";
+                    this.filterCards();
+                }
+            }
+
+            // Initialize the filter when the page loads
+            document.addEventListener("DOMContentLoaded", () => {
+                new BiasToolkitFilter();
+            });
+        </script>
+    </article>
+</div>

@@ -1,3 +1,10 @@
+---
+title: "Representation"
+type: ["discrimination", "opacity"]
+stages: ["collection", "analyse", "share"]
+keywords: ["inclusion", "diversity", "voice", "visibility", "marginalization", "marginalisation", "demographics", "sampling"]
+---
+
 ## Definition
 "How (in what ways) something is depicted. However ‘realistic’ texts may seem to be, they involve some form of transformation. Representations are unavoidably selective (none can ever ‘show the whole picture’), and within a limited frame, some things are foregrounded and others backgrounded: see also framing; generic representation; selective representation; stylization. In factual genres in the mass media, critics understandably focus on issues such as truth, accuracy, bias, and distortion (see also reflectionism), or on whose realities are being represented and whose are being denied. See also dominant ideology; manipulative model; stereotyping; symbolic erasure."
 

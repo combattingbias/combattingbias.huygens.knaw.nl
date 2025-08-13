@@ -1,3 +1,12 @@
+---
+title: "Collaboration"
+type: ["opacity"]
+stages: ["setup", "collection", "share"]
+keywords: ["stakeholder engagement", "community involvement", "plurivocality", "participatory research", "co-creation", "partnership"]
+---
+
+
+
 ## Definition
 Working together respectfully with others who bring in different perspectives. This encompasses both working together with affected communities, as well as with experts in different (academic) fields and circles than you are. This includes building a trusting connection with communities affected by the research you are doing. Communities can either be directly (publishing sensitive materials open-access) or indirectly (they are source groups mentioned in archival sources) impacted. The relationship needs to center the community's needs and well-being, and their expertise should be valued and recompensated.
 
