@@ -42,6 +42,11 @@ nav:
       - Silences: bias/types/silences.md
       - Representation: bias/types/representation.md
       - Collaboration: bias/types/collaboration.md
+      - Durability: bias/types/durability.md
+      - FAIR: bias/types/FAIR.md
+      - Ownership: bias/types/ownership.md
+      - Recruitment: bias/types/recruitment.md
+      - Unintended Use: bias/types/unintended-use.md
     - Toolkit: 
       - Explore: bias/toolkit.md
  - About:
