@@ -3,24 +3,6 @@
 
 window.biasConfig = [
     {
-        "title": "Availability",
-        "slug": "availability",
-        "types": [
-            "discrimination"
-        ],
-        "stages": [
-            "collection"
-        ],
-        "keywords": [
-            "accessible",
-            "findable",
-            "inclusivity"
-        ],
-        "definition": "Denotes whether a source of data is in existence, reachable and operational.",
-        "stakes": "Availability of sources impacts what type of research you can conduct and conclusions you can draw. Acknowledging a lack of availability signals to the audience that narratives are likely missing from the output.",
-        "icon": "fa-circle-question"
-    },
-    {
         "title": "Collaboration",
         "slug": "collaboration",
         "types": [
@@ -44,6 +26,29 @@ window.biasConfig = [
         "icon": "fa-handshake"
     },
     {
+        "title": "Silences",
+        "slug": "silences",
+        "types": [
+            "opacity",
+            "discrimination"
+        ],
+        "stages": [
+            "setup",
+            "analyse"
+        ],
+        "keywords": [
+            "archival gaps",
+            "missing data",
+            "representation",
+            "absences",
+            "documentation",
+            "historical record"
+        ],
+        "definition": "“A gap in the (historical) record resulting from the unintentional or purposeful absence or distortion of documentation.",
+        "stakes": "Silences cause a skewed narrative of history, in which certain narratives are not acknowledged and/or included.",
+        "icon": "fa-volume-xmark"
+    },
+    {
         "title": "Durability",
         "slug": "durability",
         "types": [
@@ -65,6 +70,98 @@ window.biasConfig = [
         "icon": "fa-circle-question"
     },
     {
+        "title": "Multivocality",
+        "slug": "multivocality",
+        "types": [
+            "discrimination",
+            "opacity"
+        ],
+        "stages": [
+            "collection",
+            "process"
+        ],
+        "keywords": [
+            "perspectives",
+            "narratives",
+            "silences",
+            "plurivocality",
+            "polyvocality",
+            "polyphony"
+        ],
+        "definition": "“An approach to archaeology, but also for historical reasoning, explanation and understanding that accepts a high degree of relativism and thus encourages the contemporaneous articulation of numerous ...",
+        "stakes": "If multivocality is neither considered, nor represented in the publication of research (documentation), it gives an unfair representation of the past and/or present, as there are always parallel discourses present.",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "Representation",
+        "slug": "representation",
+        "types": [
+            "discrimination",
+            "opacity"
+        ],
+        "stages": [
+            "collection",
+            "analyse",
+            "share"
+        ],
+        "keywords": [
+            "inclusion",
+            "diversity",
+            "voice",
+            "visibility",
+            "marginalization",
+            "marginalisation",
+            "demographics",
+            "sampling"
+        ],
+        "definition": "How (in what ways) something is depicted.",
+        "stakes": "When groups, cultures, and histories are mis- or underrepresented, it skews narratives, lacking multiple perspectives.",
+        "icon": "fa-users"
+    },
+    {
+        "title": "impact",
+        "slug": "impact",
+        "types": [
+            "discrimination",
+            "opacity"
+        ],
+        "stages": [
+            "setup"
+        ],
+        "keywords": [
+            "topic",
+            "audience",
+            "community",
+            "benefit",
+            "harm"
+        ],
+        "definition": "an effect on, change or benefit to the economy, society, culture, public policy or services, health, the environment or quality of life (beyond academia)\"\n\n_Definition source: UKRI (n.",
+        "stakes": "If impact goes unconsidered, and therefore not discussed in research’s output, there can be (unintended) harm done. In order to work as responsibly as possible, while aiming for just knowledge production, impact should be accounted for during conceptualisation of the project already.",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "Transparency",
+        "slug": "transparency",
+        "types": [
+            "opacity"
+        ],
+        "stages": [
+            "setup",
+            "collection",
+            "process",
+            "share"
+        ],
+        "keywords": [
+            "reuse",
+            "documentation",
+            "contextualisation",
+            "audit"
+        ],
+        "definition": "make data, analysis, methods, and interpretive choices underlying their claims visible in a way that allows others to evaluate them\"\n\n_Definition source: Princeton (n.",
+        "stakes": "Transparency is crucial in research: in documentation, communication, publications. Research that lacks transparency causes wrongful reiterations and conclusions to be drawn - it also does not encourage responsible reuse of knowledge.",
+        "icon": "fa-eye"
+    },
+    {
         "title": "Expertise",
         "slug": "expertise",
         "types": [
@@ -84,6 +181,92 @@ window.biasConfig = [
         ],
         "definition": "“A high level of knowledge or skill”\n\n_Definition source: Cambridge Dictionary (n.",
         "stakes": "Your expertise impacts what type of research you conduct and conclusions you draw.",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "Availability",
+        "slug": "availability",
+        "types": [
+            "discrimination"
+        ],
+        "stages": [
+            "collection"
+        ],
+        "keywords": [
+            "accessible",
+            "findable",
+            "inclusivity"
+        ],
+        "definition": "Denotes whether a source of data is in existence, reachable and operational.",
+        "stakes": "Availability of sources impacts what type of research you can conduct and conclusions you can draw. Acknowledging a lack of availability signals to the audience that narratives are likely missing from the output.",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "Recruitment",
+        "slug": "recruitment",
+        "types": [
+            "opacity",
+            "discrimination"
+        ],
+        "stages": [
+            "setup"
+        ],
+        "keywords": [
+            "diversity",
+            "representation",
+            "expertise",
+            "team",
+            "inclusivity",
+            "management"
+        ],
+        "definition": "The process of finding and hiring people to work in the same project as you.",
+        "stakes": "If recruitment practices are not done thoughtfully, it will make it so that your team may lack expertise and/or diversity. Both of those are crucial in creating conscientious research.",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "Ownership",
+        "slug": "ownership",
+        "types": [
+            "discrimination"
+        ],
+        "stages": [
+            "setup",
+            "share"
+        ],
+        "keywords": [
+            "possession",
+            "responsibility",
+            "power",
+            "accessible",
+            "privilege",
+            "oppression"
+        ],
+        "definition": "Data ownership refers to both the possession of and responsibility for information.",
+        "stakes": "Ownership should be considered in order to confront unbalanced power structures. Concrete actions can then be taken to provide more fairness in these structures (such as shifting ownership).",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "Unintented Use",
+        "slug": "unintended-use",
+        "types": [
+            "discrimination",
+            "opacity"
+        ],
+        "stages": [
+            "analyse",
+            "share"
+        ],
+        "keywords": [
+            "impact",
+            "harm",
+            "accountability",
+            "risk assessment",
+            "misinterpretation",
+            "function creep",
+            "misleading"
+        ],
+        "definition": "Uses of produced data that are not as intended by the researcher.",
+        "stakes": "Similar to risk assessments: by considering unintended uses during research, some of these uses could already be mitigated. Noting unintended uses also flags responsibility and accountability to other researchers.",
         "icon": "fa-circle-question"
     },
     {
@@ -114,48 +297,6 @@ window.biasConfig = [
         "icon": "fa-circle-question"
     },
     {
-        "title": "Multivocality",
-        "slug": "multivocality",
-        "types": [
-            "discrimination",
-            "opacity"
-        ],
-        "stages": [
-            "collection",
-            "process"
-        ],
-        "keywords": [
-            "perspectives",
-            "narratives",
-            "silences"
-        ],
-        "definition": "“An approach to archaeology, but also for historical reasoning, explanation and understanding that accepts a high degree of relativism and thus encourages the contemporaneous articulation of numerous ...",
-        "stakes": "If multivocality is neither considered, nor represented in the publication of research (documentation), it gives an unfair representation of the past and/or present, as there are always parallel discourses present.",
-        "icon": "fa-circle-question"
-    },
-    {
-        "title": "Ownership",
-        "slug": "ownership",
-        "types": [
-            "discrimination"
-        ],
-        "stages": [
-            "setup",
-            "share"
-        ],
-        "keywords": [
-            "possession",
-            "responsibility",
-            "power",
-            "accessible",
-            "privilege",
-            "oppression"
-        ],
-        "definition": "Data ownership refers to both the possession of and responsibility for information.",
-        "stakes": "Ownership should be considered in order to confront unbalanced power structures. Concrete actions can then be taken to provide more fairness in these structures (such as shifting ownership).",
-        "icon": "fa-circle-question"
-    },
-    {
         "title": "Positionality",
         "slug": "positionality",
         "types": [
@@ -176,122 +317,5 @@ window.biasConfig = [
         "definition": "“One’s social position or place in a given society in relation to race, ethnicity, and other statuses (e.",
         "stakes": "When positionality goes unconsidered or unacknowledged, the research is impacted and lacks connection to the current situation (tone-deaf). Also hinders transparency, reuse and reproducibility.",
         "icon": "fa-user-circle"
-    },
-    {
-        "title": "Recruitment",
-        "slug": "recruitment",
-        "types": [
-            "opacity",
-            "discrimination"
-        ],
-        "stages": [
-            "setup"
-        ],
-        "keywords": [
-            "diversity",
-            "representation",
-            "expertise",
-            "team",
-            "inclusivity",
-            "management"
-        ],
-        "definition": "The process of finding and hiring people to work in the same project as you.",
-        "stakes": "If recruitment practices are not done thoughtfully, it will make it so that your team may lack expertise and/or diversity. Both of those are crucial in creating conscientious research.",
-        "icon": "fa-circle-question"
-    },
-    {
-        "title": "Representation",
-        "slug": "representation",
-        "types": [
-            "discrimination",
-            "opacity"
-        ],
-        "stages": [
-            "collection",
-            "analyse",
-            "share"
-        ],
-        "keywords": [
-            "inclusion",
-            "diversity",
-            "voice",
-            "visibility",
-            "marginalization",
-            "marginalisation",
-            "demographics",
-            "sampling"
-        ],
-        "definition": "How (in what ways) something is depicted.",
-        "stakes": "When groups, cultures, and histories are mis- or underrepresented, it skews narratives, lacking multiple perspectives.",
-        "icon": "fa-users"
-    },
-    {
-        "title": "Silences",
-        "slug": "silences",
-        "types": [
-            "opacity",
-            "discrimination"
-        ],
-        "stages": [
-            "setup",
-            "analyse"
-        ],
-        "keywords": [
-            "archival gaps",
-            "missing data",
-            "representation",
-            "absences",
-            "documentation",
-            "historical record"
-        ],
-        "definition": "“A gap in the (historical) record resulting from the unintentional or purposeful absence or distortion of documentation.",
-        "stakes": "Silences cause a skewed narrative of history, in which certain narratives are not acknowledged and/or included.",
-        "icon": "fa-volume-xmark"
-    },
-    {
-        "title": "Transparency",
-        "slug": "transparency",
-        "types": [
-            "opacity"
-        ],
-        "stages": [
-            "setup",
-            "collection",
-            "process",
-            "share"
-        ],
-        "keywords": [
-            "reuse",
-            "documentation",
-            "contextualisation",
-            "audit"
-        ],
-        "definition": "make data, analysis, methods, and interpretive choices underlying their claims visible in a way that allows others to evaluate them\"\n\n_Definition source: Princeton (n.",
-        "stakes": "Transparency is crucial in research: in documentation, communication, publications. Research that lacks transparency causes wrongful reiterations and conclusions to be drawn - it also does not encourage responsible reuse of knowledge.",
-        "icon": "fa-eye"
-    },
-    {
-        "title": "Unintented Use",
-        "slug": "unintended-use",
-        "types": [
-            "discrimination",
-            "opacity"
-        ],
-        "stages": [
-            "analyse",
-            "share"
-        ],
-        "keywords": [
-            "impact",
-            "harm",
-            "accountability",
-            "risk assessment",
-            "misinterpretation",
-            "function creep",
-            "misleading"
-        ],
-        "definition": "Uses of produced data that are not as intended by the researcher.",
-        "stakes": "Similar to risk assessments: by considering unintended uses during research, some of these uses could already be mitigated. Noting unintended uses also flags responsibility and accountability to other researchers.",
-        "icon": "fa-circle-question"
     }
 ];
