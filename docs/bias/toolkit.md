@@ -7,7 +7,7 @@ hide:
 <style>
 body {
     font-family: 'Roboto', sans-serif;
-    line-height: 1.6;
+    line-height: 1;
 }
 
 .container-custom {
@@ -18,8 +18,8 @@ body {
 
 .post-title {
     color: #333;
-    font-size: 2.5rem;
-    font-weight: 300;
+    font-size: 2rem;
+    font-weight: 500;
     margin-bottom: 10px;
     text-align: center;
 }
@@ -27,8 +27,8 @@ body {
 .post-description {
     text-align: center;
     color: #666;
-    font-size: 1.1rem;
-    margin-bottom: 40px;
+    font-size: 0.9rem;
+    margin-bottom: 20px;
 }
 
 .filter-section {
@@ -36,14 +36,15 @@ body {
     padding: 25px;
     background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
     border-radius: 12px;
-    border-left: 4px solid #007bff;
+    border: 2px solid #1d4066ff;
 }
 
 .filter-section h3 {
     color: #333;
     font-weight: 500;
     margin-bottom: 20px;
-    font-size: 1.3rem;
+    margin-top: 10px;
+    font-size: 1rem;
 }
 
 .button-grid {
@@ -143,7 +144,7 @@ body {
 }
 
 .card {
-    border: 1px solid #e9ecef;
+    border: 1px solid rgba(0,123,255,0.15);
     border-radius: 12px;
     margin-bottom: 25px;
     transition: all 0.3s ease;
@@ -186,7 +187,7 @@ body {
 .card-text.keyword {
     font-style: italic;
     color: #888;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
 }
 
 .badge {
@@ -195,14 +196,14 @@ body {
     background: #e9ecef;
     color: #495057;
     border-radius: 20px;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     margin-right: 8px;
     margin-bottom: 8px;
     font-weight: 500;
 }
 
 .badge.discrimination {
-    background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);
+    background: linear-gradient(135deg, #ca6a73ff 0%, #c82333 100%);
     color: white;
 }
 
@@ -225,16 +226,17 @@ hr.solid {
 #resource-count {
     font-weight: 700;
     color: #007bff;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
 }
 
 .results-header {
     text-align: center;
-    margin: 40px 0 30px 0;
+    margin: 0px 0 10px 0;
     padding: 30px;
-    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    background: #fffffdff;
+     /* linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); */
     border-radius: 12px;
-    border-top: 4px solid #007bff;
+    border: 2px solid #e7ec54ff;
 }
 
 .results-header h2 {
@@ -249,17 +251,18 @@ hr.solid {
 }
 
 .intro-section {
-    background: linear-gradient(135deg, #e3f2fd 0%, #f8f9fa 100%);
-    padding: 30px;
+    background:  #f1f5f8ff; 
+    /* linear-gradient(135deg, #e3f2fd 0%, #f8f9fa 100%); */
+    padding: 20px;
     border-radius: 12px;
     margin-bottom: 40px;
-    border-left: 4px solid #2196f3;
+    border: 1px solid #d8dbcbff;
 }
 
 .intro-section p {
-    margin-bottom: 0;
+    margin: 0;
     color: #333;
-    font-size: 1.05rem;
+    font-size: 0.85rem;
     line-height: 1.7;
 }
 
@@ -298,7 +301,7 @@ hr.solid {
 
 <div class="container-custom">
     <header class="post-header">
-        <h1 class="post-title">Bias Vocabulary</h1>
+        <h1 class="post-title">Bias Aware Toolkit</h1>
         <p class="post-description">
             Explore different types of bias and their manifestations throughout the research lifecycle. 
             Use the filters below to find concepts by category or research stage.
@@ -310,7 +313,7 @@ hr.solid {
             <p>
                 <strong>Use the filters below</strong> to explore types of biases by their <strong>category</strong> (discrimination or opacity) 
                 or by the <strong>research stage</strong> where they commonly occur. You can also search for specific keywords across all bias concepts. 
-                Each concept includes definitions, practical questions, and actionable guidance for researchers.
+                Each concept includes definitions, practical questions, and actionable guidance for dataset creators and users.
             </p>
         </div>
         
