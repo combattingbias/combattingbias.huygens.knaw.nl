@@ -36,8 +36,9 @@ nav:
  - Home: index.md
  - Bias:
     - On Bias: bias/onbias.md
-    - Bias Vocabulary: bias/biasvocabulary.md
-    - Types:
+    # - Bias Vocabulary: bias/biasvocabulary.md
+    - Bias Vocabulary:
+      - About: bias/types/about.md
       - Positionality: bias/types/positionality.md
       - Silences: bias/types/silences.md
       - Representation: bias/types/representation.md
@@ -47,10 +48,11 @@ nav:
       - Ownership: bias/types/ownership.md
       - Recruitment: bias/types/recruitment.md
       - Unintended Use: bias/types/unintended-use.md
-      - transparency: bias/types/transparency.md
-      - availability: bias/types/availability.md
-      - expertise: bias/types/expertise.md
-      - multivocality: bias/types/multivocality.md
+      - Transparency: bias/types/transparency.md
+      - Availability: bias/types/availability.md
+      - Expertise: bias/types/expertise.md
+      - Multivocality: bias/types/multivocality.md
+      - Impact: bias/types/impact.md
     - Toolkit: 
       - Explore: bias/toolkit.md
  - About:

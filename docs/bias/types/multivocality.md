@@ -2,7 +2,7 @@
 title: "Multivocality"
 type: ["discrimination", "opacity"]
 stages: ["collection", "process"]
-keywords: ["perspectives", "narratives", "silences"]
+keywords: ["perspectives", "narratives", "silences", "plurivocality","polyvocality","polyphony"]
 ---
 
 ## Definition
@@ -10,7 +10,7 @@ keywords: ["perspectives", "narratives", "silences"]
 
 _Alterative concepts: plurivocality; polyvocality_
  
-_Definition source: **Oxford Reference (n.d.). [multivocality](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100216225_).** Retrieved 30 Jan. 2025.
+_Definition source: **Oxford Reference (n.d.). [multivocality](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100216225_).** Retrieved 30 Jan. 2025.)_
 
 ## Stakes
 _part of: **discrimination**, **opacity**_
