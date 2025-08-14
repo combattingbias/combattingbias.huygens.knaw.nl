@@ -47,6 +47,10 @@ nav:
       - Ownership: bias/types/ownership.md
       - Recruitment: bias/types/recruitment.md
       - Unintended Use: bias/types/unintended-use.md
+      - transparency: bias/types/transparency.md
+      - availability: bias/types/availability.md
+      - expertise: bias/types/expertise.md
+      - multivocality: bias/types/multivocality.md
     - Toolkit: 
       - Explore: bias/toolkit.md
  - About:

@@ -3,6 +3,24 @@
 
 window.biasConfig = [
     {
+        "title": "Availability",
+        "slug": "availability",
+        "types": [
+            "discrimination"
+        ],
+        "stages": [
+            "collection"
+        ],
+        "keywords": [
+            "accessible",
+            "findable",
+            "inclusivity"
+        ],
+        "definition": "Denotes whether a source of data is in existence, reachable and operational.",
+        "stakes": "Availability of sources impacts what type of research you can conduct and conclusions you can draw. Acknowledging a lack of availability signals to the audience that narratives are likely missing from the output.",
+        "icon": "fa-circle-question"
+    },
+    {
         "title": "Collaboration",
         "slug": "collaboration",
         "types": [
@@ -47,6 +65,28 @@ window.biasConfig = [
         "icon": "fa-circle-question"
     },
     {
+        "title": "Expertise",
+        "slug": "expertise",
+        "types": [
+            "discrimination",
+            "opacity"
+        ],
+        "stages": [
+            "collection",
+            "process"
+        ],
+        "keywords": [
+            "knowledge",
+            "power",
+            "multivocality",
+            "collaboration",
+            "team"
+        ],
+        "definition": "“A high level of knowledge or skill”\n\n_Definition source: Cambridge Dictionary (n.",
+        "stakes": "Your expertise impacts what type of research you conduct and conclusions you draw.",
+        "icon": "fa-circle-question"
+    },
+    {
         "title": "FAIR",
         "slug": "FAIR",
         "types": [
@@ -71,6 +111,26 @@ window.biasConfig = [
         ],
         "definition": "Principles to improve \"the Findability, Accessibility, Interoperability, and Reuse of digital assets.",
         "stakes": "Adhering to the FAIR Principles ensures your data is technically responsible, as it benefits the reusability and interoperability of the data. This also supports sustainability and better research practices, and consequently, better knowledge production.",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "Multivocality",
+        "slug": "multivocality",
+        "types": [
+            "discrimination",
+            "opacity"
+        ],
+        "stages": [
+            "collection",
+            "process"
+        ],
+        "keywords": [
+            "perspectives",
+            "narratives",
+            "silences"
+        ],
+        "definition": "“An approach to archaeology, but also for historical reasoning, explanation and understanding that accepts a high degree of relativism and thus encourages the contemporaneous articulation of numerous ...",
+        "stakes": "If multivocality is neither considered, nor represented in the publication of research (documentation), it gives an unfair representation of the past and/or present, as there are always parallel discourses present.",
         "icon": "fa-circle-question"
     },
     {
@@ -187,6 +247,28 @@ window.biasConfig = [
         "definition": "“A gap in the (historical) record resulting from the unintentional or purposeful absence or distortion of documentation.",
         "stakes": "Silences cause a skewed narrative of history, in which certain narratives are not acknowledged and/or included.",
         "icon": "fa-volume-xmark"
+    },
+    {
+        "title": "Transparency",
+        "slug": "transparency",
+        "types": [
+            "opacity"
+        ],
+        "stages": [
+            "setup",
+            "collection",
+            "process",
+            "share"
+        ],
+        "keywords": [
+            "reuse",
+            "documentation",
+            "contextualisation",
+            "audit"
+        ],
+        "definition": "make data, analysis, methods, and interpretive choices underlying their claims visible in a way that allows others to evaluate them\"\n\n_Definition source: Princeton (n.",
+        "stakes": "Transparency is crucial in research: in documentation, communication, publications. Research that lacks transparency causes wrongful reiterations and conclusions to be drawn - it also does not encourage responsible reuse of knowledge.",
+        "icon": "fa-eye"
     },
     {
         "title": "Unintented Use",
