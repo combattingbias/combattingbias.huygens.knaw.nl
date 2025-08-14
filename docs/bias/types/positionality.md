@@ -2,8 +2,6 @@
 title: "Positionality"
 type: ["opacity"]
 stages: ["setup"]
-stakes: "opacity"
-related_concepts: ["representation", "collaboration", "silences"]
 keywords: ["social position", "power structures", "identity", "reflexivity", "privilege", "oppression", "situatedness"]
 ---
 

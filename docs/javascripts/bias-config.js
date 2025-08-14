@@ -26,27 +26,118 @@ window.biasConfig = [
         "icon": "fa-handshake"
     },
     {
-        "title": "Silences",
-        "slug": "silences",
+        "title": "Durability",
+        "slug": "durability",
         "types": [
             "opacity",
             "discrimination"
         ],
         "stages": [
-            "setup",
-            "analyse"
+            "setup"
         ],
         "keywords": [
-            "archival gaps",
-            "missing data",
-            "representation",
-            "absences",
-            "documentation",
-            "historical record"
+            "robustness",
+            "future",
+            "sustainability",
+            "FAIR",
+            "data management"
         ],
-        "definition": "“A gap in the (historical) record resulting from the unintentional or purposeful absence or distortion of documentation.",
-        "stakes": "Silences cause a skewed narrative of history, in which certain narratives are not acknowledged and/or included.",
-        "icon": "fa-volume-xmark"
+        "definition": "Maintenance of data's integrity and availability for the future.",
+        "stakes": "Enabling accessibility and availability of your research output after the end of your project, is very valuable, because it allows other researchers to build off of your work.",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "FAIR",
+        "slug": "FAIR",
+        "types": [
+            "opacity"
+        ],
+        "stages": [
+            "setup",
+            "collection",
+            "share"
+        ],
+        "keywords": [
+            "findable",
+            "reusable",
+            "interoperable",
+            "accessible",
+            "reuse",
+            "legacy data",
+            "provenance",
+            "robustness",
+            "sustainability",
+            "license"
+        ],
+        "definition": "Principles to improve \"the Findability, Accessibility, Interoperability, and Reuse of digital assets.",
+        "stakes": "Adhering to the FAIR Principles ensures your data is technically responsible, as it benefits the reusability and interoperability of the data. This also supports sustainability and better research practices, and consequently, better knowledge production.",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "Ownership",
+        "slug": "ownership",
+        "types": [
+            "discrimination"
+        ],
+        "stages": [
+            "setup",
+            "share"
+        ],
+        "keywords": [
+            "possession",
+            "responsibility",
+            "power",
+            "accessible",
+            "privilege",
+            "oppression"
+        ],
+        "definition": "Data ownership refers to both the possession of and responsibility for information.",
+        "stakes": "Ownership should be considered in order to confront unbalanced power structures. Concrete actions can then be taken to provide more fairness in these structures (such as shifting ownership).",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "Positionality",
+        "slug": "positionality",
+        "types": [
+            "opacity"
+        ],
+        "stages": [
+            "setup"
+        ],
+        "keywords": [
+            "social position",
+            "power structures",
+            "identity",
+            "reflexivity",
+            "privilege",
+            "oppression",
+            "situatedness"
+        ],
+        "definition": "“One’s social position or place in a given society in relation to race, ethnicity, and other statuses (e.",
+        "stakes": "When positionality goes unconsidered or unacknowledged, the research is impacted and lacks connection to the current situation (tone-deaf). Also hinders transparency, reuse and reproducibility.",
+        "icon": "fa-user-circle"
+    },
+    {
+        "title": "Recruitment",
+        "slug": "recruitment",
+        "types": [
+            "opacity",
+            "discrimination"
+        ],
+        "stages": [
+            "setup"
+        ],
+        "keywords": [
+            "diversity",
+            "representation",
+            "expertise",
+            "team",
+            "inclusivity",
+            "management"
+        ],
+        "definition": "The process of finding and hiring people to work in the same project as you.",
+        "stakes": "If recruitment practices are not done thoughtfully, it will make it so that your team may lack expertise and/or diversity. Both of those are crucial in creating conscientious research.",
+        "icon": "fa-circle-question"
     },
     {
         "title": "Representation",
@@ -75,25 +166,50 @@ window.biasConfig = [
         "icon": "fa-users"
     },
     {
-        "title": "Positionality",
-        "slug": "positionality",
+        "title": "Silences",
+        "slug": "silences",
         "types": [
+            "opacity",
+            "discrimination"
+        ],
+        "stages": [
+            "setup",
+            "analyse"
+        ],
+        "keywords": [
+            "archival gaps",
+            "missing data",
+            "representation",
+            "absences",
+            "documentation",
+            "historical record"
+        ],
+        "definition": "“A gap in the (historical) record resulting from the unintentional or purposeful absence or distortion of documentation.",
+        "stakes": "Silences cause a skewed narrative of history, in which certain narratives are not acknowledged and/or included.",
+        "icon": "fa-volume-xmark"
+    },
+    {
+        "title": "Unintented Use",
+        "slug": "unintended-use",
+        "types": [
+            "discrimination",
             "opacity"
         ],
         "stages": [
-            "setup"
+            "analyse",
+            "share"
         ],
         "keywords": [
-            "social position",
-            "power structures",
-            "identity",
-            "reflexivity",
-            "privilege",
-            "oppression",
-            "situatedness"
+            "impact",
+            "harm",
+            "accountability",
+            "risk assessment",
+            "misinterpretation",
+            "function creep",
+            "misleading"
         ],
-        "definition": "“One’s social position or place in a given society in relation to race, ethnicity, and other statuses (e.",
-        "stakes": "When positionality goes unconsidered or unacknowledged, the research is impacted and lacks connection to the current situation (tone-deaf). Also hinders transparency, reuse and reproducibility.",
-        "icon": "fa-user-circle"
+        "definition": "Uses of produced data that are not as intended by the researcher.",
+        "stakes": "Similar to risk assessments: by considering unintended uses during research, some of these uses could already be mitigated. Noting unintended uses also flags responsibility and accountability to other researchers.",
+        "icon": "fa-circle-question"
     }
 ];

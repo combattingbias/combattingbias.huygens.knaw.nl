@@ -1,3 +1,10 @@
+---
+title: "Unintented Use"
+type: ["discrimination", "opacity"]
+stages: ["analyse", "share"]
+keywords: ["impact", "harm", "accountability", "risk assessment", "misinterpretation", "function creep", "misleading"]
+---
+
 ## Definition
 Uses of produced data that are not as intended by the researcher. 
 
@@ -36,5 +43,5 @@ Similar to risk assessments: by considering unintended uses during research, som
 | Good | Better | Best|
 |---|---|---|
 |Make clear in your mission statement what the goal of your research (output) is. | Discuss any unintended uses (and intended uses) in documentation (e.g. mission statement, final publications).| Work at mitigating unintended uses during your research.|
-| | | Anticipate unintended use of your dataset by future users and warn against such usage.|
+| |Acknowledge the shortcomings of the tools and methods that you use and assess the implications it can have on output and subsequent usage. | Anticipate unintended use of your dataset by future users and warn against such usage.|
 | | | Consider how you convey this knowledge and put it to use (by conceptualising and implementing mitigation strategies) in future data projects. | 
