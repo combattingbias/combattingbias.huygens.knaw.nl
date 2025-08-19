@@ -34,7 +34,7 @@
   --md-side-padding: 2rem;
 }
 
-/* TYPOGRAPHY WITH DIATYPE */
+/* TYPOGRAPHY WITH UNION REGULAR */
 html {
   font-size: var(--md-text-font-size);
   line-height: var(--md-text-line-height);
@@ -211,7 +211,7 @@ body {
 /* NAVIGATION AND HEADER STYLING */
 .md-tabs__link {
   font-family: var(--md-heading-font-family);
-  font-size: 1rem; /* Increased from 0.875rem */
+  font-size: 1rem !important; /* Increased from 0.875rem with !important to override conflicts */
   font-weight: 500; /* Medium weight */
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -290,7 +290,32 @@ body {
   text-decoration: none; /* Keep no underline on hover */
 }
 
-/* NAVIGATION SECTIONS */
+/* SIDE NAVIGATION STYLING */
+.md-nav__link {
+  font-family: var(--md-text-font-family);
+  font-size: 0.95rem !important; /* Nearly as big as body text (1rem) */
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: var(--md-text-letter-spacing);
+}
+
+/* Side navigation titles */
+.md-nav__title {
+  font-family: var(--md-heading-font-family);
+  font-size: 0.95rem !important;
+  font-weight: 500;
+}
+
+/* Side navigation items */
+.md-nav__item {
+  font-size: 0.95rem !important;
+}
+
+/* Active/current page in side nav */
+.md-nav__link--active {
+  font-size: 0.95rem !important;
+  font-weight: 500;
+}
 @media screen and (min-width: 76.25em) {
   label.md-nav__title {
     display: none;
@@ -383,7 +408,6 @@ a:hover {
   transform: translateX(-50%);
   color: var(--md-default-fg-color);
 }
-
 /* --------------------- */
 
 /* :root {
