@@ -53,6 +53,8 @@ nav:
       - Expertise: bias/types/expertise.md
       - Multivocality: bias/types/multivocality.md
       - Impact: bias/types/impact.md
+      - Accuracy: bias/types/accuracy.md 
+      - Historicity: bias/types/historicity.md
     - Toolkit: 
       - Explore: bias/toolkit.md
  - About:

@@ -202,6 +202,48 @@ window.biasConfig = [
         "icon": "fa-circle-question"
     },
     {
+        "title": "Accuracy",
+        "slug": "accuracy",
+        "types": [
+            "opacity"
+        ],
+        "stages": [
+            "setup"
+        ],
+        "keywords": [
+            "social position",
+            "power structures",
+            "identity",
+            "reflexivity",
+            "privilege",
+            "oppression",
+            "situatedness"
+        ],
+        "definition": "Being exact or correct.",
+        "stakes": "It is important to be as accurate as you can be - describing precisely your process or avoiding factual mistakes in descriptions or annotations for example. Inaccurate information left in your data, will be transposed onto subsequent research using your data.",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "Historicity",
+        "slug": "historicity",
+        "types": [
+            "discrimination",
+            "opacity"
+        ],
+        "stages": [
+            "collection"
+        ],
+        "keywords": [
+            "original",
+            "primary source",
+            "significance",
+            "context"
+        ],
+        "definition": "Philosophical term denoting an authenticity of an event in the past.",
+        "stakes": "Historicity is important because we do not want to erase past wrongs. A dataset or narrative for historical research must include flaws, but must also be contextualised and not reiterated responsibly.",
+        "icon": "fa-circle-question"
+    },
+    {
         "title": "Recruitment",
         "slug": "recruitment",
         "types": [
