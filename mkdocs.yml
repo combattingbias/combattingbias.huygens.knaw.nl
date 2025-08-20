@@ -53,6 +53,14 @@ nav:
       - Expertise: bias/types/expertise.md
       - Multivocality: bias/types/multivocality.md
       - Impact: bias/types/impact.md
+      - Harmful Language: bias/types/harmful-language.md
+      - Accuracy: bias/types/accuracy.md
+      - Historicity: bias/types/historicity.md
+      - Methodology (incl Algorithms): bias/types/methodology.md
+      - Privacy: bias/types/privacy.md
+      - Provenance: bias/types/provenance.md
+      - Reproducibility: bias/types/reproducibility.md
+      - Documentation: bias/types/documentation.md
     - Toolkit: 
       - Explore: bias/toolkit.md
  - About:

@@ -1,8 +1,8 @@
 ---
 title: "Accuracy"
 type: ["opacity"]
-stages: ["setup"]
-keywords: ["social position", "power structures", "identity", "reflexivity", "privilege", "oppression", "situatedness"]
+stages: ["collection", "process"]
+keywords: ["factual", "correct", "errors"]
 ---
 
 ## Definition
