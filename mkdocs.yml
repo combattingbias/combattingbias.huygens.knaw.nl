@@ -34,6 +34,17 @@ plugins:
 
 nav:
  - Home: index.md
+ - About:
+      - The Project: about/mission.md
+      - Project CV: about/project_cv.md
+      - Project Metholodogy: about/projectmethodology.md
+      - Ethical Commitments: about/ethicalcommitments.md
+      - Team: 
+        - Core Team: about/team/team.md
+        - Partner Projects: about/team/partnerprojects.md
+        - Advisors: about/team/advisors.md
+ - Toolkit: 
+      - Explore: bias/toolkit.md
  - Bias:
     - On Bias: bias/onbias.md
     # - Bias Vocabulary: bias/biasvocabulary.md
@@ -61,17 +72,9 @@ nav:
       - Provenance: bias/types/provenance.md
       - Reproducibility: bias/types/reproducibility.md
       - Documentation: bias/types/documentation.md
-    - Toolkit: 
-      - Explore: bias/toolkit.md
- - About:
-      - The Project: about/mission.md
-      - Project CV: about/project_cv.md
-      - Project Metholodogy: about/projectmethodology.md
-      - Ethical Commitments: about/ethicalcommitments.md
-      - Team: 
-        - Core Team: about/team/team.md
-        - Partner Projects: about/team/partnerprojects.md
-        - Advisors: about/team/advisors.md
+    - Dataset Lifecycle:
+      - Overview: bias/lifecycle/about.md
+      - Set up: bias/lifecycle/setup.md
  - "Blog":
       - "Resource List": news/resourcelist.md
       - "Combatting Bias Together! A Reflection on our May Events": news/mayevents.md

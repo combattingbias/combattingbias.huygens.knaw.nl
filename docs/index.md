@@ -14,10 +14,11 @@ This challenge is compounded by multiple intersecting forms of bias such as in s
 
 Combatting Bias is an initiative that has created a "bias-aware framework" to support researchers in identifying, describing, and reducing harmful biases in their data. Rather than pursuing the impossible goal of complete bias elimination, this project provides guidelines for researchers to understand and transparently document biases.
 
-<ol>
-  <li><strong>Bias Vocabulary</strong>: categorisation of bias-related concepts and terminology to establish a shared vocabulary across disciplines</li>
-  <li><strong>Bias-Aware Data Lifecycle Model</strong>: where and how bias emerges at different stages of dataset creation and use</li>
-  <li><strong>Practical Guidelines</strong>: evidence-based recommendations and reflective questions for each phase of the dataset lifecycle</li>
+1. [**Bias Vocabulary**](bias/types/about): categorisation of bias-related concepts and terminology to establish a shared vocabulary across disciplines</li>
+
+2. [**Bias-Aware Data Lifecycle Model**](bias/types/lifecycle/about): where and how bias emerges at different stages of dataset creation and use</li>
+
+3. [**Bias-Aware Toolkit**](bias/toolkit): evidence-based recommendations and reflective questions for each phase of the dataset lifecycle</li>
 </ol>
 
 ___
