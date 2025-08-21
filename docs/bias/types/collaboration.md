@@ -2,7 +2,7 @@
 title: "Collaboration"
 type: ["opacity"]
 stages: ["setup", "collection", "share"]
-keywords: ["stakeholder engagement", "community involvement", "plurivocality", "participatory research", "co-creation", "partnership"]
+keywords: ["stakeholder engagement", "community involvement", "plurivocality", "multivocality", "participatory research", "co-creation", "partnership"]
 ---
 
 
@@ -41,6 +41,7 @@ Collaboration in any form is crucial in creating ethically responsible datasets.
 |Expectation management: set realistic goals and communicate these with communities.| Explain in project plan / documentation why the chosen partners and collaborators were chosen.[^1]| Ensure collaborators carry ownership of the project, in name, funding, and/or decentralising knowledge creation and storage.|
 | Use your research/institution/funding to give the narratives and voices of the communities a platform.| “Organize focus groups with community members and incorporate feedback into archival description.”[^2]| Make community stakeholders partners in your research.[^3]|
 |Have a clear ask and what you can offer to your collaborators.| Make explicit what you bring to the table, and in turn, make the other party feel valued in their knowledge as well.| Understand that collaboration and codesign is often indefinite as it is relation building - commit to this process.|
+| |Know your collaborators: what are their stories, painpoints, and needs? Come prepared - the onus should not be (completely) on the communities to educate us about their contexts.[^4]| |
 
 ## Resources
 - CARE principles: https://www.gida-global.org/care 
@@ -51,3 +52,4 @@ Collaboration in any form is crucial in creating ethically responsible datasets.
 [^1]: Adapted from DE-BIAS, [A Community Engagement Methodology: resources, reflections, recommendations](https://pro.europeana.eu/files/Europeana_Professional/Projects/debias/a_community_engagement_methodology_resources_reflections_recommendations_v3_july_2024.pdf) (2024).
 [^2]: Taken from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019), p. 6.
 [^3]: Adapted from DE-BIAS, [D2.2 Community Interactions: Scenarios and Results](https://pro.europeana.eu/files/Europeana_Professional/Projects/debias/DE-BIAS_D2.2_CommunityInteractions_ScenariosAndResults.pdf) (2024). 
+[^4]: From a conversation with Shikha Sethia. 

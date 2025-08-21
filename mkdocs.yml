@@ -74,7 +74,13 @@ nav:
       - Documentation: bias/types/documentation.md
     - Dataset Lifecycle:
       - Overview: bias/lifecycle/about.md
-      - Set up: bias/lifecycle/setup.md
+      - Set up: 
+        - Set up: bias/lifecycle/setup.md
+        - Identify a Research Topic: bias/lifecycle/identify-research-topic.md
+        - Write Funding Proposals: bias/lifecycle/funding-proposals.md
+        - Write Data Management Plan: bias/lifecycle/dmp.md
+        - Write Ethical Commitments: bias/lifecycle/ethical-commitments.md
+        - Write Mission Statement: bias/lifecycle/mission-statement.md
  - "Blog":
       - "Resource List": news/resourcelist.md
       - "Combatting Bias Together! A Reflection on our May Events": news/mayevents.md
