@@ -17,6 +17,7 @@ window.biasConfig = [
             "stakeholder engagement",
             "community involvement",
             "plurivocality",
+            "multivocality",
             "participatory research",
             "co-creation",
             "partnership"
@@ -93,6 +94,27 @@ window.biasConfig = [
         "icon": "fa-circle-question"
     },
     {
+        "title": "Harmful Language",
+        "slug": "harmful-language",
+        "types": [
+            "discrimination"
+        ],
+        "stages": [
+            "setup",
+            "collection",
+            "process",
+            "share"
+        ],
+        "keywords": [
+            "harm",
+            "racism",
+            "categories"
+        ],
+        "definition": "Language that causes uncomfort, pain, feelings of unsafety to an individual or group of people.",
+        "stakes": "Harmful language can cause hurt to people and make the spaces they access your data in feel unsafe.",
+        "icon": "fa-circle-question"
+    },
+    {
         "title": "Representation",
         "slug": "representation",
         "types": [
@@ -162,6 +184,62 @@ window.biasConfig = [
         "icon": "fa-eye"
     },
     {
+        "title": "Privacy",
+        "slug": "privacy",
+        "types": [
+            "opacity"
+        ],
+        "stages": [
+            "collection"
+        ],
+        "keywords": [
+            "legal",
+            "difficult to share"
+        ],
+        "definition": "Privacy is concerned with the protection of personal data: “any information that relates to an identified or identifiable living individual (data subject).",
+        "stakes": "Privacy has many regulations around it, and is therefore important to consider.",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "Methodology",
+        "slug": "methodology",
+        "types": [
+            "opacity"
+        ],
+        "stages": [
+            "analyse"
+        ],
+        "keywords": [
+            "algorithm",
+            "methods",
+            "evaluate",
+            "approach"
+        ],
+        "definition": "a systematic deviation in the outcomes of an evaluation process, stemming directly from the specific methods or approaches employed.",
+        "stakes": "Privacy has many regulations around it, and is therefore important to consider.",
+        "icon": "fa-microscope"
+    },
+    {
+        "title": "Provenance",
+        "slug": "provenance",
+        "types": [
+            "opacity"
+        ],
+        "stages": [
+            "collection"
+        ],
+        "keywords": [
+            "context",
+            "agency",
+            "chronology",
+            "origin",
+            "metadata"
+        ],
+        "definition": "“The chronology of the origin, development, ownership, location, and changes to a system or system component and associated data [and objects and documentation].",
+        "stakes": "To understand the journey your data has been through, as well as understanding the context of its creation and changes, is integral to understanding the data itself and how it can serve your research.",
+        "icon": "fa-circle-question"
+    },
+    {
         "title": "Expertise",
         "slug": "expertise",
         "types": [
@@ -208,16 +286,13 @@ window.biasConfig = [
             "opacity"
         ],
         "stages": [
-            "setup"
+            "collection",
+            "process"
         ],
         "keywords": [
-            "social position",
-            "power structures",
-            "identity",
-            "reflexivity",
-            "privilege",
-            "oppression",
-            "situatedness"
+            "factual",
+            "correct",
+            "errors"
         ],
         "definition": "Being exact or correct.",
         "stakes": "It is important to be as accurate as you can be - describing precisely your process or avoiding factual mistakes in descriptions or annotations for example. Inaccurate information left in your data, will be transposed onto subsequent research using your data.",
@@ -288,6 +363,29 @@ window.biasConfig = [
         "icon": "fa-circle-question"
     },
     {
+        "title": "Methodology",
+        "slug": "documentation",
+        "types": [
+            "opacity"
+        ],
+        "stages": [
+            "set up",
+            "collect",
+            "process",
+            "analyse",
+            "share"
+        ],
+        "keywords": [
+            "transparency",
+            "context",
+            "reuse",
+            "robust"
+        ],
+        "definition": "The descriptive account of the process of creating or curating information.",
+        "stakes": "Creating extensive documentation is crucial to ensure adequate contextualisation of your research and transparency around research practices.",
+        "icon": "fa-microscope"
+    },
+    {
         "title": "Unintented Use",
         "slug": "unintended-use",
         "types": [
@@ -309,6 +407,24 @@ window.biasConfig = [
         ],
         "definition": "Uses of produced data that are not as intended by the researcher.",
         "stakes": "Similar to risk assessments: by considering unintended uses during research, some of these uses could already be mitigated. Noting unintended uses also flags responsibility and accountability to other researchers.",
+        "icon": "fa-circle-question"
+    },
+    {
+        "title": "Reproducibility",
+        "slug": "reproducibility",
+        "types": [
+            "opacity"
+        ],
+        "stages": [
+            "analyse"
+        ],
+        "keywords": [
+            "documentation",
+            "reuse",
+            "evaluate"
+        ],
+        "definition": "A central tenet of science: To produce a reliable scientific body of knowledge, researchers must be able to trace the steps of each other’s work and verify that they yield the claimed results, or to e...",
+        "stakes": "_related to: documentation; FAIR; accessibility; provenance",
         "icon": "fa-circle-question"
     },
     {
