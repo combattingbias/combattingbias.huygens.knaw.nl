@@ -1,7 +1,7 @@
 ---
 title: "Reproducibility"
 type: ["opacity"]
-stages: ["analyse"]
+stages: ["analyse", "share"]
 keywords: ["documentation", "reuse", "evaluate"]
 ---
 
@@ -19,6 +19,9 @@ _related to: **documentation**; **FAIR**; **accessibility**; **provenance**
 
 **4 - Analyse**
 - Analysing and Interpreting Data
+
+**5 - Preserve & Share**
+- Create or choose an interface to publish data, analyses, visualisations and other publications
 
 ## Questions to consider throughout your work
 - Have you documented your analysis process sufficiently for others to reproduce it?

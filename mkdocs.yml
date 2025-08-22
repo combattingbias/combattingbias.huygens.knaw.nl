@@ -83,6 +83,12 @@ nav:
         - Write Mission Statement: bias/lifecycle/mission-statement.md
       - Collection:
         - Collection: bias/lifecycle/collection.md
+      - Process: 
+        - Process: bias/lifecycle/process.md
+      Analyse:
+        - Analyse: bias/lifecycle/analyse.md
+      Preserve & Share: 
+        - Preserve & Share: bias/lifecycle/preserve-share.md
  - "Blog":
       - "Resource List": news/resourcelist.md
       - "Combatting Bias Together! A Reflection on our May Events": news/mayevents.md
