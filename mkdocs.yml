@@ -81,13 +81,13 @@ nav:
         - Write Data Management Plan: bias/lifecycle/dmp.md
         - Write Ethical Commitments: bias/lifecycle/ethical-commitments.md
         - Write Mission Statement: bias/lifecycle/mission-statement.md
-      - Collection:
+      - "Collection":
         - Collection: bias/lifecycle/collection.md
-      - Process: 
+      - "Process": 
         - Process: bias/lifecycle/process.md
-      Analyse:
+      - "Analyse":
         - Analyse: bias/lifecycle/analyse.md
-      Preserve & Share: 
+      - "Preserve & Share": 
         - Preserve & Share: bias/lifecycle/preserve-share.md
  - "Blog":
       - "Resource List": news/resourcelist.md
