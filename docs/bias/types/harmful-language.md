@@ -30,6 +30,7 @@ Harmful language can cause hurt to people and make the spaces they access your d
 ## Examples
 - Globalise Commodities Thesaurus: https://thesaurus.sd.di.huc.knaw.nl/commodities/en/ 
 - Change the Subject documentary: https://n2t.net/ark:/83024/d4hq3s42r
+- List of statements on harmful language in library and archives descriptions: https://cataloginglab.org/list-of-statements-on-bias-in-library-and-archives-description/
 
 ## Good-better-best practices
 

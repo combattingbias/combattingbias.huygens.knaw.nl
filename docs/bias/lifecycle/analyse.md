@@ -18,21 +18,21 @@ Describe your analysis process and workflow. <br>
 
 _When undertaking this task, what should you consider?_
 
-#### [**Unintended Use**](bias/types/unintended-use)
+#### [**Unintended Use**](/bias/types/unintended-use)
 
 - Can the visualisation/analysis be misinterpreted?[^2]
 
-#### [**Representation**](bias/types/representation)
+#### [**Representation**](/bias/types/representation)
 
 - What does the chosen visualisation style highlight and under- and/or misrepresent?[^3]
 
-#### [**Reproducibility**](bias/types/reproducibility)
+#### [**Reproducibility**](/bias/types/reproducibility)
 
 - Have you documented your analysis process sufficiently for others to reproduce it?
 - How are you handling intersectionality in your analysis?
 - Do your interpretations risk essentializing complex identities?
 
-#### [**Methodology (including algorithms)**](bias/types/methodology)
+#### [**Methodology (including algorithms)**](/bias/types/methodology)
 
 - How might your analytical methods themselves introduce bias?
 - What assumptions underlie your interpretive frameworks?
@@ -55,12 +55,13 @@ _What are good practices in relation to this task?_
 
 > Generous Interfaces for Digital Cultural Collections https://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html
 
+---
 
 ### Reflect: Assess sufficiency of data collection
 
 _When undertaking this task, what should you consider?_
 
-#### [**Silences**](bias/types/silences)
+#### [**Silences**](/bias/types/silences)
 
 - Are there gaps and/or silences in your data collection process?
 
@@ -76,7 +77,7 @@ _What are good practices in relation to this task?_
 
 #### Resources
     
-> _No resources yet._
+> See [Set Up: Select and Curate Sources and/or Data](/bias/lifecycle/collection/#select-and-curate-sources-andor-data)
 
 
 [^1]: Adapted from RDMkit, [Analysing](https://rdmkit.elixir-europe.org/analysing) (accessed 21 August 2025).

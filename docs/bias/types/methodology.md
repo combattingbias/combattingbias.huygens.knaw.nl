@@ -14,15 +14,24 @@ _Definition source: **Sustainability Directory (2025). [Assessment Methodologica
 ## Stakes
 _part of: **opacity**_
 
-Privacy has many regulations around it, and is therefore important to consider.  
+
   
 
 ## Where does it occur in the lifecycle?
 
+**2 - Collect**
+
+- Create usable categories and variables for your dataset
+
 **4 - Analyse**
+
 - Analysing and Interpreting Data
 
 ## Questions to consider throughout your work
+- How might your category choices introduce or amplify bias in ML applications?
+- Could your variables create problematic correlations or inferences when used in predictive models?
+- How might simplifications in categorization lead to algorithmic discrimination?
+- How might missing or unbalanced data within categories affect computational analysis?
 - How might your analytical methods themselves introduce bias?
 - What assumptions underlie your interpretive frameworks?
 

@@ -32,6 +32,7 @@ Collaboration in any form is crucial in creating ethically responsible datasets.
 ## Examples
 - DE-BIAS: https://pro.europeana.eu/page/de-bias-project-community-engagement-resources 
 - Historische Database Suriname and the Caribbean: https://www.ru.nl/onderzoek/onderzoeksprojecten/historische-database-van-suriname-en-de-cariben  
+- Reciprocal Research Network: www.rrncommunity.org
 
 ## Good-better-best practices
 

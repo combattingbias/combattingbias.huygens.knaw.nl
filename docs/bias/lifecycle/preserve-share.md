@@ -53,13 +53,17 @@ _What are good practices in relation to this task?_
 
 #### Resources
     
-> - Examples of published visualisations: 
+> Examples of published visualisations: 
+
 >   - Slave Voyages: https://www.slavevoyages.org/voyage/database#visualization
 >   - ESTA: https://exploringslavetradeinasia.com/maps.php 
+>   - Feral Atlas: https://feralatlas.org 
+>
+> Example of succinct format of showing (meta)data details: <br> 
 
-> - Example of succinct format of showing data details: <br> 
-    Quality Measures for Datasets: https://datanutrition.org/labels/ 
-
+>   - Quality Measures for Datasets: https://datanutrition.org/labels/ 
+>   - Traditional Knowledge Labels: https://localcontexts.org/labels/traditional-knowledge-labels/
+>
 > - Responsible Datasets in Context: https://www.responsible-datasets-in-context.com/
 
 
@@ -103,6 +107,7 @@ _What are good practices in relation to this task?_
     
 > - FAIR Implementation Profile (FIP): https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/ 
 > - RDM Kit Advice on Data Publication: https://rdmkit.elixir-europe.org/data_publication 
+> - Viktoria Brüggemann, Mark-Jan Bludau, Marian Dörk (2025). Laying it all out: Collage as a co-creative method for designing collection interfaces: https://uclab.fh-potsdam.de/publications/laying-it-all-out-collage-as-a-co-creative-method-for-designing-collection-interfaces
 
 
 [^1]: Adapted from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019), pp. 3-4.

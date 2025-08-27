@@ -4,8 +4,8 @@
 
 [**FAIR**](bias/types/FAIR)
 
-- How will your produced data be made FAIR (Findable, Accessible, Interoperable, and Reusable)?
-- Do you foresee any issues with FAIR implementation? Why?
+- How do you plan to publish FAIR data?
+- Do you foresee any issues with aligning your project with the FAIR principles? Why?
 
 [**Impact**](bias/types/impact)
 

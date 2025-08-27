@@ -55,7 +55,15 @@ _What are good practices in relation to this task?_
 
 #### Resources
     
-> _No resources yet_
+> - Globalise:
+>       - Background to annotation: https://globalise.huygens.knaw.nl/automatic-event-detection-in-early-modern-dutch-voc-documents-the-annotation-phase/ 
+>       - Analysis of annotation: https://globalise.huygens.knaw.nl/yes-okay-but-what-were-they-doing/
+> 
+> - HUB Global Labour Conflicts: 
+        - van Kasteel, Teun; Aurich, Jens, 2024, "Amok Events in 19th Century Dutch Newspapers", https://hdl.handle.net/10622/0WWVWT, IISH Data Collection, V4, UNF:6:YSefEtN1bDpqaOZ/lApgJg== [fileUNF]
+        - Läuferts, Josephine; Aurich, Jens, 2024, "Desertion Events in 19th Century Dutch Newspapers", https://hdl.handle.net/10622/D6OXZ9, IISH Data Collection, V3, UNF:6:PLqCWvjO39KGxxQhgp2J6w== [fileUNF]
+
+---
 
 ### Convert data into readable format[^2]
 
@@ -81,15 +89,18 @@ _What are good practices in relation to this task?_
 >   - DE-BIAS: 
 >       - Vocabulary: https://pro.europeana.eu/page/the-de-bias-vocabulary 
 >       - Identification tool: https://pro.europeana.eu/page/the-de-bias-tool 
+>
+>   - Knowledge Graph of Contentious Terminology <br>
+>       Nesterov, A., Hollink, L., van Erp, M., van Ossenbruggen, J. (2023). A Knowledge Graph of Contentious Terminology for Inclusive Representation of Cultural Heritage. In: Pesquita, C., et al. The Semantic Web. ESWC 2023. Lecture Notes in Computer Science, vol 13870. Springer, Cham. https://doi.org/10.1007/978-3-031-33455-9_30
 > 
-> Alternative vocabulary lists:
+> - Alternative vocabulary lists:
 > 
->   - Words Matter: https://www.materialculture.nl/en/publications/words-matter 
->   - Inclusive Terminology Glossary: https://culturalheritageterminology.co.uk/ 
->   - Indigenous Peoples Terminology: https://www.ictinc.ca/blog/indigenous-peoples-terminology-guidelines-for-usage 
->   - DEI Controlled Vocabs List: https://docs.google.com/spreadsheets/d/19solOX6tQTYvlF4lr_JNz2WlcsA76CcK3bxvYZ8cHzg/edit?gid=0#gid=0
->   - Gender, Sex and Sexual Orientation: https://gsso.research.cchmc.org/#!/ (ontology)
->   - Homosaurus: https://homosaurus.org/ (linked data vocabulary)
+>       - Words Matter: https://www.materialculture.nl/en/publications/words-matter 
+>       - Inclusive Terminology Glossary: https://culturalheritageterminology.co.uk/ 
+>       - Indigenous Peoples Terminology: https://www.ictinc.ca/blog/indigenous-peoples-terminology-guidelines-for-usage 
+>       - DEI Controlled Vocabs List: https://docs.google.com/spreadsheets/d/19solOX6tQTYvlF4lr_JNz2WlcsA76CcK3bxvYZ8cHzg/edit?gid=0#gid=0
+>       - Gender, Sex and Sexual Orientation: https://gsso.research.cchmc.org/#!/ (ontology)
+>       - Homosaurus: https://homosaurus.org/ (linked data vocabulary)
 
 ### Reflect: Reflect on the categories and variables used
 
@@ -104,7 +115,7 @@ _What are good practices in relation to this task?_
 
 #### Resources
 
-> _See **[Collection: Create usable categories and variables for your dataset]**_
+> _See [**Collection: Create usable categories and variables for your dataset**](/bias/lifecycle/collection/#create-usable-categories-and-variables-for-your-dataset)_
 
 
 

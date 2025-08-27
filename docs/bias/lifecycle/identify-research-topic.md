@@ -37,6 +37,7 @@ Further websites with helpful guiding questions and toolkits to consider before 
 > - USC Libraries, _Inclusive and Responsible Dataset Usage_: https://libguides.usc.edu/inclusive-datasets/considerations 
 > - University of Bath, _Research Data Service Homepage: Research Data Home_: https://library.bath.ac.uk/research-data
 > - RDMkit, _Ethical aspects_: https://rdmkit.elixir-europe.org/ethics#which-aspects-of-rdm-might-raise-ethical-issues 
+> - Always Already Computational - Collections as Data. 50  things yu can do: https://collectionsasdata.github.io/fiftythings/
 
 [^1]: Adapted from Dataschool Utrecht, [DEDA Dataschool](https://deda.dataschool.nl/) (2022).
 [^2]: Adapted from Educational Innovation Erasmus University Rotterdam, [Positionality](https://www.eur.nl/en/educational-innovation/professional-development/teacheur/themes/critical-world-citizenship/positionality) (accessed 21 August 2025). 

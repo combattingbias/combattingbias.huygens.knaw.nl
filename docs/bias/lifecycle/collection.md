@@ -66,6 +66,7 @@ _What are good practices in relation to this task?_
     - If you have learned something about your datasource that was not previously documented, be sure to make note of it such that you can convey it to future users of the dataset. 
 
 - Reflect on how your sources impact the (research) questions you ask.
+    - And vice versa: what questions can you ask with the available sources? 
 
 - Critically assess your collection practices, in order to identify gaps and oversights.
 
@@ -84,18 +85,21 @@ _What are good practices in relation to this task?_
 
 #### Resources
     
-> [OSF Support, How to Make a Data Dictionary](https://help.osf.io/article/217-how-to-make-a-data-dictionary) <br>
->    - Helps to create an overview with definitions for your categories.
-> 
-> Existing categorisations:
-> 
->   - **Museum cataloguing**: Government of Canada, Canadian Heritage. “Nomenclature for Museum Cataloging.” September 1, 2018. https://page.nomenclature.info/apropos-about.app?lang=en.
->   - **Biased gender language classification**: Havens, Lucy. “Towards Gender Biased Language Classification: A Case Study with British English Archival Metadata Descriptions.” Paper presented at NAACL-HLT. Student Research Workshop, 2022.
->    - **Taxonomy of Labour Relations**: Hofmeester, Karin; Lucassen, Jan; Lucassen, Leo; Stapel, Rombert; Zijdeman, Richard, 2016, "The Global Collaboratory on the History of Labour Relations, 1500-2000: Background, Set-Up, Taxonomy, and Applications", https://hdl.handle.net/10622/4OGRAD, IISH Data Collection, V1
+> - Hamed Taherdoost. **Data Collection Methods and Tools for Research**; A Step-by-Step Guide to Choose Data Collection Technique for Academic and Business Research Projects. International Journal of Academic Research in Management (IJARM), 2021, 10 (1), pp.10-38. https://hal.science/hal-03741847/document 
 >
-> Background reading:
+> - GLAM Workbench. [Finding GLAM Data](https://glam-workbench.net/#finding-glam-data).
 > 
->   - Bowker, Geoffrey C., and Susan Leigh Star. _**Sorting Things out: Classification and Its Consequences**_. MIT press, 2000.
+> - [**OSF Support, How to Make a Data Dictionary**](https://help.osf.io/article/217-how-to-make-a-data-dictionary) <br>
+>
+>       - Helps to create an overview with definitions for your categories. <br>
+>
+> - Pressing Matter project: https://pressingmatter.nl/
+>
+> - **Background reading**:
+> 
+>       - Quinn, Brian. “Collection Development and the Psychology of Bias.” The Library Quarterly 82, no. 3 (2012): 277–304. https://doi.org/10.1086/665933.
+>       - Sander Molenaar, _Late Imperial China Special Issue_, forthcoming publication.
+>       - Sarah Binta Alam Shoilee, Annastiina Ahola, Heikki Rantala, Eero Hyvönen, Victor de Boer, Jacco van Ossenbruggen, and Susan Legene. "Enhancing Provenance Research with Linked Data: A Visual Approach to Knowledge Discovery." SemDH'25: Second International Workshop of Semantic Digital Humanities, June 1-2 2025, Portoroz, Slovenia. https://seco.cs.aalto.fi/publications/2025/shoilee-et-al-pm-sampo-2025.pdf
 
 ---
 
@@ -153,7 +157,120 @@ https://harvardwiki.atlassian.net/wiki/spaces/hmschommanual/pages/49446971/Guide
 > - Nesterov, A., Hollink, L., & van Ossenbruggen, J. (2025). **Alter Heritage: A web app to gather expert knowledge on inclusive cultural heritage metadata**. In International Conference on Knowledge Engineering and Knowledge Management.
 > - Example documentation: **Globalise** [data-envelopes and historical contextualisation](https://datasets.iisg.amsterdam/dataverse/globalise).
 
+---
+
+### Create usable categories and variables for your dataset
+
+_When undertaking this task, what should you consider?_
+
+#### [**FAIR**](/bias/types/FAIR)
+
+- Are your categories clearly defined and documented?
+- Can your categories be linked to established ontologies?
+- Do your categories support interoperability with other datasets?
+
+#### [**Representation**](/bias/types/representation)
+
+- Be mindful of how these categories affect your research: does creating the category 'ethnic category' perpetuate the views of the colonial governments - and is this what you want in your research? What is its value and implications?
+- How might users interpret or misinterpret your categories?
+
+#### [**Multivocality**](/bias/types/multivocality)
+- Do your categories represent complex data adequately?
+- Can your framework accommodate multiple perspectives/worldviews?
+
+#### [**Historicity**](/bias/types/historicity)
+- Are you using categories as used by your sources? If so, consider elaborating your choice of categories to your users. 
+- How do you balance historical accuracy with contemporary ethical considerations while avoiding presentism?[^4]
+
+#### [**Methodology (including algorithms)**](/bias/types/methodology)
+- How might your category choices introduce or amplify bias in ML applications?
+- Could your variables create problematic correlations or inferences when used in predictive models?
+- How might simplifications in categorization lead to algorithmic discrimination?
+- How might missing or unbalanced data within categories affect computational analysis?
+
+_What are good practices in relation to this task?_
+
+- Look at other vocabularies out there (see Resources).
+
+- Create and optimise your template for collecting data through the inclusion of usable categories and variables.
+
+- Describe in documentation what each category/variable means. 
+
+- Base your categories on previously collected material and historical context. Do you know your data sources and existing research about these data sources well enough to know the strength and weaknesses of categories used in the data sources themselves? 
+
+- Create metadata flags for variables that require special handling in ML contexts.
+
+- Test your categorisation with diverse stakeholders to identify unforeseen biases.[^5]
+
+---
+
+#### Resources
+
+> Examples of vocabularies, thesauri, ontologies:
+>
+>   - **Globalise**: 
+>       - Polities: https://datasets.iisg.amsterdam/dataset.xhtml?persistentId=hdl:10622/SOS0KC 
+>       - Ethnicities, Religious Groups and Castes: https://datasets.iisg.amsterdam/dataset.xhtml?persistentId=hdl:10622/5LRS03
+>   - **Exploring Slave Trade in Asia**: https://exploringslavetradeinasia.com/documentation.php 
+>   - **Enslaved.org**: https://docs.enslaved.org/controlledVocabulary/
+>   - **Homosaurus**:  https://homosaurus.org/ 
+>   - **Unsilencing Colonial Archives**: 
+>       - Taxonomy: https://github.com/budh333/UnSilence_VOC
+>       - Paper: https://dare.uva.nl/search?identifier=87c624d7-165e-4df1-a15a-c8d8cc5d7b32 
+>
+> Existing categorisations:
+> 
+>   - **Museum cataloguing**: Government of Canada, Canadian Heritage. “Nomenclature for Museum Cataloging.” September 1, 2018. https://page.nomenclature.info/apropos-about.app?lang=en.
+>   - **Biased gender language classification**: Havens, Lucy. “Towards Gender Biased Language Classification: A Case Study with British English Archival Metadata Descriptions.” Paper presented at NAACL-HLT. Student Research Workshop, 2022.
+>    - **Taxonomy of Labour Relations**: Hofmeester, Karin; Lucassen, Jan; Lucassen, Leo; Stapel, Rombert; Zijdeman, Richard, 2016, "The Global Collaboratory on the History of Labour Relations, 1500-2000: Background, Set-Up, Taxonomy, and Applications", https://hdl.handle.net/10622/4OGRAD, IISH Data Collection, V1
+>
+> Background reading:
+> 
+>   - Bowker, Geoffrey C., and Susan Leigh Star. _**Sorting Things out: Classification and Its Consequences**_. MIT press, 2000.
+---
+
+### Reflect: Assess data storage structure of DMP
+
+_When undertaking this task, what should you consider?_
+
+#### [**Privacy**](/bias/types/privacy)
+
+- Is the collected data stored safely?
+
+_What are good practices in relation to this task?_
+
+- If necessary, reconsider your storage plans in the DMP and find alternatives. 
+
+---
+
+#### Resources
+
+> See [Set up: Write Data Management Plan](/bias/lifecycle/dmp)
+
+---
+
+### Reflect: Revisit your Set Up documentation
+
+_When undertaking this task, what should you consider?_
+
+#### [**Transparency**](/bias/types/Transparency)
+
+- Does the documentation reflect your current thinking in your research?
+
+_What are good practices in relation to this task?_
+
+- Update the living documents (DMP, Mission Statement, and Ethics Commitment) to reflect changes in research and thinking. 
+
+- Update the versioning of the documentation.
+
+---
+
+#### Resources
+
+> See [Set up](/bias/lifecycle/setup)
 
 [^1]: Adapted from Lib4RI, [Collecting](https://www.lib4ri.ch/research-data-management#Collecting) (accessed 27 August 2025). 
 [^2]: Adapted from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019), pp. 3-4. 
 [^3]: Adapted from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019), pp. 3-4. 
+[^4]: With regards presentist bias, consider reading Manjusha Kuruppath’s blogpost: https://combattingbias.huygens.knaw.nl/news/historicalbias/
+[^5]: For example, the project Unsilencing Colonial Archives benefited hugely from critique on essentialism on their first version of the proposed taxonomy by archivists and historians from the Dutch National Archives and Het Nieuwe Instituut.

@@ -39,4 +39,4 @@ Availability of sources impacts what type of research you can conduct and conclu
 
 
 ## Resources
-- 
+- Atlas of Mutual Heritage: https://www.atlasofmutualheritage.nl/ 
