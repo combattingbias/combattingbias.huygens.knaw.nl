@@ -1,8 +1,8 @@
-# Resource List
+# Resource List: Shaping the Combatting Bias project
 
 **DOI**: https://doi.org/10.5281/zenodo.16919549
 
-<i> This post has been updated from its first verson (published November 2024). </i>
+<i> This post has been updated from its first version (published November 2024). </i>
 
 <div style="text-align: center; margin: 0 auto; max-width: 500px;">
     <img src="\static\img\010028001472.jpg" alt="man with cart of books" style="width: 100%;" />
@@ -13,15 +13,15 @@
 
 This [**List of Resources**](https://www.zotero.org/groups/5670390/combatting_bias/library)[^1], as it is in its current form (August 2025), is the result of our initial enquiries into works, scholarship and practices around broad topics central to the Combatting Bias project: Bias, Dataset Creation and Documentation and the FAIR Principles.
 
-> **Our aim**: A bottom-up overview of concerns surrounding bias and related topics, as well as an insight into the scatteredness of these relevant resources. Collecting these resources into an accessible and shareable list - ideally editable as well, so it can reflect current interests and needs of those working with/on bias and so become community-driven. Furthermore, as knowledge does not merely exist in the realm of (peer-reviewed) academic papers and/or publications, we did our best to include films, exhibitions, fiction, and more. In this way we wanted this list to reflect a wide range of perspectives and approaches. 
+> **Our aim**: A bottom-up overview of concersns surrounding bias and related topics, as well as an insight into the scatteredness of these relevant resources. Collecting these resources into an accessible and shareable list - ideally editable as well, so it can reflect current interests and needs of those working with/on bias and so become community-driven. Furthermore, as knowledge does not merely exist in the realm of (peer-reviewed) academic papers and/or publications, we did our best to include films, exhibitions, fiction, and more. In this way we wanted this list to reflect a wide range of perspectives and approaches. 
 
 > **The outcome**: An accessible List of Resources that reflects our initial research process. We were not able to find a good way to make the list openly editable, but we are grateful to those who reached out to us to recommend resources to add. Through this exercise, we’ve found that ‘bias’ can represent many interconnected themes and is often used as a [**heuristic**](/bias/onbias/bias-as-heuristic). 
 
 This list, together with the interviews with our network, forms the theoretical basis of the Bias-Aware Framework, as well as provides concepts to include in the [**Bias Vocabulary**](bias/biasvocabulary). It also includes practical tools included in the Bias-Aware Guidelines. 
 
-We hope that this list can be of use to those navigating and grappling with this concept of bias.
+We’re grateful to anyone who has contributed to this list, either directly or indirectly – these resources are truly the result of a collaborative effort. We hope that this list can be of use to those navigating and grappling with this concept of bias.
 
-_The resource list is available as (Excel) spreadsheet or Zotero library. Please note that there may be slight differences between the two as they have been created side-by-side (and not updated simultaneously)._
+_The resource list is available as **(Excel) spreadsheet** or **Zotero library**. Please note that there may be slight differences between the two as they have been created side-by-side (and not updated simultaneously)._
 
 <p style="font-size: 24px;">📂 Resource List <a href="https://www.zotero.org/groups/5670390/combatting_bias/library"/><b>Zotero</b></a></p>
 
