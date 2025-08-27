@@ -1,5 +1,9 @@
 
-Everyone talks about bias, but **what exactly are we talking about?** When a computer scientist mentions "bias," they might mean skewed training data. When a historian says it, they could be referring to archival silences. When an archivist uses the term, they might mean cataloguing inconsistencies. This definitional chaos not just makes collaboration nearly impossible and undermines efforts to address bias systematically.
+<!-- Everyone talks about bias, but **what exactly are we talking about?** When a computer scientist mentions "bias," they might mean skewed training data. When a historian says it, they could be referring to archival silences. When an archivist uses the term, they might mean cataloguing inconsistencies. This definitional chaos not just makes collaboration nearly impossible and undermines efforts to address bias systematically. -->
+
+The contemporary moment seems to be one of “enchanted determinism”[^1]—a constructed belief that technology will inevitably ﬁnd the right answers if fed enough data. Yet the principle of “garbage in, garbage out” remains as relevant as ever. The “garbage” in this equation increasingly takes the form of bias, resulting in algorithms that discriminate against marginalised populations and systems that reproduce harmful content.
+
+This challenge is compounded by multiple intersecting forms of bias such as in source (selection), interpretation, representation, and algorithms. Despite growing attention to ‘bias mitigation’, the term carries different meanings across disciplines, complicating systematic approaches. This conceptual instability, if left unexamined, has the tendency to render bias both omnipresent and at a risk of becoming meaningless.
 
 ## One-sided tendency of the weighted ball
 
@@ -10,14 +14,14 @@ Everyone talks about bias, but **what exactly are we talking about?** When a com
         Image credit: <a href="http://hdl.handle.net/10648/aca27ac4-d0b4-102d-bcf8-003048976d84">Nationaal Archief</a>
     </figcaption>
 </div>
-To begin conceptualising bias, we first turned to its etymology. “Bias” first entered the English language in the 1570s as a technical term from the game of boules to refer to balls weighted on one side, causing them to curve obliquely. From this emerged the figurative sense of “a one-sided tendency of the mind” and later “undue propensity or prejudice,” particularly in legal contexts. The French origin biais means “sideways, askance, against the grain”—suggesting movement contrary to an expected direction.[^1] Some etymologists trace it to Latin biaxius (“with two axes”).[^2]
+To begin conceptualising bias, we first turned to its etymology. “Bias” first entered the English language in the 1570s as a technical term from the game of boules to refer to balls weighted on one side, causing them to curve obliquely. From this emerged the figurative sense of “a one-sided tendency of the mind” and later “undue propensity or prejudice,” particularly in legal contexts. The French origin biais means “sideways, askance, against the grain”—suggesting movement contrary to an expected direction.[^2] Some etymologists trace it to Latin biaxius (“with two axes”).[^3]
 
 This etymology prompts a critical question: when we designate something as “biased,” what is the assumed “true” path? What constitutes an unbiased space, description, or archive—and is such a thing even possible? 
 
 ## The textile metaphor
 Rather than pursuing an illusory “bias-free” ideal, we find inspiration in another meaning of bias: in textile, bias refers to fabric’s diagonal stretch between straight grains, the warp and the weft—where the material shows greatest flexibility. Garments—such as a tie, dress, or skirt—cut “on the bias” follows this diagonal orientation, creating fluidity and adaptability in the finished piece.
 
-**We leverage this sense of bias in our framework**: just as fabric's bias exposes structural tensions and possibilities, biases in datasets highlight gaps, conditions of production, overlooked questions, and unconsidered perspectives. This transforms bias from a problem to fix into an investigative lens or a "category of analysis". [^3]
+**We leverage this sense of bias in our framework**: just as fabric's bias exposes structural tensions and possibilities, biases in datasets highlight gaps, conditions of production, overlooked questions, and unconsidered perspectives. This transforms bias from a problem to fix into an investigative lens or a "category of analysis". [^4]
 
 ## Bias as Heuristic
 
@@ -25,9 +29,16 @@ Instead of searching for one definitive meaning, our research reveals that bias 
 
 Based on our interviews with dataset creators and digital infrastructure projects, we find that people use "bias" to address different yet interrelated concepts: harmful language, source selection, representation, algorithmic discrimination, and others. Rather than forcing these into a single definition, we are developing a [**'bias vocabulary'**](/bias/biasvocabulary) that maps these concepts, visualises their connections, and places them within the dataset lifecycle.
 
-[^1]: https://en.wiktionary.org/wiki/bias
-[^2]: https://www.etymonline.com/word/bias
-[^3]: Scott, Joan W. “Gender: A Useful Category of Historical Analysis.” The American Historical Review 91, no. 5 (1986): 1053–75. https://doi.org/10.2307/1864376.
+<figure style="width: 100%; max-width: 100%; margin: 0;">
+  <img src="/static/img/biasmap_1.png"  alt="bias map collage made by workshop participants at DHBenelux"> 
+  <figcaption>Bias Map, Combatting Bias Workshop, Amsterdam, 2025 </a>
+</figcaption> 
+</figure>
+
+[^1]: Campolo, Alexander, and Kate Crawford. "Enchanted determinism: Power without responsibility in artificial intelligence." Engaging Science, Technology, and Society (2020)
+[^2]: https://en.wiktionary.org/wiki/bias
+[^3]: https://www.etymonline.com/word/bias
+[^4]:Scott, Joan W. “Gender: A Useful Category of Historical Analysis.” The American Historical Review 91, no. 5 (1986): 1053–75. https://doi.org/10.2307/1864376
 
 
 

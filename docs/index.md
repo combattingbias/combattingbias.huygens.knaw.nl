@@ -8,18 +8,26 @@ hide:
 <div style="float: right; margin: 0 0 0 20px; max-width: 120px;">
     <img src="../../static/img/logo/cblogo_black.png" alt="Combatting Bias Logo Black designed by JP Karper" style="width: 100%;" />
 </div>
- The contemporary moment seems to be one of “enchanted determinism”—a constructed belief that technology will inevitably ﬁnd the right answers if fed enough data. Yet the principle of “garbage in, garbage out” remains as relevant as ever. The “garbage” in this equation increasingly takes the form of bias, resulting in algorithms that discriminate against marginalised populations and systems that reproduce harmful content.
+ <!-- The contemporary moment seems to be one of “enchanted determinism”—a constructed belief that technology will inevitably ﬁnd the right answers if fed enough data. Yet the principle of “garbage in, garbage out” remains as relevant as ever. The “garbage” in this equation increasingly takes the form of bias, resulting in algorithms that discriminate against marginalised populations and systems that reproduce harmful content.
 
-This challenge is compounded by multiple intersecting forms of bias such as in source (selection), interpretation, representation, and algorithms. Despite growing attention to ‘bias mitigation’, the term carries different meanings across disciplines, complicating systematic approaches. This conceptual instability, if left unexamined, has the tendency to render bias both omnipresent and at a risk of becoming meaningless.
+This challenge is compounded by multiple intersecting forms of bias such as in source (selection), interpretation, representation, and algorithms. Despite growing attention to ‘bias mitigation’, the term carries different meanings across disciplines, complicating systematic approaches. This conceptual instability, if left unexamined, has the tendency to render bias both omnipresent and at a risk of becoming meaningless. -->
 
 Combatting Bias is an initiative that has created a "bias-aware framework" to support researchers in identifying, describing, and reducing harmful biases in their data. Rather than pursuing the impossible goal of complete bias elimination, this project provides guidelines for researchers to understand and transparently document biases.
 
-1. [**Bias Vocabulary**](bias/types/about): categorisation of bias-related concepts and terminology to establish a shared vocabulary across disciplines</li>
+1. [**Bias Vocabulary**](bias/types/about): categorisation of bias-related concepts and terminology to establish a shared vocabulary across disciplines
 
-2. [**Bias-Aware Data Lifecycle Model**](bias/types/lifecycle/about): where and how bias emerges at different stages of dataset creation and use</li>
+2. [**Bias-Aware Data Lifecycle Model**](bias/types/lifecycle/about): where and how bias emerges at different stages of dataset creation and use
 
-3. [**Bias-Aware Toolkit**](bias/toolkit): evidence-based recommendations and reflective questions for each phase of the dataset lifecycle</li>
-</ol>
+The [**Bias-Aware Toolkit**](bias/toolkit) is an interface to search through the bias vocabulary and bias aware dataset lifecycle. 
+
+<figure style="width: 100%; max-width: 100%; margin: 0;">
+  <img src="static/img/bias map 3.png" alt="bias map collage made by workshop participants at DHBenelux"> 
+  <figcaption>Bias Map, DHBenelux, Amsterdam, 2025 </a>
+</figcaption> 
+</figure>
+
+
+
 
 ___
 
