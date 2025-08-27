@@ -19,40 +19,40 @@ Describe your collection process, metadata creation, contextualisation documenta
 
 _When undertaking this task, what should you consider?_
 
-#### [**Availability**](bias/types/availability)
+#### [**Availability**](/bias/types/availability)
 
 - What sources are available (e.g. only written sources, no oral sources; only governmental reports, no personal histories)? 
 - In what way does a lack of availability of sources skew your dataset (e.g. do you only have data on certain communities and not others)?
 
-#### [**Expertise**](bias/types/expertise)
+#### [**Expertise**](/bias/types/expertise)
 
 - What skills and expertise does your research team possess? How does this impact the sources/data you are able to work with and the ways in which you process this data (e.g. knowledge of paleography and language/cultural contexts or knowledge of a historical context might be necessary to work with certain kinds of sources)?
 
 
-#### [**Accessibility**](bias/types/accessibility)
+#### [**Accessibility**](/bias/types/accessibility)
 
 - What sources are accessible (e.g. not destroyed; in country; in language researcher understands, digitized and freely available online)?
 
-#### [**Multivocality**](bias/types/multivocality)
+#### [**Multivocality**](/bias/types/multivocality)
 
 - Does your data allow for the inclusion of multiple perspectives?
 - What sources are you not collecting from - and would they provide different perspectives?
 - How can you incorporate diverse viewpoints within your dataset?
 
-#### [**Representation**](bias/types/representation)
+#### [**Representation**](/bias/types/representation)
 
 - Which individuals, communities, or viewpoints are represented in your data?
 - Which are absent or underrepresented?
 - How might these representation patterns affect analysis and how will this be communicated to other users/visitors/researchers?
 
-#### [**Historicity**](bias/types/historicity)
+#### [**Historicity**](/bias/types/historicity)
 
 - Did you modify the data from its original source? 
-- Are you using terms as they are in the source document (extraction/verbatim)? Or did you interpret content in the source document in order to capture the data point? 
+- Are you using terms as they are in the source document (extraction/verbatim)? Or did you interpret content in the source document in order to capture the data point? <br>
 e.g. Sex of a person can be explicitly stated in the document or interpreted by the data collector (through names, for example). 
 - How are you handling ambiguous elements like implied gender or social status?
 
-#### [**Provenance**](bias/types/provenance)
+#### [**Provenance**](/bias/types/provenance)
 Where does your data come from? What is the context of its creation/inheritance?
 
 _What are good practices in relation to this task?_
@@ -84,8 +84,18 @@ _What are good practices in relation to this task?_
 
 #### Resources
     
-> [OSF Support, How to Make a Data Dictionary](https://help.osf.io/article/217-how-to-make-a-data-dictionary): 
+> [OSF Support, How to Make a Data Dictionary](https://help.osf.io/article/217-how-to-make-a-data-dictionary) <br>
 >    - Helps to create an overview with definitions for your categories.
+> 
+> Existing categorisations:
+> 
+>   - **Museum cataloguing**: Government of Canada, Canadian Heritage. “Nomenclature for Museum Cataloging.” September 1, 2018. https://page.nomenclature.info/apropos-about.app?lang=en.
+>   - **Biased gender language classification**: Havens, Lucy. “Towards Gender Biased Language Classification: A Case Study with British English Archival Metadata Descriptions.” Paper presented at NAACL-HLT. Student Research Workshop, 2022.
+>    - **Taxonomy of Labour Relations**: Hofmeester, Karin; Lucassen, Jan; Lucassen, Leo; Stapel, Rombert; Zijdeman, Richard, 2016, "The Global Collaboratory on the History of Labour Relations, 1500-2000: Background, Set-Up, Taxonomy, and Applications", https://hdl.handle.net/10622/4OGRAD, IISH Data Collection, V1
+>
+> Background reading:
+> 
+>   - Bowker, Geoffrey C., and Susan Leigh Star. _**Sorting Things out: Classification and Its Consequences**_. MIT press, 2000.
 
 ---
 
@@ -95,21 +105,21 @@ _What are good practices in relation to this task?_
 
 _When undertaking this task, what should you consider?_
 
-#### [**Accuracy**](bias/types/accuracy)
+#### [**Accuracy**](/bias/types/accuracy)
 
 - Is your metadata correct? 
 - Is the metadata of your source (data) correct?
 
-#### [Transparency](bias/types/transparency)
+#### [**Transparency**](/bias/types/transparency)
 
 - What are you basing your metadata descriptions on?
 - Is it clear how the original source (data) metadata was created?
 
-#### [Representation](bias/types/representation)
+#### [**Representation**](/bias/types/representation)
 - Are you providing consistent levels of detail across all descriptions? If not, what are the implications of this? And how will this be communicated to others? 
 - Does the metadata of your source (data) do so?
 
-#### [Multivocality](bias/types/multivocality)
+#### [**Multivocality**](/bias/types/multivocality)
 - Does your metadata fairly describe different perspectives that exist?
 - Does the metadata of your source (data) do so?
 - How does your metadata handle contested or evolving terminology?
@@ -129,11 +139,21 @@ _What are good practices in relation to this task?_
     - Convey actions taken in your documentation.
     - Share this information with the institutions that host the original data and metadata.
 
+---
+
+#### Resources
+
+> - Metadata standards: https://rd-alliance.github.io/metadata-directory/standards/ 
+> - Cornell Data Services, “Guide to writing “readme” style metadata”: https://data.research.cornell.edu/data-management/sharing/readme/ 
+> - University of Wisconsin-Madison, Five Ways to Document Your Data: https://data.wisc.edu/data-literacy/document/
+> - Archives for Black Lives in Philadelphia, Anti-Racist Description Resources: https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf 
+> - Harvard University, Guidelines for Inclusive and Conscientious Description:
+https://harvardwiki.atlassian.net/wiki/spaces/hmschommanual/pages/49446971/Guidelines+for+Inclusive+and+Conscientious+Description
+> - Fujimoto, Azuma, Toru Ogawa, Kazuyoshi Yamamoto, Yusuke Matsui, Toshihiko Yamasaki, and Kiyoharu Aizawa. “**Manga109 Dataset and Creation of Metadata**.” Proceedings of the 1st International Workshop on coMics ANalysis, Processing and Understanding (New York, NY, USA), MANPU ’16, Association for Computing Machinery, December 4, 2016, 1–5. https://doi.org/10.1145/3011549.3011551.
+> - Nesterov, A., Hollink, L., & van Ossenbruggen, J. (2025). **Alter Heritage: A web app to gather expert knowledge on inclusive cultural heritage metadata**. In International Conference on Knowledge Engineering and Knowledge Management.
+> - Example documentation: **Globalise** [data-envelopes and historical contextualisation](https://datasets.iisg.amsterdam/dataverse/globalise).
 
 
-----
-
-
-[^1]: https://www.lib4ri.ch/research-data-management#Collecting 
-[^2]: https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf, p. 3-4 
-[^3]: https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf, p. 3-4
+[^1]: Adapted from Lib4RI, [Collecting](https://www.lib4ri.ch/research-data-management#Collecting) (accessed 27 August 2025). 
+[^2]: Adapted from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019), pp. 3-4. 
+[^3]: Adapted from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019), pp. 3-4. 

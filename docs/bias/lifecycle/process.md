@@ -15,23 +15,23 @@ Describe your processing process.
 
 ## Tasks
 
-### Select and Curate Sources and/or Data
+### Annotate your data
 
 _When undertaking this task, what should you consider?_
 
-#### [**Accuracy**](bias/types/accuracy)
+#### [**Accuracy**](/bias/types/accuracy)
 
 - How accurate are your annotations? 
 
-#### [**Transparency**](bias/types/transparency)
+#### [**Transparency**](/bias/types/transparency)
 
 - What are you basing your annotations on?
 
-#### [**Multivocality**](bias/types/multivocality)
+#### [**Multivocality**](/bias/types/multivocality)
 
 - Does your annotation represent diversity adequately?
 
-#### [**Expertise**](bias/types/expertise)
+#### [**Expertise**](/bias/types/expertise)
 
 - Who is annotating your data? What is their expertise and how can this impact your data annotation?
 
@@ -61,7 +61,7 @@ _What are good practices in relation to this task?_
 
 _When undertaking this task, what should you consider?_
 
-#### [**Harmful Language**](bias/types/harmful-language)
+#### [**Harmful Language**](/bias/types/harmful-language)
 
 - Does your data contain offensive/harmful language and/or categories?
 
@@ -77,10 +77,13 @@ _What are good practices in relation to this task?_
 #### Resources
     
 > Previous research to help identify harmful language:
+>
 >   - DE-BIAS: 
 >       - Vocabulary: https://pro.europeana.eu/page/the-de-bias-vocabulary 
 >       - Identification tool: https://pro.europeana.eu/page/the-de-bias-tool 
+> 
 > Alternative vocabulary lists:
+> 
 >   - Words Matter: https://www.materialculture.nl/en/publications/words-matter 
 >   - Inclusive Terminology Glossary: https://culturalheritageterminology.co.uk/ 
 >   - Indigenous Peoples Terminology: https://www.ictinc.ca/blog/indigenous-peoples-terminology-guidelines-for-usage 
@@ -92,7 +95,7 @@ _What are good practices in relation to this task?_
 
 _When undertaking this task, what should you consider?_
 
-#### [**Representation**](bias/types/representation)
+#### [**Representation**](/bias/types/representation)
 - Is there data that is unfairly represented by the used categories? 
 
 _What are good practices in relation to this task?_
@@ -101,7 +104,7 @@ _What are good practices in relation to this task?_
 
 #### Resources
 
-> _No resources yet._ 
+> _See **[Collection: Create usable categories and variables for your dataset]**_
 
 
 

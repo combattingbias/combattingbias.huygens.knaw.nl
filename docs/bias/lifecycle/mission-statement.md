@@ -2,7 +2,7 @@
 
 ## When undertaking this task, what should you consider?
 
-[**Transparency**](bias/types/transparency)
+[**Transparency**](/bias/types/transparency)
 
 - How active will your intervention be?
 - Who will your research impact positively/negatively?
@@ -44,6 +44,7 @@
 Take a look at your institutional (faculty, department) guidelines and/or Code of Conducts regarding DMPs. Below are external resources that may be helpful:
 
 > Examples of Mission Statements:
+>
 >   - Globalise: https://docs.globalise.huygens.knaw.nl/mission/mission_researchthemes/ 
 >   - One More Voice: https://onemorevoice.org/html/documents/mission_statement.html 
 >   - DAIR Institute: https://www.dair-institute.org/research-philosophy/ 

@@ -1,11 +1,11 @@
 ## When undertaking this task, what should you consider?
 
-[**Positionality**](bias/types/positionality)
+[**Positionality**](/bias/types/positionality)
 
 - How does the social, political, economic, cultural, academic context you are embedded in relate to advancing social justice? 
     - Are you conducting research from a position of historical privilege? (For example, are you based in a former colonial power studying colonized regions?) How can you then use the benefits of your context to advance the deconstruction of existing power structures?
 
-[**Transparency**](bias/types/transparency)
+[**Transparency**](/bias/types/transparency)
 
 - Do you have any ethical concerns about the research? Think of: 
     - What accessibility barriers might your research create or reinforce?
@@ -26,11 +26,12 @@
 ## Resources
     
 > Examples of Ethical Commitments:
+>
 >    - Globalise: https://docs.globalise.huygens.knaw.nl/ethics/policy/ 
 >    - Enslaved.org: https://enslaved.org/statementofEthics/ 
 >    - On these Grounds: https://onthesegrounds.org/s/OTG/page/ethical-commitments 
 
 
-[^1]: See for reference: On These Grounds, [Ethical Commitments](https://onthesegrounds.org/s/OTG/page/ethical-commitments) (accessed 21 August 2025). , 
+[^1]: See for reference: On These Grounds, [Ethical Commitments](https://onthesegrounds.org/s/OTG/page/ethical-commitments) (accessed 21 August 2025).
 [^2]: Adapted from Dataschool Utrecht, [DEDA Dataschool](https://deda.dataschool.nl/) (2022).
 [^3]: From conversations with [Globalise](https://docs.globalise.huygens.knaw.nl/ethics/policy/); Kelly and Vicky Breemen, forthcoming publication. 

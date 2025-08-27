@@ -1,4 +1,7 @@
 # Resource List
+
+**DOI**: https://doi.org/10.5281/zenodo.16919549
+
 <i> This post has been updated from its first verson (published November 2024). </i>
 
 <div style="text-align: center; margin: 0 auto; max-width: 500px;">
@@ -18,10 +21,11 @@ This list, together with the interviews with our network, forms the theoretical 
 
 We hope that this list can be of use to those navigating and grappling with this concept of bias.
 
----
-<p style="font-size: 24px;">📂 Resource List (Zotero): <a href="https://www.zotero.org/groups/5670390/combatting_bias/library"/>Access Here</a></p>
+_The resource list is available as (Excel) spreadsheet or Zotero library. Please note that there may be slight differences between the two as they have been created side-by-side (and not updated simultaneously)._
 
----
+<p style="font-size: 24px;">📂 Resource List <a href="https://www.zotero.org/groups/5670390/combatting_bias/library"/><b>Zotero</b></a></p>
+
+<p style="font-size: 24px;">📂 Resource List <a href="https://doi.org/10.5281/zenodo.16919549"/><b>spreadsheet</b></a></p>
 
 ## The Challenge of “Sorting Things Out”
 
@@ -182,7 +186,6 @@ silence<br>
 silences<br>
 slavery<br>
 social justice<br>
-sociology<br>
 standard<br>
 statistics<br>
 student activism<br>
