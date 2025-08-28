@@ -18,10 +18,10 @@ It is important to be as accurate as you can be - describing precisely your proc
 ## Where does it occur in the lifecycle?
 
 **2 - Collection**
-- Create metadata for the data
+- [Create metadata for the data](/bias/lifecycle/collection)
 
 **3 - Process**
-- Annotate your data
+- [Annotate your data](/bias/lifecycle/process)
 
 ## Questions to consider throughout your work
 - Is your metadata correct? 
@@ -29,7 +29,7 @@ It is important to be as accurate as you can be - describing precisely your proc
 - How accurate are your annotations? 
 
 ## Examples
--  
+- The NIOD [Behind the Star](https://www.niodimagelab.nl/behind-the-star) project found captions of images in the [Beeldbank WO2](https://beeldbankwo2.nl/nl/achter-de-ster) were incorrect: they ascribed the wrong date to events and/or wrong locations to where the pictured were made. The captions and metadata have since been updated.
 
 ## Good-better-best practices
 

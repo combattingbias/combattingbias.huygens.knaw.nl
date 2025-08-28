@@ -8,7 +8,7 @@ keywords: ["accessible", "findable", "inclusivity"]
 ## Definition
 Denotes whether a source of data is in existence, reachable and operational. 
 
-_Definition source: **CB definition** (based on technical definitions for ‘data availability’)_.
+_Definition source: **Combatting Bias definition** (based on technical definitions for ‘data availability’)_.
 
 ## Stakes
 _part of: **discrimination**_
@@ -20,7 +20,7 @@ Availability of sources impacts what type of research you can conduct and conclu
 ## Where does it occur in the lifecycle?
 
 **2 - Collection**
-- Select and curate sources and/or data
+- [Select and curate sources and/or data](/bias/lifecycle/collection)
 
 ## Questions to consider throughout your work
 - What sources are available (e.g. only written sources, no oral sources; only governmental reports, no personal histories)? 
@@ -28,7 +28,8 @@ Availability of sources impacts what type of research you can conduct and conclu
 
 
 ## Examples
-- For example: If you only work with digitized sources, consider which sources you are excluding and what implications it can have on your research output and findings.  
+- If you only work with digitized sources, consider which sources you are excluding and what implications it can have on your research output and findings.
+- 
 
 ## Good-better-best practices
 
@@ -40,3 +41,4 @@ Availability of sources impacts what type of research you can conduct and conclu
 
 ## Resources
 - Atlas of Mutual Heritage: https://www.atlasofmutualheritage.nl/ 
+- Margo Groenewoud, Coen van Galen and Thunnis van Oort (October 2024). _Inventarisatie van bronnen met betrekking tot het slavernijverleden op de Nederlands-Caribische eilanden._ Report, Koninklijke Bibliotheek. https://www.metamorfoze.nl/publicatie/inventarisatie-bronnen-slavernijverleden-nederlands-caribische-eilanden 
