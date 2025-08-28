@@ -47,6 +47,7 @@ nav:
       - Explore: bias/toolkit.md
  - Bias:
     - On Bias: bias/onbias.md
+    - Bias(ed) Maps: bias/bias-maps.md
     # - Bias Vocabulary: bias/biasvocabulary.md
     - Bias Vocabulary:
       - About: bias/types/about.md

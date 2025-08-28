@@ -25,9 +25,9 @@ Rather than pursuing an illusory “bias-free” ideal, we find inspiration in a
 
 ## Bias as Heuristic
 
-Instead of searching for one definitive meaning, our research reveals that bias functions as a **heuristic**—a shorthand referring to a web of interconnected concerns relating to power, inequality, positionality, silences, knowledge, and representation. 
+Instead of searching for one definitive meaning, our research reveals that bias functions as a **heuristic**—a shorthand referring to a web of interconnected concerns relating to power, inequality, positionality, silences, knowledge, and representation. This research consisted of our interviews with dataset creators, researchers and practitioners, [literature reviews](https://doi.org/10.5281/zenodo.16919549), and collective creative brainstorms (resulting in [_**Bias(ed) Maps**_](/bias/bias-maps)). The latter, especially, represents the complex and multi-layered nature of 'bias'. 
 
-Based on our interviews with dataset creators and digital infrastructure projects, we find that people use "bias" to address different yet interrelated concepts: harmful language, source selection, representation, algorithmic discrimination, and others. Rather than forcing these into a single definition, we are developing a [**'bias vocabulary'**](/bias/biasvocabulary) that maps these concepts, visualises their connections, and places them within the dataset lifecycle.
+Rather than forcing these into a single definition, we are developing a [**'bias vocabulary'**](/bias/biasvocabulary) that maps these concepts, visualises their connections, and places them within the dataset lifecycle.
 
 <figure style="width: 100%; max-width: 100%; margin: 0;">
   <img src="/static/img/biasmap_1.png"  alt="bias map collage made by workshop participants at DHBenelux"> 

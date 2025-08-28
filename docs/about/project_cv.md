@@ -19,15 +19,15 @@ The Combatting Bias project (file number ICT.TDCC.001.001) is a **TDCC-SSH Bottl
 
 ## Publications
 
+- Combatting Bias. (August 2025). _Bias(ed) Maps_. https://doi.org/10.5281/zenodo.16943470
+- Combatting Bias. (August 2025). _Combatting Bias Resources List_. https://doi:10.5281/zenodo.16919549. 
+    - Zotero Group Library: https://www.zotero.org/groups/5670390/combatting_bias/library
+
 **Pre-publications** <br/>
 
 - Mrinalini Luthra and Amber Zijlma. (2025, 7 June). _So Everything is Biased… Now What?!_ DH Benelux 2025, Amsterdam, The Netherlands. https://doi.org/10.5281/zenodo.15614858. 
 - Mrinalini Luthra and Amber Zijlma (2025, 2 June). _Everything is biased ... now what?! Introducing the Bias-Aware Framework_. SemDH workshop, Portorož, Slovenia. https://semdh.github.io/accepted-papers#paper20. 
 - Mrinalini Luthra and Amber Zijlma. (2025, 12 June). _From Bias Paralysis to Bias as a Category of Analysis. Introducing the Bias-Aware Framework_. Association for Digital Humanities and Digital Culture (AIUCD), Verona, Italy. https://aiucd2025.dlls.univr.it/assets/pdf/papers/85.pdf. 
-
-**List of Resources** <br/>
-
-- [Combatting Bias Resource List](https://www.zotero.org/groups/5670390/combatting_bias/library) (August 2025). _Zotero Group Library_. <br> Documentation: [Resource List blog](/news/resourcelist/). 
 
 ## Events Organised
 - Manjusha Kuruppath, Mrinalini Luthra, Lodewijk Petram, Amber Zijlma. (2025, 13 May). [_Combatting Bias Workshop_](https://combattingbias.huygens.knaw.nl/news/mayevents/) [Workshop]. Amsterdam, The Netherlands.
