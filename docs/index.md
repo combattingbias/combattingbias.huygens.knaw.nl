@@ -16,12 +16,12 @@ Combatting Bias is an initiative that has created a "bias-aware framework" to su
 
 1. [**Bias Vocabulary**](bias/types/about): categorisation of bias-related concepts and terminology to establish a shared vocabulary across disciplines
 
-2. [**Bias-Aware Data Lifecycle Model**](bias/types/lifecycle/about): where and how bias emerges at different stages of dataset creation and use
+2. [**Bias-Aware Data Lifecycle Model**](bias/lifecycle/about/): where and how bias emerges at different stages of dataset creation and use
 
 The [**Bias-Aware Toolkit**](bias/toolkit) is an interface to search through the bias vocabulary and bias aware dataset lifecycle. 
 
 <figure style="width: 100%; max-width: 100%; margin: 0;">
-  <img src="static/img/bias map 3.png" alt="bias map collage made by workshop participants at DHBenelux"> 
+  <img src="static/img/bias map 3 more compressed.webp" alt="bias map collage made by workshop participants at DHBenelux"> 
   <figcaption>Bias Map, DHBenelux, Amsterdam, 2025 </a>
 </figcaption> 
 </figure>

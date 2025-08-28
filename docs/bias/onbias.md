@@ -30,8 +30,8 @@ Instead of searching for one definitive meaning, our research reveals that bias 
 Rather than forcing these into a single definition, we are developing a [**'bias vocabulary'**](/bias/biasvocabulary) that maps these concepts, visualises their connections, and places them within the dataset lifecycle.
 
 <figure style="width: 100%; max-width: 100%; margin: 0;">
-  <img src="/static/img/biasmap_1.png"  alt="bias map collage made by workshop participants at DHBenelux"> 
-  <figcaption>Bias Map, Combatting Bias Workshop, Amsterdam, 2025 </a>
+  <img src="/static/img/biasmap_1 small.jpg"  alt="collage of all the bias map collages"> 
+  <figcaption>All Bias Maps, Combatting Bias Workshop, Amsterdam, 2025 </a>
 </figcaption> 
 </figure>
 
