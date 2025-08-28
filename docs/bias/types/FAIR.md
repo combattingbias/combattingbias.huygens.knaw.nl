@@ -19,12 +19,15 @@ Adhering to the FAIR Principles ensures your data is technically responsible, as
 ## Where does it occur in the lifecycle?
 
 **1 - Set up**
+
 - Write Data Management Plan (DMP)
 
 **2 - Collection**
+
 - Create usable categories and variables for your dataset
 
 **5 - Share & Preserve**
+
 - Create or choose an interface/repository to publish data, analyses, visualisations and other publications
 
 ## Questions to consider throughout your work
