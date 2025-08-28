@@ -48,6 +48,7 @@ nav:
  - Bias:
     - On Bias: bias/onbias.md
     - Bias(ed) Maps: bias/bias-maps.md
+    - "Resource List": bias/resourcelist.md
     # - Bias Vocabulary: bias/biasvocabulary.md
     - Bias Vocabulary:
       - About: bias/types/about.md
@@ -91,7 +92,6 @@ nav:
       - "Preserve & Share": 
         - Preserve & Share: bias/lifecycle/preserve-share.md
  - "Blog":
-      - "Resource List": news/resourcelist.md
       - "Combatting Bias Together! A Reflection on our May Events": news/mayevents.md
       - "Uncovering Shared yet Troubled Pasts (Event)": news/shared-yet-troubled-pasts.md
       - "Prisoners of the Past: Reflections on Bias in the Dutch East India Company Historian’s Craft ": news/historicalbias.md

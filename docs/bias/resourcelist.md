@@ -1,6 +1,6 @@
 # Resource List: Shaping the Combatting Bias project
 
-**DOI**: https://doi.org/10.5281/zenodo.16919549
+**DOI**: [https://doi.org/10.5281/zenodo.16919549](https://doi.org/10.5281/zenodo.16919549){:target="_blank"}
 
 <i> This post has been updated from its first version (published November 2024). </i>
 

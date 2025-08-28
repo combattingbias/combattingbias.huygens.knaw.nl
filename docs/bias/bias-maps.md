@@ -1,6 +1,6 @@
 # Bias(ed) Maps
 
-**DOI**: https://doi.org/10.5281/zenodo.16943470
+**DOI**: [https://doi.org/10.5281/zenodo.16943470](https://doi.org/10.5281/zenodo.16943470){:target="_blank"}
 
 During the workshops held for the Combatting Bias project, we posed the question 'What is bias?'. Through collaborative collaging - a conscious and creative act to make complex concepts concrete - the following bias(ed) maps were created.[^1] 
 
