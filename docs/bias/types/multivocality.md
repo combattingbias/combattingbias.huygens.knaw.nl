@@ -48,6 +48,7 @@ If multivocality is neither considered, nor represented in the publication of re
 - Face/Surface. Metamorphosis of colonial perspective: https://kadoc.kuleuven.be/3_onderzoek/33_onzeonderzoeksoutput/tentoonstellingen/2024/tt_2024_bias 
 - Chimamanda Ngozi Adichie, The danger of a single story: https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story 
 - Bias(ed) Maps: https://doi.org/10.5281/zenodo.16943470
+- Sounds Familiar: https://www.beeldengeluid.nl/onderzoek/projecten/sounds-familiar
 
 ## Good-better-best practices
 

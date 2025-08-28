@@ -28,6 +28,9 @@ To understand the journey your data has been through, as well as understanding t
 - Where does your data come from? What is the context of its creation/inheritance?
 
 ## Examples
+- Looted Cultural Assets: https://www.lootedculturalassets.de/
+- van Lange, Milan M. and Keijzer, Carlijn (2025) "Tracing Transformations: (Digitized) World War II Correspondence Through the Lens of the Records Continuum Model," Journal of Contemporary Archival Studies: Vol. 12, Article 4.
+Available at: https://elischolar.library.yale.edu/jcas/vol12/iss1/4
 - Sander Molenaar. _Late Imperial China Special Issue_, forthcoming publication
 
 ## Good-better-best practices

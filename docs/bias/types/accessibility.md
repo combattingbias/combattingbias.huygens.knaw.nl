@@ -49,3 +49,4 @@ Ensuring equal accessibility to your research (data) is a core part of creating 
 
 ## Resources
 - Gov.uk, Accessibility in government: Dos and don'ts on designing for accessibility. https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/ 
+- Shopland, N. (2020). A Practical Guide to Searching LGBTQIA Historical Records (1st ed.). Routledge. https://doi.org/10.4324/9781003006787
