@@ -96,6 +96,7 @@ _What are good practices in relation to this task?_
 > - Alternative vocabulary lists:
 > 
 >       - Words Matter: https://www.materialculture.nl/en/publications/words-matter 
+>       - Transformative Arabic Language Guide: https://library.fes.de/pdf-files/bueros/beirut/22183-20250724.pdf
 >       - Inclusive Terminology Glossary: https://culturalheritageterminology.co.uk/ 
 >       - Indigenous Peoples Terminology: https://www.ictinc.ca/blog/indigenous-peoples-terminology-guidelines-for-usage 
 >       - DEI Controlled Vocabs List: https://docs.google.com/spreadsheets/d/19solOX6tQTYvlF4lr_JNz2WlcsA76CcK3bxvYZ8cHzg/edit?gid=0#gid=0

@@ -18,6 +18,7 @@ When positionality goes unconsidered or unacknowledged, the research is impacted
 ## Where does it occur in the lifecycle?
 
 **1 - Set up**
+
 - Identify a research topic
 - Write funding proposals
 - Write Ethical Commitments
@@ -34,6 +35,7 @@ When positionality goes unconsidered or unacknowledged, the research is impacted
 - KB Researchers-in-Residence Kelly Breemen and Vicky Breemen (publication forthcoming)
 - Uncomfortable Oxford Tours: https://www.uncomfortableoxford.com/ 
 - La Vaughn Belle, In the Place of Shadows: https://www.lavaughnbelle.com/home-1#/in-the-place-of-shadows/ 
+- Feral Atlas: https://feralatlas.org
 
 ## Good-better-best practices
 

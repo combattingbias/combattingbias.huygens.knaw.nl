@@ -45,3 +45,6 @@ Similar to risk assessments: by considering unintended uses during research, som
 |Make clear in your mission statement what the goal of your research (output) is. | Discuss any unintended uses (and intended uses) in documentation (e.g. mission statement, final publications).| Work at mitigating unintended uses during your research.|
 | |Acknowledge the shortcomings of the tools and methods that you use and assess the implications it can have on output and subsequent usage. | Anticipate unintended use of your dataset by future users and warn against such usage.|
 | | | Consider how you convey this knowledge and put it to use (by conceptualising and implementing mitigation strategies) in future data projects. | 
+
+## Resources
+- 

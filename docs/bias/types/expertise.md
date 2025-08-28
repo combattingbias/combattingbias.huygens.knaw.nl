@@ -20,9 +20,11 @@ Your expertise impacts what type of research you conduct and conclusions you dra
 ## Where does it occur in the lifecycle?
 
 **2 - Collection**
+
 - Select and curate sources and/or data
 
 **3 - Process**
+
 - Annotate your data
 
 ## Questions to consider throughout your work

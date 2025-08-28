@@ -47,11 +47,13 @@ Harmful language can cause hurt to people and make the spaces they access your d
     - Vocabulary: https://pro.europeana.eu/page/the-de-bias-vocabulary 
     - Identification tool: https://pro.europeana.eu/page/the-de-bias-tool 
     - Words Matter: https://www.materialculture.nl/en/publications/words-matter 
+- Words Matter: https://www.materialculture.nl/en/publications/words-matter 
 - Inclusive Terminology Glossary: https://culturalheritageterminology.co.uk/ 
+- Transformative Arabic Language Guide: https://library.fes.de/pdf-files/bueros/beirut/22183-20250724.pdf
 - Indigenous Peoples Terminology: https://www.ictinc.ca/blog/indigenous-peoples-terminology-guidelines-for-usage 
 - DEI Controlled Vocabs List: https://docs.google.com/spreadsheets/d/19solOX6tQTYvlF4lr_JNz2WlcsA76CcK3bxvYZ8cHzg/edit?gid=0#gid=0 
-- Gender, Sex and Sexual Orientation: https://gsso.research.cchmc.org/#!/ (linked data)
-Homosaurus: https://homosaurus.org/ (linked data)
+- Gender, Sex and Sexual Orientation: https://gsso.research.cchmc.org/#!/ (ontology)
+Homosaurus: https://homosaurus.org/ (linked data vocabulary)
 
 [^1]: Adapted from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019).
 [^2]: Taken from from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019).

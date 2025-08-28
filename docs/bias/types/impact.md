@@ -40,8 +40,9 @@ If impact goes unconsidered, and therefore not discussed in research’s output,
 | Good | Better | Best|
 |---|---|---|
 | You are aware of the impact that your research can have (both intended and unintended) and outline these points in your documentation.|You conceive your research project with a clear understanding of the impact that your research can have, and regularly evaluate and document how the desired impact has changed or been modified through the different stages of the research life-cycle. | Creating positive societal  impact occupies a central place in your research plan. You earmark funding and devise strategies to accomplish this. |
-| || |
-| | | | 
 
+## Resources
+- David Leslie, Michael Katell, Mhairi Aitken, et al. “Advancing Data Justice Research and Practice: An Integrated Literature Review.” SSRN Scholarly Paper No. 4073376. Social Science Research Network, March 22, 2022. https://doi.org/10.2139/ssrn.4073376.
+- Data Advocacy 4 All: https://da4all.github.io/
 
 [^1]: https://rdmkit.elixir-europe.org/ethics#which-aspects-of-rdm-might-raise-ethical-issues 

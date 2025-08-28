@@ -30,7 +30,6 @@ Enabling accessibility and availability of your research output after the end of
 - DANS Easy: https://easy.dans.knaw.nl/easy-static/index.html
     - Sustainable data archiving repository.
 
-
 ## Good-better-best practices
 
 | Good | Better | Best|
@@ -39,4 +38,4 @@ Enabling accessibility and availability of your research output after the end of
 | | | Maintain dataset versioning and ensure that the documentation plots the different changes made in the different versions of data and metadata. | 
 
 ## Resources
-- 
+- FAIR Principles: https://www.go-fair.org/

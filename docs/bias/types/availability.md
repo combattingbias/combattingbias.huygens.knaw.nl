@@ -15,11 +15,12 @@ _part of: **discrimination**_
 
 _related to: **accessibility**_
 
-Availability of sources impacts what type of research you can conduct and conclusions you can draw. Acknowledging a lack of availability signals to the audience that narratives are likely missing from the output.  
+Availability of sources impacts what type of research you can conduct and conclusions you can draw. Acknowledging a lack of availability signals to the audience that narratives are likely missing from the output. Availability also creates accountability.
 
 ## Where does it occur in the lifecycle?
 
 **2 - Collection**
+
 - [Select and curate sources and/or data](/bias/lifecycle/collection)
 
 ## Questions to consider throughout your work
@@ -28,8 +29,8 @@ Availability of sources impacts what type of research you can conduct and conclu
 
 
 ## Examples
-- If you only work with digitized sources, consider which sources you are excluding and what implications it can have on your research output and findings.
-- 
+- The Public Source (2024). Against Genocide: Mapping the Future of Palestine, One Archive at a Time. https://thepublicsource.org/archiving-against-genocide-palestine
+- The Accountability Archive: https://accountabilityarchive.org/
 
 ## Good-better-best practices
 

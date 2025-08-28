@@ -19,9 +19,11 @@ Ownership should be considered in order to confront unbalanced power structures.
 ## Where does it occur in the lifecycle?
 
 **1 - Set up**
+
 - Write Data Management Plan (DMP)
 
 **5 - Share & Preserve**
+
 - Create or choose an interface to publish data, analyses, visualisations and other publications
 
 
@@ -31,16 +33,19 @@ Ownership should be considered in order to confront unbalanced power structures.
 
 ## Examples
 - Local Contexts: https://localcontexts.org/ 
+    - Traditional Knowledge Labels: https://localcontexts.org/labels/traditional-knowledge-labels/
+- District Six Museum: https://www.districtsix.co.za/
+- Otherwise Property: A Conversation with Bernadette Atuahene. With Pressing Matters. Otherwise Property Conversations. 2024. Interview. https://pressingmatter.nl/otherwise-property-a-conversation-with-bernadette-atuahene/.
 
 ## Good-better-best practices
 
 | Good | Better | Best|
 |---|---|---|
-When writing metadata: Focus on the humanity of an individual before their identity/ies, e.g. always mention names before saying their social status.[^1]| Acknowledge the sources from which your data comes from and interrogate them within your publications.| Share ownership of your project with affected communities. See: [Collaboration](../collaboration).|
+|When writing metadata: Focus on the humanity of an individual before their identity/ies, e.g. always mention names before saying their social status.[^1]| Acknowledge the sources from which your data comes from and interrogate them within your publications.| Share ownership of your project with affected communities. See: [Collaboration](../collaboration).|
 |"Do not use passive voice when describing oppressive relationships".[^2] | | Rigorously evaluate your sources, tools and methods early on in the project, assess possible implications and make decisions to identify/include and use  alternative sources, tools and methods that can mitigate biased output or biased inferences based on the output.|
 
 ## Resources
--
+- Drieënhuizen, C. (2018). Mirrors of Time and Agents of Action Indonesia’s Claimed Cultural Objects and Decolonisation, 1947-1978. BMGN - Low Countries Historical Review, 133(2), 79-90. https://doi.org/10.18352/bmgn-lchr.10552
 
 [^1]: Adapted from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019), pp. 3-4. 
 [^2]: Taken from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019), pp. 3-4.

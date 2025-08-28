@@ -27,7 +27,7 @@ If recruitment practices are not done thoughtfully, it will make it so that your
 - Will your recruitment practices be inclusive?
 
 ## Examples
--
+- Dastin, Jeffrey. “Amazon Scraps Secret AI Recruiting Tool That Showed Bias against Women.” In Ethics of Data and Analytics, edited by Kirsten Martin. Auerbach Publications, 2022.
 
 ## Good-better-best practices
 

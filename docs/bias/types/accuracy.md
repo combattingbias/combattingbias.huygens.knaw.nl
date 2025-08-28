@@ -18,9 +18,11 @@ It is important to be as accurate as you can be - describing precisely your proc
 ## Where does it occur in the lifecycle?
 
 **2 - Collection**
+
 - [Create metadata for the data](/bias/lifecycle/collection)
 
 **3 - Process**
+
 - [Annotate your data](/bias/lifecycle/process)
 
 ## Questions to consider throughout your work

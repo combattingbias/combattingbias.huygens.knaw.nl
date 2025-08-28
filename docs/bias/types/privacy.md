@@ -13,7 +13,7 @@ _Definition source: **European Commission (n.d.). [Data protection explained](ht
 ## Stakes
 _part of: **opacity**_
 
-Privacy has many regulations around it, and is therefore important to consider.  
+Privacy has many (legal) regulations around it, and is therefore important to consider.  
   
 
 ## Where does it occur in the lifecycle?
@@ -25,15 +25,21 @@ Privacy has many regulations around it, and is therefore important to consider.
 - Is the collected data stored safely?
 
 ## Examples
--
+- de Bethune, L., & Gyimes, I. L. (2025). Sensitive data sharing: The Hows, the Whys, and the Whats. DH Benelux 2025, Amsterdam, Netherlands. Zenodo. https://doi.org/10.5281/zenodo.15462383
+- Oorlog voor de Rechter / War in Court: https://oorlogvoorderechter.nl/
 
 ## Good-better-best practices
 
 | Good | Better | Best|
 |---|---|---|
-| | | | 
-
+|Follow the principle "As open as possible, as closed as necessary" when it comes to privacy. | Ensure your research data is stored securely and is only accessible to those who need access.| Create a plan for the deletion of sensitive data, if possible.| 
+|When working with data from (living) humans, ensure you follow the guidelines of your institutional Ethics Committee. | | Consider 'opening' your sensitive data to select users, either through physical barriers (closed reading rooms) or digital (password login to access).|
+|You must receive **informed consent** from all participants before collecting data.| Look into the use of indirect identifiers. | |
+|Anonymise your data. | | |
 
 ## Resources
+
 - Royal Historical Society, Data Protection and Historical Research: The Basics. https://blog.royalhistsoc.org/2021/04/12/data-protection-and-historical-research-the-basics/
-- 
+- European Commission, Ethics in Social Science and Humanities (2021). https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-in-social-science-and-humanities_he_en.pdf
+- European Commission, Ethics and Data Protection (2021). http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-and-data-protection_he_en.pdf
+- Five Safes Principles for safe research: https://ukdataservice.ac.uk/help/secure-lab/what-is-the-five-safes-framework/

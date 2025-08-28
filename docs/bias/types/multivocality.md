@@ -23,11 +23,13 @@ If multivocality is neither considered, nor represented in the publication of re
 ## Where does it occur in the lifecycle?
 
 **2 - Collection**
+
 - Select and curate sources and/or data
 - Create metadata for the data
 - Create usable categories and variables for your dataset
 
 **3 - Process**
+
 - Annotate your data
 
 ## Questions to consider throughout your work
@@ -45,6 +47,7 @@ If multivocality is neither considered, nor represented in the publication of re
 - One More Voice: https://onemorevoice.org/index.html 
 - Face/Surface. Metamorphosis of colonial perspective: https://kadoc.kuleuven.be/3_onderzoek/33_onzeonderzoeksoutput/tentoonstellingen/2024/tt_2024_bias 
 - Chimamanda Ngozi Adichie, The danger of a single story: https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story 
+- Bias(ed) Maps: https://doi.org/10.5281/zenodo.16943470
 
 ## Good-better-best practices
 
@@ -56,4 +59,5 @@ If multivocality is neither considered, nor represented in the publication of re
 
 
 ## Resources
-- 
+- Jeurgens, Charles, and Michael Karabinos. “Paradoxes of Curating Colonial Memory.” Archival Science 20, no. 3 (2020): 199–220. https://doi.org/10.1007/s10502-020-09334-z.
+- Sitzia, Emilie. “Multiple Narratives and Polyvocality as Strategies of Inclusive Public Participation: Challenges and Disruption in the History Museum.” Muséologies. Les Cahiers d’études Supérieures 10, no. 2 (2023): 51–63. https://doi.org/10.7202/1108037ar.

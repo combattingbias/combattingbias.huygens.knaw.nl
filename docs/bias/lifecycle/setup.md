@@ -5,7 +5,7 @@ _During **Set up**, the research is conceptualised, planned and funded. This sta
 ---
 
 ## 📔 Recommended documentation
-> → Describe your project beginnings <br>
+Describe your project beginnings <br>
 > → Write your [Data Management Plan](/bias/lifecycle/dmp), [Ethical Commitments](/bias/lifecycle/ethical-commitments) and [Mission Statement](/bias/lifecycle/mission-statement) <br>
 > → Document your answers to questions regarding project conceptualisation. 
     This will both be a guide as well as a place of reflection throughout your research.

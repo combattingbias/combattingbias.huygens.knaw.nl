@@ -49,6 +49,8 @@ Collaboration in any form is crucial in creating ethically responsible datasets.
 - DE-BIAS Community Engagement Resources: https://pro.europeana.eu/page/de-bias-project-community-engagement-resources
     - See e.g. [A Community Engagement Methodology: resources, reflections, recommendations](https://pro.europeana.eu/files/Europeana_Professional/Projects/debias/a_community_engagement_methodology_resources_reflections_recommendations_v3_july_2024.pdf) (2024), p. 44-53 for examples of projects with thoughtful community engagement. 
 - Prats López, M., T. Van Oort, W. Ganzevoort, C. Van Galen, and R. J. Mourits. “Understanding Patterns of Engagement in the Citizen Humanities: The Civil Records of Suriname.” _Historical Methods: A Journal of Quantitative and Interdisciplinary History_ 0, no. 0 (October 2024): 1–16. https://doi.org/10.1080/01615440.2024.2414925.
+- Somers Miles, Rachel, Alana Osbourne, Carine Zaayman, et al. Inward Outward, Witnessing/Care & the Archive. November 15, 2024. https://doi.org/10.18146/inout2023.
+
 
 [^1]: Adapted from DE-BIAS, [A Community Engagement Methodology: resources, reflections, recommendations](https://pro.europeana.eu/files/Europeana_Professional/Projects/debias/a_community_engagement_methodology_resources_reflections_recommendations_v3_july_2024.pdf) (2024).
 [^2]: Taken from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019), p. 6.

@@ -37,6 +37,7 @@ Adhering to the FAIR Principles ensures your data is technically responsible, as
 
 ## Examples
 - HSNDB: https://iisg.amsterdam/en/hsndb 
+- Untangling FAIR Implementation in the Dutch SSH: https://www.nwo.nl/projecten/icttdcc001003
 
 ## Good-better-best practices[^1]
 

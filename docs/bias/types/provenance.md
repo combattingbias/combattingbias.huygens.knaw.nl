@@ -28,7 +28,7 @@ To understand the journey your data has been through, as well as understanding t
 - Where does your data come from? What is the context of its creation/inheritance?
 
 ## Examples
-- Sander Molenaar (2025) [publication forthcoming] 
+- Sander Molenaar. _Late Imperial China Special Issue_, forthcoming publication
 
 ## Good-better-best practices
 
@@ -39,6 +39,7 @@ To understand the journey your data has been through, as well as understanding t
 ## Resources
 - Anne Haeming, [_Dynarchiving: Confronting the Bias in Data._](dynarchiving.com) 
     - Reading list and tools
+- Sarah Binta Alam Shoilee, Annastiina Ahola, Heikki Rantala, Eero Hyvönen, Victor de Boer, Jacco van Ossenbruggen, and Susan Legene. "Enhancing Provenance Research with Linked Data: A Visual Approach to Knowledge Discovery." SemDH'25: Second International Workshop of Semantic Digital Humanities, June 1-2 2025, Portoroz, Slovenia. https://seco.cs.aalto.fi/publications/2025/shoilee-et-al-pm-sampo-2025.pdf
 
 
 [^1]: Bias type added inspired by Anne Haeming’s approach to archival silences and biases: [dynarchiving](dynarchiving.com). 

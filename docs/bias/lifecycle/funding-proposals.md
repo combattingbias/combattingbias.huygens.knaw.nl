@@ -33,7 +33,6 @@
 
 - Focus on the creation of a diverse and inclusive project and team.
 
-
 ---
 
 ## Resources

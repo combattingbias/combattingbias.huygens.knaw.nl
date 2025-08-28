@@ -1,5 +1,5 @@
 ---
-title: "Methodology"
+title: "Documentation"
 type: ["opacity"]
 stages: ["set up", "collect", "process", "analyse", "share"]
 keywords: ["transparency", "context", "reuse", "robust"]
@@ -7,23 +7,21 @@ keywords: ["transparency", "context", "reuse", "robust"]
 ## Definition
 The descriptive account of the process of creating or curating information. This record accompanies the publication of such information. It provides contextualising information from a disciplinary point of view.
  
-_Definition source: **Combatting Bias definition**
+_Definition source: **Combatting Bias definition**_
 
 ## Stakes
 _part of: **opacity**_
 _related to: **transparency**_
 
-Creating extensive documentation is crucial to ensure adequate contextualisation of your research and transparency around research practices.  
+Creating extensive documentation is crucial to ensure adequate contextualisation of your research and transparency around research practices. This creates accountability as well. 
 
 ## Where does it occur in the lifecycle?
 
 **All stages**
 
-## Questions to consider throughout your work
--
-
 ## Examples
--
+- Hugging Face documentation: https://huggingface.co/docs
+- Globalise Docs: https://docs.globalise.huygens.knaw.nl/mission/mission_researchthemes/
 
 ## Good-better-best practices
 
@@ -34,7 +32,14 @@ Creating extensive documentation is crucial to ensure adequate contextualisation
 
 
 ## Resources
-- 
+- Data documentation:
+    - Data-envelopes for Cultural Heritage: https://aclanthology.org/2024.legal-1.9/
+    - Datasheets for Cultural Heritage: https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.124 
+    - AI Model Research Documentation Sheet (AIRDocS): https://zenodo.org/records/14550113 
+    - The checklist for Collections as Data from the GlamLABS Community: https://www.emerald.com/insight/content/doi/10.1108/gkmc-06-2023-0195/full/html 
+    - Datasheets at DRI: https://repository.dri.ie/catalog/8c980k93k#dri_download_modal_id
+    - Datasheets for Web Archive: https://blogs.bl.uk/webarchive/2024/11/datasheets-for-web-archives-toolkit-is-now-live.html
+    - Quality Measures for Datasets: https://datanutrition.org/labels/ 
 
 [^1]: Taken from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019), p. 4.
 [^2]: Taken from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019), pp. 3-4.
