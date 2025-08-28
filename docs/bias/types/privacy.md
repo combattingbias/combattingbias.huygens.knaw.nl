@@ -39,6 +39,7 @@ Privacy has many (legal) regulations around it, and is therefore important to co
 
 ## Resources
 
+- Best Practices for Working Creatively with Personal Data: https://era.library.ualberta.ca/items/d0359f21-a56d-49ee-9429-c73cd8f2b539/view/47c77230-84a7-4018-8184-9164c0ddc7d3/KTVRguidelines_a4.pdf
 - Royal Historical Society, Data Protection and Historical Research: The Basics. https://blog.royalhistsoc.org/2021/04/12/data-protection-and-historical-research-the-basics/
 - European Commission, Ethics in Social Science and Humanities (2021). https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-in-social-science-and-humanities_he_en.pdf
 - European Commission, Ethics and Data Protection (2021). http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-and-data-protection_he_en.pdf

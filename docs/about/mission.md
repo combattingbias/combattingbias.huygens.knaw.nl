@@ -7,11 +7,9 @@
         Image credit: <a href="https://id.rijksmuseum.nl/200134856">Rijksmuseum</a>
     </figcaption>
 </div>
-Our mission is to promote ethical and responsible data practices in the humanities and social sciences (SSH) by developing a toolkit, including vocabulary, comprehensive guidelines, and resources, for creating datasets that prioritise transparency, inclusivity and respect for diverse perspectives and experiences. 
+Our mission is to promote ethical and responsible data practices in the humanities and social sciences (SSH)[^1] by developing a toolkit, including vocabulary, comprehensive guidelines, and resources, for creating datasets that prioritise transparency, inclusivity and respect for diverse perspectives and experiences. 
 
-
-We believe this research is relevant and necessary, as epistemic systems and data creation are deeply intertwined. The increasing use of data in the field of SSH has allowed for more diversity in approaches to research questions, as well as broadened the possible range of questions that can be asked. However, historical data used in SSH research is by nature overwhelmed by biases, impacted by the author’s positionality and context, producing problematic language and categorisations. There is harm in these biases: they can have real impacts on minoritised groups today, through the production of incorrect and/or one-dimensional narratives that further silence and obscure marginalised perspectives. Alongside (research) frameworks that centre around the role of data in the advancement of social justice, such as [data justice](https://guides.lib.berkeley.edu/c.php?g=1353693&p=9993493)[^1], [data feminism](https://data-feminism.mitpress.mit.edu/), [data advocacy](https://da4all.github.io/methodology/) and [CARE](https://www.gida-global.org/care), we hope to add to the critical discourse around responsible creation and use of data to produce knowledge.
-
+We believe this research is relevant and necessary, as epistemic systems and data creation are deeply intertwined. The increasing use of data in the field of SSH has allowed for more diversity in approaches to research questions, as well as broadened the possible range of questions that can be asked. However, historical data used in SSH research is by nature overwhelmed by biases, impacted by the author’s positionality and context, producing problematic language and categorisations. There is harm in these biases: they can have real impacts on minoritised groups today, through the production of incorrect and/or one-dimensional narratives that further silence and obscure marginalised perspectives. Alongside (research) frameworks that centre around the role of data in the advancement of social justice, such as [data justice](https://guides.lib.berkeley.edu/c.php?g=1353693&p=9993493)[^2], [data feminism](https://data-feminism.mitpress.mit.edu/), [data advocacy](https://da4all.github.io/methodology/) and [CARE](https://www.gida-global.org/care), we hope to add to the critical discourse around responsible creation and use of data to produce knowledge.
 
 <!-- 
 <figure>
@@ -36,7 +34,7 @@ For more on our conceptualisation of bias, see [_On Bias_](/bias/onbias).
 
 ## Why Datasets?
 
-Within the broader developments of the increased entanglement between computational tools and SSH research, our framework specifically focuses on the dataset as the unit of analysis. A dataset is where **data** (content of datasets, whether from archives, digitally-born or sociological interviews), **researchers** (creators of datasets), **users** (audience of datasets) and **computational methods** (trained on datasets) all intersect – it is therefore a necessary and productive area of intervention. 
+Within the broader developments of the increased entanglement between computational tools and SSH research, our framework specifically focuses on the dataset as the unit of analysis. A dataset[^3] is where **data** (content of datasets, whether from archives, digitally-born or sociological interviews), **researchers** (creators of datasets), **users** (audience of datasets) and **computational methods** (trained on datasets) all intersect – it is therefore a necessary and productive area of intervention. 
 
 <div style="float: left; margin: 5px 25px 0 0; max-width: 400px;">
     <img src="\static\img\computerstudents.webp"/>
@@ -45,7 +43,7 @@ Within the broader developments of the increased entanglement between computatio
     </figcaption>
 </div>
 
-Datasets are not only areas of ‘risk’ in need of intervention, they are also areas of immense possibility, if created critically and with awareness of bias. Dataset creation is the ‘deconstruction of archival sources’[^2], through which researchers can uncover new insights and gaps in their sources. It is, for example, due to the creation of datasets and their analysis that it becomes clear that a [17-year old woman named Flora](https://doi.org/10.1080/1081602X.2024.2340542) played a key role in the escape of nineteen peoples from slavery - re-inscribing her into the historical narrative, when her name is not barely in sources. 
+Datasets are not only areas of ‘risk’ in need of intervention, they are also areas of immense possibility, if created critically and with awareness of bias. Dataset creation is the ‘deconstruction of archival sources’[^4], through which researchers can uncover new insights and gaps in their sources. It is, for example, due to the creation of datasets and their analysis that it becomes clear that a [17-year old woman named Flora](https://doi.org/10.1080/1081602X.2024.2340542) played a key role in the escape of nineteen peoples from slavery - re-inscribing her into the historical narrative, when her name is not barely in sources. 
 
 ## Urgent Questions and Urgent Responses
 There are several troubles with the concept of bias that make it both urgent and crucial to deal with if we want to advance within data ethics:
@@ -126,5 +124,7 @@ The above points, specifically the Vocabulary, will be integrated into existing 
    </div>
 </div> -->
 
-[^1]: See David Leslie, Michael Katell, Mhairi Aitken, et al. “Advancing Data Justice Research and Practice: An Integrated Literature Review.” SSRN Scholarly Paper No. 4073376. Social Science Research Network, March 22, 2022. https://doi.org/10.2139/ssrn.4073376; Data Justice Lab https://datajusticelab.org/; Global Data Justice https://globaldatajustice.org/. 
-[^2]: Interview with Historische Database Suriname and Caribbean, 2024/25.
+[^1]: Data definition: 'Data is “units of information observed, collected, or created in the course of research” (Erway et al. 2013).' In: Di Cresce, Rachel, and Julia King. “Developing Collaborative Best Practices for Digital Humanities Data Collection: A Case Study.” College & Undergraduate Libraries 24, no. 2–4 (October 2, 2017): 226–37. https://doi.org/10.1080/10691316.2017.1326330.
+[^2]: See David Leslie, Michael Katell, Mhairi Aitken, et al. “Advancing Data Justice Research and Practice: An Integrated Literature Review.” SSRN Scholarly Paper No. 4073376. Social Science Research Network, March 22, 2022. https://doi.org/10.2139/ssrn.4073376; Data Justice Lab https://datajusticelab.org/; Global Data Justice https://globaldatajustice.org/. 
+[^3]: Dataset definition: 'a collection of data, published or curated by a single agent or identifiable community. The notion of dataset [...] is broad and inclusive, with the intention of accommodating resource types arising from all communities. Data comes in many forms including numbers, text, pixels, imagery, sound and other multi-media, and potentially other types, any of which might be collected into a dataset.' In: W3C Data Catalog Vocabulary (DCAT) - Version 3. https://www.w3.org/TR/vocab-dcat/#introduction
+[^4]: Interview with Historische Database Suriname and Caribbean, 2024/25.

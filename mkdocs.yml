@@ -54,6 +54,7 @@ nav:
       - About: bias/types/about.md
       - Positionality: bias/types/positionality.md
       - Silences: bias/types/silences.md
+      - Accessibility: bias/types/accessibility/md
       - Representation: bias/types/representation.md
       - Collaboration: bias/types/collaboration.md
       - Durability: bias/types/durability.md

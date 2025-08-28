@@ -12,7 +12,7 @@ hide:
 
 This challenge is compounded by multiple intersecting forms of bias such as in source (selection), interpretation, representation, and algorithms. Despite growing attention to ‘bias mitigation’, the term carries different meanings across disciplines, complicating systematic approaches. This conceptual instability, if left unexamined, has the tendency to render bias both omnipresent and at a risk of becoming meaningless. -->
 
-Combatting Bias is an initiative that has created a "bias-aware framework" to support researchers in identifying, describing, and reducing harmful biases in their data. Rather than pursuing the impossible goal of complete bias elimination, this project provides guidelines for researchers to understand and transparently document biases.
+Combatting Bias is an initiative that has created a "bias-aware framework" to support researchers in identifying, describing, and reducing harmful biases in their data. Rather than pursuing the impossible goal of complete bias elimination, this project provides guidelines for researchers to understand and transparently document biases. While predominantly focused on historical data, the framework provides a broad scope for any researcher or user to think about issues of bias in their work. 
 
 1. [**Bias Vocabulary**](bias/types/about): categorisation of bias-related concepts and terminology to establish a shared vocabulary across disciplines
 
