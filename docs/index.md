@@ -49,7 +49,7 @@ hide:
     <img src="/static/img/icons/lifecycle.png" alt="Lifecycle icon" class="cb-card-image">
     <h5>Dataset Lifecycle</h5>
     <p>See where and how bias emerges at different stages of dataset creation and use.</p>
-    <a href="bias/lifecycle/about/" class="md-button">Lifecycle</a>
+    <a href="lifecycle/about/" class="md-button">Lifecycle</a>
   </div>
 </div>
 
