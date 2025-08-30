@@ -28,6 +28,9 @@
     
       <link rel="stylesheet" href="../../assets/stylesheets/main.7e37652d.min.css">
       
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
       
 
 
@@ -57,7 +60,14 @@
   </head>
   
   
-    <body dir="ltr">
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="amber" data-md-color-accent="orange">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -100,6 +110,18 @@
         </div>
       </div>
     </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="amber" data-md-color-accent="orange"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
     
     
       <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
@@ -237,6 +259,26 @@
   
   
   Bias
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../lifecycle/about/" class="md-tabs__link">
+          
+  
+  
+  Lifecycle
 
         </a>
       </li>
@@ -510,6 +552,54 @@
   
   <span class="md-ellipsis">
     Bias
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../lifecycle/about/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Lifecycle
     
   </span>
   
@@ -843,7 +933,6 @@ hr.solid {
     margin: 0px 0 10px 0;
     padding: 30px;
     background: #fffffdff;
-     /* linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); */
     border-radius: 12px;
     border: 2px solid #e7ec54ff;
 }
@@ -860,8 +949,7 @@ hr.solid {
 }
 
 .intro-section {
-    background:  #f1f5f8ff; 
-    /* linear-gradient(135deg, #e3f2fd 0%, #f8f9fa 100%); */
+    background: #f1f5f8ff;
     padding: 20px;
     border-radius: 12px;
     margin-bottom: 40px;
@@ -1010,8 +1098,508 @@ hr.solid {
         </div>
 
         <script>
-            class ConfigBasedBiasVocabulary {
+            // Embedded bias configuration data - no async loading required
+            const BIAS_DATA = [
+        {
+                "title": "FAIR",
+                "slug": "FAIR",
+                "types": [
+                        "opacity"
+                ],
+                "stages": [
+                        "setup",
+                        "collection",
+                        "share"
+                ],
+                "keywords": [
+                        "findable",
+                        "reusable",
+                        "interoperable",
+                        "accessible",
+                        "reuse",
+                        "legacy data",
+                        "provenance",
+                        "robustness",
+                        "sustainability",
+                        "license"
+                ],
+                "definition": "Principles to improve \"the Findability, Accessibility, Interoperability, and Reuse of digital assets.",
+                "stakes": "Adhering to the FAIR Principles ensures your data is technically responsible, as it benefits the reusability and interoperability of the data. This also supports sustainability and better research practices, and consequently, better knowledge production.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Accessibility",
+                "slug": "accessibility",
+                "types": [
+                        "discrimination",
+                        "opacity"
+                ],
+                "stages": [
+                        "collection",
+                        "share"
+                ],
+                "keywords": [
+                        "available",
+                        "findable",
+                        "inclusivity"
+                ],
+                "definition": "“Accessibility ensures that all people—regardless of ability—can interact with the information or services you provide.",
+                "stakes": "Ensuring equal accessibility to your research (data) is a core part of creating responsible research, because it allows for knowledge to be fairly shared.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Accuracy",
+                "slug": "accuracy",
+                "types": [
+                        "opacity"
+                ],
+                "stages": [
+                        "collection",
+                        "process"
+                ],
+                "keywords": [
+                        "factual",
+                        "correct",
+                        "errors"
+                ],
+                "definition": "Being exact or correct.",
+                "stakes": "It is important to be as accurate as you can be - describing precisely your process or avoiding factual mistakes in descriptions or annotations for example. Inaccurate information left in your data, will be transposed onto subsequent research using your data.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Availability",
+                "slug": "availability",
+                "types": [
+                        "discrimination"
+                ],
+                "stages": [
+                        "collection"
+                ],
+                "keywords": [
+                        "accessible",
+                        "findable",
+                        "inclusivity"
+                ],
+                "definition": "Denotes whether a source of data is in existence, reachable and operational.",
+                "stakes": "Availability of sources impacts what type of research you can conduct and conclusions you can draw. Acknowledging a lack of availability signals to the audience that narratives are likely missing from the output. Availability also creates accountability.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Collaboration",
+                "slug": "collaboration",
+                "types": [
+                        "opacity"
+                ],
+                "stages": [
+                        "setup",
+                        "collection",
+                        "share"
+                ],
+                "keywords": [
+                        "stakeholder engagement",
+                        "community involvement",
+                        "plurivocality",
+                        "multivocality",
+                        "participatory research",
+                        "co-creation",
+                        "partnership"
+                ],
+                "definition": "Working together respectfully with others who bring in different perspectives.",
+                "stakes": "Collaboration in any form is crucial in creating ethically responsible datasets. Not allowing for other perspectives on your work produces tunnel-visioned, and often incorrect work.",
+                "icon": "fa-handshake"
+        },
+        {
+                "title": "Documentation",
+                "slug": "documentation",
+                "types": [
+                        "opacity"
+                ],
+                "stages": [
+                        "set up",
+                        "collect",
+                        "process",
+                        "analyse",
+                        "share"
+                ],
+                "keywords": [
+                        "transparency",
+                        "context",
+                        "reuse",
+                        "robust"
+                ],
+                "definition": "The descriptive account of the process of creating or curating information.",
+                "stakes": "Creating extensive documentation is crucial to ensure adequate contextualisation of your research and transparency around research practices. This creates accountability as well.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Durability",
+                "slug": "durability",
+                "types": [
+                        "opacity",
+                        "discrimination"
+                ],
+                "stages": [
+                        "setup"
+                ],
+                "keywords": [
+                        "robustness",
+                        "future",
+                        "sustainability",
+                        "FAIR",
+                        "data management"
+                ],
+                "definition": "Maintenance of data's integrity and availability for the future.",
+                "stakes": "Enabling accessibility and availability of your research output after the end of your project, is very valuable, because it allows other researchers to build off of your work.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Expertise",
+                "slug": "expertise",
+                "types": [
+                        "discrimination",
+                        "opacity"
+                ],
+                "stages": [
+                        "collection",
+                        "process"
+                ],
+                "keywords": [
+                        "knowledge",
+                        "power",
+                        "multivocality",
+                        "collaboration",
+                        "team"
+                ],
+                "definition": "“A high level of knowledge or skill”\n\n_Definition source: Cambridge Dictionary (n.",
+                "stakes": "Your expertise impacts what type of research you conduct and conclusions you draw.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Harmful Language",
+                "slug": "harmful-language",
+                "types": [
+                        "discrimination"
+                ],
+                "stages": [
+                        "setup",
+                        "collection",
+                        "process",
+                        "share"
+                ],
+                "keywords": [
+                        "harm",
+                        "racism",
+                        "categories"
+                ],
+                "definition": "Language that causes uncomfort, pain, feelings of unsafety to an individual or group of people.",
+                "stakes": "Harmful language can cause hurt to people and make the spaces they access your data in feel unsafe.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Historicity",
+                "slug": "historicity",
+                "types": [
+                        "discrimination",
+                        "opacity"
+                ],
+                "stages": [
+                        "collection"
+                ],
+                "keywords": [
+                        "original",
+                        "primary source",
+                        "significance",
+                        "context"
+                ],
+                "definition": "Philosophical term denoting an authenticity of an event in the past.",
+                "stakes": "Historicity is important because we do not want to erase past wrongs. A dataset or narrative for historical research must include flaws, but must also be contextualised and not reiterated responsibly.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "impact",
+                "slug": "impact",
+                "types": [
+                        "discrimination",
+                        "opacity"
+                ],
+                "stages": [
+                        "setup"
+                ],
+                "keywords": [
+                        "topic",
+                        "audience",
+                        "community",
+                        "benefit",
+                        "harm"
+                ],
+                "definition": "an effect on, change or benefit to the economy, society, culture, public policy or services, health, the environment or quality of life (beyond academia)\"\n\n_Definition source: UKRI (n.",
+                "stakes": "If impact goes unconsidered, and therefore not discussed in research’s output, there can be (unintended) harm done. In order to work as responsibly as possible, while aiming for just knowledge production, impact should be accounted for during conceptualisation of the project already.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Methodology",
+                "slug": "methodology",
+                "types": [
+                        "opacity"
+                ],
+                "stages": [
+                        "analyse"
+                ],
+                "keywords": [
+                        "algorithm",
+                        "methods",
+                        "evaluate",
+                        "approach"
+                ],
+                "definition": "a systematic deviation in the outcomes of an evaluation process, stemming directly from the specific methods or approaches employed.",
+                "stakes": "",
+                "icon": "fa-microscope"
+        },
+        {
+                "title": "Multivocality",
+                "slug": "multivocality",
+                "types": [
+                        "discrimination",
+                        "opacity"
+                ],
+                "stages": [
+                        "collection",
+                        "process"
+                ],
+                "keywords": [
+                        "perspectives",
+                        "narratives",
+                        "silences",
+                        "plurivocality",
+                        "polyvocality",
+                        "polyphony"
+                ],
+                "definition": "“An approach to archaeology, but also for historical reasoning, explanation and understanding that accepts a high degree of relativism and thus encourages the contemporaneous articulation of numerous ...",
+                "stakes": "If multivocality is neither considered, nor represented in the publication of research (documentation), it gives an unfair representation of the past and/or present, as there are always parallel discourses present.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Ownership",
+                "slug": "ownership",
+                "types": [
+                        "discrimination"
+                ],
+                "stages": [
+                        "setup",
+                        "share"
+                ],
+                "keywords": [
+                        "possession",
+                        "responsibility",
+                        "power",
+                        "accessible",
+                        "privilege",
+                        "oppression"
+                ],
+                "definition": "Data ownership refers to both the possession of and responsibility for information.",
+                "stakes": "Ownership should be considered in order to confront unbalanced power structures. Concrete actions can then be taken to provide more fairness in these structures (such as shifting ownership).",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Positionality",
+                "slug": "positionality",
+                "types": [
+                        "opacity"
+                ],
+                "stages": [
+                        "setup"
+                ],
+                "keywords": [
+                        "social position",
+                        "power structures",
+                        "identity",
+                        "reflexivity",
+                        "privilege",
+                        "oppression",
+                        "situatedness"
+                ],
+                "definition": "“One’s social position or place in a given society in relation to race, ethnicity, and other statuses (e.",
+                "stakes": "When positionality goes unconsidered or unacknowledged, the research is impacted and lacks connection to the current situation (tone-deaf). Also hinders transparency, reuse and reproducibility.",
+                "icon": "fa-user-circle"
+        },
+        {
+                "title": "Privacy",
+                "slug": "privacy",
+                "types": [
+                        "opacity"
+                ],
+                "stages": [
+                        "collection"
+                ],
+                "keywords": [
+                        "legal",
+                        "difficult to share"
+                ],
+                "definition": "Privacy is concerned with the protection of personal data: “any information that relates to an identified or identifiable living individual (data subject).",
+                "stakes": "Privacy has many (legal) regulations around it, and is therefore important to consider.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Provenance",
+                "slug": "provenance",
+                "types": [
+                        "opacity"
+                ],
+                "stages": [
+                        "collection"
+                ],
+                "keywords": [
+                        "context",
+                        "agency",
+                        "chronology",
+                        "origin",
+                        "metadata"
+                ],
+                "definition": "“The chronology of the origin, development, ownership, location, and changes to a system or system component and associated data [and objects and documentation].",
+                "stakes": "To understand the journey your data has been through, as well as understanding the context of its creation and changes, is integral to understanding the data itself and how it can serve your research.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Recruitment",
+                "slug": "recruitment",
+                "types": [
+                        "opacity",
+                        "discrimination"
+                ],
+                "stages": [
+                        "setup"
+                ],
+                "keywords": [
+                        "diversity",
+                        "representation",
+                        "expertise",
+                        "team",
+                        "inclusivity",
+                        "management"
+                ],
+                "definition": "The process of finding and hiring people to work in the same project as you.",
+                "stakes": "If recruitment practices are not done thoughtfully, it will make it so that your team may lack expertise and/or diversity. Both of those are crucial in creating conscientious research.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Representation",
+                "slug": "representation",
+                "types": [
+                        "discrimination",
+                        "opacity"
+                ],
+                "stages": [
+                        "collection",
+                        "analyse",
+                        "share"
+                ],
+                "keywords": [
+                        "inclusion",
+                        "diversity",
+                        "voice",
+                        "visibility",
+                        "marginalization",
+                        "marginalisation",
+                        "demographics",
+                        "sampling"
+                ],
+                "definition": "How (in what ways) something is depicted.",
+                "stakes": "When groups, cultures, and histories are mis- or underrepresented, it skews narratives, lacking multiple perspectives.",
+                "icon": "fa-users"
+        },
+        {
+                "title": "Reproducibility",
+                "slug": "reproducibility",
+                "types": [
+                        "opacity"
+                ],
+                "stages": [
+                        "analyse",
+                        "share"
+                ],
+                "keywords": [
+                        "documentation",
+                        "reuse",
+                        "evaluate"
+                ],
+                "definition": "A central tenet of science: To produce a reliable scientific body of knowledge, researchers must be able to trace the steps of each other’s work and verify that they yield the claimed results, or to e...",
+                "stakes": "_related to: documentation; FAIR; accessibility; provenance  If research is not reproducible, it means the process has been untransparent. The research, as a result, is not trustworthy and lacks accountability.",
+                "icon": "fa-circle-question"
+        },
+        {
+                "title": "Silences",
+                "slug": "silences",
+                "types": [
+                        "opacity",
+                        "discrimination"
+                ],
+                "stages": [
+                        "setup",
+                        "analyse"
+                ],
+                "keywords": [
+                        "archival gaps",
+                        "missing data",
+                        "representation",
+                        "absences",
+                        "documentation",
+                        "historical record"
+                ],
+                "definition": "“A gap in the (historical) record resulting from the unintentional or purposeful absence or distortion of documentation.",
+                "stakes": "Silences cause a skewed narrative of history, in which certain narratives are not acknowledged and/or included.",
+                "icon": "fa-volume-xmark"
+        },
+        {
+                "title": "Transparency",
+                "slug": "transparency",
+                "types": [
+                        "opacity"
+                ],
+                "stages": [
+                        "setup",
+                        "collection",
+                        "process",
+                        "share"
+                ],
+                "keywords": [
+                        "reuse",
+                        "documentation",
+                        "contextualisation",
+                        "audit"
+                ],
+                "definition": "make data, analysis, methods, and interpretive choices underlying their claims visible in a way that allows others to evaluate them\"\n\n_Definition source: Princeton (n.",
+                "stakes": "Transparency is crucial in research: in documentation, communication, publications. Research that lacks transparency causes wrongful reiterations and conclusions to be drawn - it also does not encourage responsible reuse of knowledge.",
+                "icon": "fa-eye"
+        },
+        {
+                "title": "Unintented Use",
+                "slug": "unintended-use",
+                "types": [
+                        "discrimination",
+                        "opacity"
+                ],
+                "stages": [
+                        "analyse",
+                        "share"
+                ],
+                "keywords": [
+                        "impact",
+                        "harm",
+                        "accountability",
+                        "risk assessment",
+                        "misinterpretation",
+                        "function creep",
+                        "misleading"
+                ],
+                "definition": "Uses of produced data that are not as intended by the researcher.",
+                "stakes": "Similar to risk assessments: by considering unintended uses during research, some of these uses could already be mitigated. Noting unintended uses also flags responsibility and accountability to other researchers.",
+                "icon": "fa-circle-question"
+        }
+];
+
+            class BiasToolkit {
                 constructor() {
+                    this.biasData = BIAS_DATA;
                     this.state = {
                         type: null,
                         stage: null,
@@ -1021,26 +1609,18 @@ hr.solid {
                 }
 
                 init() {
-                    // Wait for config to load, then render
-                    if (window.biasConfig) {
-                        this.renderCards();
-                        this.bindEvents();
-                        this.filterCards();
-                    } else {
-                        // Wait a bit for config to load
-                        setTimeout(() => this.init(), 100);
-                    }
+                    this.renderCards();
+                    this.bindEvents();
+                    this.filterCards();
+
+                    // Handle URL parameters for SPA navigation
+                    this.loadFromURL();
+                    window.addEventListener('popstate', () => this.loadFromURL());
                 }
 
                 renderCards() {
                     const cardList = document.getElementById('card-list');
-
-                    if (!window.biasConfig || window.biasConfig.length === 0) {
-                        cardList.innerHTML = '<div class="loading">No bias concepts configured. Run generate_bias_config.py to create the configuration.</div>';
-                        return;
-                    }
-
-                    cardList.innerHTML = window.biasConfig.map(bias => this.createCardHTML(bias)).join('');
+                    cardList.innerHTML = this.biasData.map(bias => this.createCardHTML(bias)).join('');
                 }
 
                 createCardHTML(bias) {
@@ -1055,7 +1635,7 @@ hr.solid {
                     const keywordsText = bias.keywords.join(', ');
 
                     return `
-                        <div class="card-wrapper" onclick="window.open('../types/${bias.slug}/', '_blank');" style="cursor: pointer;">
+                        <div class="card-wrapper" onclick="this.navigateToPage('${bias.slug}');" style="cursor: pointer;">
                             <div class="card" data-type="${bias.types.join(',')}" data-stage="${bias.stages.join(',')}">
                                 <div class="card-body">
                                     <h5 class="card-title">
@@ -1082,6 +1662,11 @@ hr.solid {
                             </div>
                         </div>
                     `;
+                }
+
+                navigateToPage(slug) {
+                    // SPA navigation - can be customized for your routing
+                    window.open(`../types/${slug}/`, '_blank');
                 }
 
                 capitalizeFirst(str) {
@@ -1159,6 +1744,7 @@ hr.solid {
                     }
 
                     this.filterCards();
+                    this.updateURL();
                 }
 
                 filterCards() {
@@ -1188,6 +1774,7 @@ hr.solid {
                     if (searchInput) {
                         this.state.searchQuery = searchInput.value.toLowerCase();
                         this.filterCards();
+                        this.updateURL();
                     }
                 }
 
@@ -1197,6 +1784,7 @@ hr.solid {
                         searchInput.value = "";
                         this.state.searchQuery = "";
                         this.filterCards();
+                        this.updateURL();
                     }
                 }
 
@@ -1206,6 +1794,7 @@ hr.solid {
                         btn.classList.remove("active");
                     });
                     this.filterCards();
+                    this.updateURL();
                 }
 
                 clearAllFilters() {
@@ -1224,13 +1813,53 @@ hr.solid {
                         searchInput.value = "";
                     }
                     this.filterCards();
+                    this.updateURL();
+                }
+
+                // SPA Navigation with URL state
+                updateURL() {
+                    const params = new URLSearchParams();
+
+                    if (this.state.type) params.set('type', this.state.type);
+                    if (this.state.stage) params.set('stage', this.state.stage);
+                    if (this.state.searchQuery) params.set('search', this.state.searchQuery);
+
+                    const newURL = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
+                    history.replaceState(null, '', newURL);
+                }
+
+                loadFromURL() {
+                    const params = new URLSearchParams(window.location.search);
+
+                    this.state.type = params.get('type');
+                    this.state.stage = params.get('stage');
+                    this.state.searchQuery = params.get('search') || '';
+
+                    // Update UI to match URL
+                    document.getElementById('search-input').value = this.state.searchQuery;
+
+                    // Update filter buttons
+                    document.querySelectorAll('.filter-btn').forEach(btn => {
+                        btn.classList.remove('active');
+                        if ((btn.dataset.filter === 'type' && btn.dataset.value === this.state.type) ||
+                            (btn.dataset.filter === 'stage' && btn.dataset.value === this.state.stage)) {
+                            btn.classList.add('active');
+                        }
+                    });
+
+                    this.filterCards();
                 }
             }
+            // Initialize BiasToolkit function
+            function initBiasToolkit() {
+                // Always re-initialize to handle MkDocs page navigation
+                window.biasToolkitInstance = new BiasToolkit();
+            }
 
-            // Initialize when page loads
-            document.addEventListener("DOMContentLoaded", () => {
-                new ConfigBasedBiasVocabulary();
-            });
+            // Initialize on DOM ready and MkDocs navigation events
+            document.addEventListener('DOMContentLoaded', initBiasToolkit);
+            document.addEventListener('navigation.loaded', initBiasToolkit);
+
         </script>
     </article>
 </div>
@@ -1254,7 +1883,7 @@ hr.solid {
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 14, 2025 13:44:14 UTC">August 14, 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 30, 2025 15:02:59 UTC">August 30, 2025</span>
   </span>
 
     
