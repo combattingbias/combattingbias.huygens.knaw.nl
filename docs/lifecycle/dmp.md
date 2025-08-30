@@ -2,21 +2,21 @@
 
 ## When undertaking this task, what should you consider?
 
-[**FAIR**](bias/types/FAIR)
+[**FAIR**](../bias/types/FAIR.md)
 
 - How do you plan to publish FAIR data?
 - Do you foresee any issues with aligning your project with the FAIR principles? Why?
 
-[**Impact**](bias/types/impact)
+[**Impact**](../bias/types/impact.md)
 
 - In what way would your data harm other persons and the environment? [^1]
 
-[**Ownership**](bias/types/ownership)
+[**Ownership**](../bias/types/ownership.md)
 
 - Who (legally) owns the data you will produce?
 - How will you acknowledge data contributors and sources?
 
-[**Durability**](bias/types/durability)
+[**Durability**](../bias/types/durability.md)
 
 - How will you ensure your data remains FAIR in the future, after the project ends?
 - What preservation strategies will you implement for long-term accessibility?

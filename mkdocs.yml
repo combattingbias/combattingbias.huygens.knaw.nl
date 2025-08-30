@@ -5,6 +5,11 @@ site_url: "https://combattingbias.huygens.knaw.nl/"
 
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: amber
+      accent: orange
+    
   logo: static/img/logo/combattingbias.png
   favicon: static/img/logo/combattingbias-icon.png
   icon:
@@ -31,6 +36,18 @@ theme:
 
 plugins:
   - search
+  - mkdocs-breadcrumbs-plugin:
+      delimiter: " / "  # separator between sections
+      log_level: "WARNING"  # "DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"
+      exclude_paths:
+        - "docs/mkdocs/**"
+        - "docs/mkdocs"   # avoid generating index.md
+      additional_index_folders:
+        - temp_dir
+      generate_home_index: false
+      use_page_titles: true # use page title instead of path in breadcrumbs
+      home_text: "Home"
+
 
 nav:
  - Home: index.md
@@ -54,7 +71,7 @@ nav:
       - About: bias/types/about.md
       - Positionality: bias/types/positionality.md
       - Silences: bias/types/silences.md
-      - Accessibility: bias/types/accessibility/md
+      - Accessibility: bias/types/accessibility.md
       - Representation: bias/types/representation.md
       - Collaboration: bias/types/collaboration.md
       - Durability: bias/types/durability.md
@@ -75,23 +92,23 @@ nav:
       - Provenance: bias/types/provenance.md
       - Reproducibility: bias/types/reproducibility.md
       - Documentation: bias/types/documentation.md
-    - Dataset Lifecycle:
-      - Overview: bias/lifecycle/about.md
-      - Set up: 
-        - Set up: bias/lifecycle/setup.md
-        - Identify a Research Topic: bias/lifecycle/identify-research-topic.md
-        - Write Funding Proposals: bias/lifecycle/funding-proposals.md
-        - Write Data Management Plan: bias/lifecycle/dmp.md
-        - Write Ethical Commitments: bias/lifecycle/ethical-commitments.md
-        - Write Mission Statement: bias/lifecycle/mission-statement.md
-      - "Collection":
-        - Collection: bias/lifecycle/collection.md
-      - "Process": 
-        - Process: bias/lifecycle/process.md
-      - "Analyse":
-        - Analyse: bias/lifecycle/analyse.md
-      - "Preserve & Share": 
-        - Preserve & Share: bias/lifecycle/preserve-share.md
+ - Lifecycle:
+     - Overview: lifecycle/about.md
+     - Set up: 
+       - Set up: lifecycle/setup.md
+       - Identify a Research Topic: lifecycle/identify-research-topic.md
+       - Write Funding Proposals: lifecycle/funding-proposals.md
+       - Write Data Management Plan: lifecycle/dmp.md
+       - Write Ethical Commitments: lifecycle/ethical-commitments.md
+       - Write Mission Statement: lifecycle/mission-statement.md
+     - "Collection":
+       - Collection: lifecycle/collection.md
+     - "Process": 
+       - Process: lifecycle/process.md
+     - "Analyse":
+       - Analyse: lifecycle/analyse.md
+     - "Preserve & Share": 
+       - Preserve & Share: lifecycle/preserve-share.md
  - "Blog":
       - "When Archives Break Hearts": news/when-archives-break-hearts.md
       - "Combatting Bias Together! A Reflection on our May Events": news/mayevents.md

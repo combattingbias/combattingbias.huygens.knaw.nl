@@ -2,7 +2,7 @@
 
 ## When undertaking this task, what should you consider?
 
-[**Transparency**](/bias/types/transparency)
+[**Transparency**](../bias/types/transparency.md)
 
 - How active will your intervention be?
 - Who will your research impact positively/negatively?

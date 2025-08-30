@@ -18,21 +18,21 @@ Describe your analysis process and workflow. <br>
 
 _When undertaking this task, what should you consider?_
 
-#### [**Unintended Use**](/bias/types/unintended-use)
+#### [**Unintended Use**](../bias/types/unintended-use.md)
 
 - Can the visualisation/analysis be misinterpreted?[^2]
 
-#### [**Representation**](/bias/types/representation)
+#### [**Representation**](../bias/types/representation.md)
 
 - What does the chosen visualisation style highlight and under- and/or misrepresent?[^3]
 
-#### [**Reproducibility**](/bias/types/reproducibility)
+#### [**Reproducibility**](../bias/types/reproducibility.md)
 
 - Have you documented your analysis process sufficiently for others to reproduce it?
 - How are you handling intersectionality in your analysis?
 - Do your interpretations risk essentializing complex identities?
 
-#### [**Methodology (including algorithms)**](/bias/types/methodology)
+#### [**Methodology (including algorithms)**](../bias/types/methodology.md)
 
 - How might your analytical methods themselves introduce bias?
 - What assumptions underlie your interpretive frameworks?
@@ -61,7 +61,7 @@ _What are good practices in relation to this task?_
 
 _When undertaking this task, what should you consider?_
 
-#### [**Silences**](/bias/types/silences)
+#### [**Silences**](../bias/types/silences.md)
 
 - Are there gaps and/or silences in your data collection process?
 

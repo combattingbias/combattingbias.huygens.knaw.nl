@@ -1,11 +1,11 @@
 ## When undertaking this task, what should you consider?
 
-[**Positionality**](/bias/types/positionality)
+[**Positionality**](../bias/types/positionality.md)
 
 - How does the social, political, economic, cultural, academic context you are embedded in relate to advancing social justice? 
     - Are you conducting research from a position of historical privilege? (For example, are you based in a former colonial power studying colonized regions?) How can you then use the benefits of your context to advance the deconstruction of existing power structures?
 
-[**Transparency**](/bias/types/transparency)
+[**Transparency**](../bias/types/transparency.md)
 
 - Do you have any ethical concerns about the research? Think of: 
     - What accessibility barriers might your research create or reinforce?

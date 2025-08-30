@@ -19,19 +19,19 @@ Describe your processing process.
 
 _When undertaking this task, what should you consider?_
 
-#### [**Accuracy**](/bias/types/accuracy)
+#### [**Accuracy**](../bias/types/accuracy.md)
 
 - How accurate are your annotations? 
 
-#### [**Transparency**](/bias/types/transparency)
+#### [**Transparency**](../bias/types/transparency.md)
 
 - What are you basing your annotations on?
 
-#### [**Multivocality**](/bias/types/multivocality)
+#### [**Multivocality**](../bias/types/multivocality.md)
 
 - Does your annotation represent diversity adequately?
 
-#### [**Expertise**](/bias/types/expertise)
+#### [**Expertise**](../bias/types/expertise.md)
 
 - Who is annotating your data? What is their expertise and how can this impact your data annotation?
 
@@ -69,7 +69,7 @@ _What are good practices in relation to this task?_
 
 _When undertaking this task, what should you consider?_
 
-#### [**Harmful Language**](/bias/types/harmful-language)
+#### [**Harmful Language**](../bias/types/harmful-language.md)
 
 - Does your data contain offensive/harmful language and/or categories?
 
@@ -107,7 +107,7 @@ _What are good practices in relation to this task?_
 
 _When undertaking this task, what should you consider?_
 
-#### [**Representation**](/bias/types/representation)
+#### [**Representation**](../bias/types/representation.md)
 - Is there data that is unfairly represented by the used categories? 
 
 _What are good practices in relation to this task?_

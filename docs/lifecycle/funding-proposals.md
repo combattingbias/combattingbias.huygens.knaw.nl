@@ -1,25 +1,25 @@
 ## When undertaking this task, what should you consider?
 
-[**Positionality**](bias/types/positionality)
+[**Positionality**](../bias/types/positionality.md)
 
 - How does the social, political, economic, cultural, academic context you are embedded in impact what topics of research are receiving funding? In what way are you aligning your research to this?
 - Does your institution have in-house expertise on writing successful funding proposals? How does this impact your position?
 
 
-[**Recruitment**](bias/types/recruitment)
+[**Recruitment**](../bias/types/recruitment.md)
 
 - Will your recruitment practices be inclusive?
 
-[**Collaboration**](bias/types/collaboration)
+[**Collaboration**](../bias/types/collaboration.md)
 
 - In what way could you work with affected communities? 
 - In what way could you collaborate with specialist academics/researchers to mitigate potential biases in your research? 
 
-[**Representation**](bias/types/representation)
+[**Representation**](../bias/types/representation.md)
 
 - Who is and who is not represented in your research funding outline? 
 
-[**Impact**](bias/types/impact)
+[**Impact**](../bias/types/impact.md)
 
 - Who would your research impact positively and/or negatively, and in what way? In terms of agenda, accessibility (digital divide), representation, use of language? 
 

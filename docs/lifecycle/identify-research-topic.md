@@ -1,22 +1,22 @@
 ## When undertaking this task, what should you consider?
 
-[**Positionality**](bias/types/positionality)
+[**Positionality**](../bias/types/positionality.md)
 
 - How does the social, political, economic, cultural, academic context you are embedded in impact your choice of research?
 - Are there policies/guidelines within your institution that are relevant to your project - if so, which ones?[^1]
 
-[**Silences**](bias/types/silences)
+[**Silences**](../bias/types/silences.md)
 
 - What gaps exist in current research? 
 - What gaps are you trying to fill in your research? Time period, geography, actors, concepts?
 - What is your primary source data and what are its advantages and shortcomings? 
 
-[**Representation**](bias/types/representation)
+[**Representation**](../bias/types/representation.md)
 
 - Who is represented in the scholarship and sources that are used? And who is not represented? 
 
 
-[**Impact**](bias/types/impact)
+[**Impact**](../bias/types/impact.md)
 
 - Who do the scholarship and/or research projects currently impact positively and/or negatively, and in what way? In terms of accessibility (digital divide), representation, use of language?
 

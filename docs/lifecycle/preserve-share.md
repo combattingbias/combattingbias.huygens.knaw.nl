@@ -20,14 +20,14 @@ Publish documentation and contextualisation on your dataset, adapting it to your
 
 _When undertaking this task, what should you consider?_
 
-#### [**Unintended Use**](bias/types/unintended-use)
+#### [**Unintended Use**](../bias/types/unintended-use.md)
 
 - Can the research data be misinterpreted?
 - Or can the data be used for a different intended purpose (so-called _function creep_)?
 - Can any information in your dataset be viewed as misleading?
 
 
-#### [**Transparency**](bias/types/transparency)
+#### [**Transparency**](../bias/types/transparency.md)
 
 - If you identified gaps during the analysis process: how are you representing these to your audience? 
     - For example, visualisations documentation, etc.
@@ -71,21 +71,21 @@ _What are good practices in relation to this task?_
 
 _When undertaking this task, what should you consider?_
 
-#### [**Accessibility**](bias/types/accessibility)
+#### [**Accessibility**](../bias/types/accessibility.md)
 
 - Who is included/excluded from data access and why? 
 - Does your interface consider the digital divide?
 
-#### [**Ownership**](bias/types/ownership)
+#### [**Ownership**](../bias/types/ownership.md)
 
 - Who owns the data (legally) and is there consent for data archiving and sharing at the same time?
 
-#### [**FAIR**](bias/types/FAIR)
+#### [**FAIR**](../bias/types/FAIR.md)
 
 - Can your data be reused in the future?
 - Is your metadata and data open access thereby ensuring widest usability and impact? 
 
-#### [**Reproducibility**](bias/types/reproducibility)
+#### [**Reproducibility**](../bias/types/reproducibility.md)
 - Is your work reproducible?
 
 _What are good practices in relation to this task?_

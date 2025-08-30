@@ -19,40 +19,40 @@ Describe your collection process, metadata creation, contextualisation documenta
 
 _When undertaking this task, what should you consider?_
 
-#### [**Availability**](/bias/types/availability)
+#### [**Availability**](../bias/types/availability.md)
 
 - What sources are available (e.g. only written sources, no oral sources; only governmental reports, no personal histories)? 
 - In what way does a lack of availability of sources skew your dataset (e.g. do you only have data on certain communities and not others)?
 
-#### [**Expertise**](/bias/types/expertise)
+#### [**Expertise**](../bias/types/expertise.md)
 
 - What skills and expertise does your research team possess? How does this impact the sources/data you are able to work with and the ways in which you process this data (e.g. knowledge of paleography and language/cultural contexts or knowledge of a historical context might be necessary to work with certain kinds of sources)?
 
 
-#### [**Accessibility**](/bias/types/accessibility)
+#### [**Accessibility**](../bias/types/accessibility.md)
 
 - What sources are accessible (e.g. not destroyed; in country; in language researcher understands, digitized and freely available online)?
 
-#### [**Multivocality**](/bias/types/multivocality)
+#### [**Multivocality**](../bias/types/multivocality.md)
 
 - Does your data allow for the inclusion of multiple perspectives?
 - What sources are you not collecting from - and would they provide different perspectives?
 - How can you incorporate diverse viewpoints within your dataset?
 
-#### [**Representation**](/bias/types/representation)
+#### [**Representation**](../bias/types/representation.md)
 
 - Which individuals, communities, or viewpoints are represented in your data?
 - Which are absent or underrepresented?
 - How might these representation patterns affect analysis and how will this be communicated to other users/visitors/researchers?
 
-#### [**Historicity**](/bias/types/historicity)
+#### [**Historicity**](../bias/types/historicity.md)
 
 - Did you modify the data from its original source? 
 - Are you using terms as they are in the source document (extraction/verbatim)? Or did you interpret content in the source document in order to capture the data point? <br>
 e.g. Sex of a person can be explicitly stated in the document or interpreted by the data collector (through names, for example). 
 - How are you handling ambiguous elements like implied gender or social status?
 
-#### [**Provenance**](/bias/types/provenance)
+#### [**Provenance**](../bias/types/provenance.md)
 Where does your data come from? What is the context of its creation/inheritance?
 
 _What are good practices in relation to this task?_
@@ -109,21 +109,21 @@ _What are good practices in relation to this task?_
 
 _When undertaking this task, what should you consider?_
 
-#### [**Accuracy**](/bias/types/accuracy)
+#### [**Accuracy**](../bias/types/accuracy.md)
 
 - Is your metadata correct? 
 - Is the metadata of your source (data) correct?
 
-#### [**Transparency**](/bias/types/transparency)
+#### [**Transparency**](../bias/types/transparency.md)
 
 - What are you basing your metadata descriptions on?
 - Is it clear how the original source (data) metadata was created?
 
-#### [**Representation**](/bias/types/representation)
+#### [**Representation**](../bias/types/representation.md)
 - Are you providing consistent levels of detail across all descriptions? If not, what are the implications of this? And how will this be communicated to others? 
 - Does the metadata of your source (data) do so?
 
-#### [**Multivocality**](/bias/types/multivocality)
+#### [**Multivocality**](../bias/types/multivocality.md)
 - Does your metadata fairly describe different perspectives that exist?
 - Does the metadata of your source (data) do so?
 - How does your metadata handle contested or evolving terminology?
@@ -163,26 +163,26 @@ https://harvardwiki.atlassian.net/wiki/spaces/hmschommanual/pages/49446971/Guide
 
 _When undertaking this task, what should you consider?_
 
-#### [**FAIR**](/bias/types/FAIR)
+#### [**FAIR**](../bias/types/FAIR.md)
 
 - Are your categories clearly defined and documented?
 - Can your categories be linked to established ontologies?
 - Do your categories support interoperability with other datasets?
 
-#### [**Representation**](/bias/types/representation)
+#### [**Representation**](../bias/types/representation.md)
 
 - Be mindful of how these categories affect your research: does creating the category 'ethnic category' perpetuate the views of the colonial governments - and is this what you want in your research? What is its value and implications?
 - How might users interpret or misinterpret your categories?
 
-#### [**Multivocality**](/bias/types/multivocality)
+#### [**Multivocality**](../bias/types/multivocality.md)
 - Do your categories represent complex data adequately?
 - Can your framework accommodate multiple perspectives/worldviews?
 
-#### [**Historicity**](/bias/types/historicity)
+#### [**Historicity**](../bias/types/historicity.md)
 - Are you using categories as used by your sources? If so, consider elaborating your choice of categories to your users. 
 - How do you balance historical accuracy with contemporary ethical considerations while avoiding presentism?[^4]
 
-#### [**Methodology (including algorithms)**](/bias/types/methodology)
+#### [**Methodology (including algorithms)**](../bias/types/methodology.md)
 - How might your category choices introduce or amplify bias in ML applications?
 - Could your variables create problematic correlations or inferences when used in predictive models?
 - How might simplifications in categorization lead to algorithmic discrimination?
@@ -233,7 +233,7 @@ _What are good practices in relation to this task?_
 
 _When undertaking this task, what should you consider?_
 
-#### [**Privacy**](/bias/types/privacy)
+#### [**Privacy**](../bias/types/privacy.md)
 
 - Is the collected data stored safely?
 
@@ -253,7 +253,7 @@ _What are good practices in relation to this task?_
 
 _When undertaking this task, what should you consider?_
 
-#### [**Transparency**](/bias/types/Transparency)
+#### [**Transparency**](../bias/types/transparency.md)
 
 - Does the documentation reflect your current thinking in your research?
 
