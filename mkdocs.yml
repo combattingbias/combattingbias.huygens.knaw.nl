@@ -29,7 +29,7 @@ theme:
     - navigation.path       # Breadcrumbs
     - navigation.top        # Back to top button
     - navigation.prune      # Reduce HTML size
-    - toc.integrate        # Table of contents in navigation
+    # - toc.integrate         # Table of contents in navigation
     
     # Search enhancements
     - search.suggest       # Search suggestions
@@ -94,21 +94,11 @@ nav:
       - Documentation: bias/types/documentation.md
  - Lifecycle:
      - Overview: lifecycle/about.md
-     - Set up: 
-       - Set up: lifecycle/setup.md
-       - Identify a Research Topic: lifecycle/identify-research-topic.md
-       - Write Funding Proposals: lifecycle/funding-proposals.md
-       - Write Data Management Plan: lifecycle/dmp.md
-       - Write Ethical Commitments: lifecycle/ethical-commitments.md
-       - Write Mission Statement: lifecycle/mission-statement.md
-     - "Collection":
-       - Collection: lifecycle/collection.md
-     - "Process": 
-       - Process: lifecycle/process.md
-     - "Analyse":
-       - Analyse: lifecycle/analyse.md
-     - "Preserve & Share": 
-       - Preserve & Share: lifecycle/preserve-share.md
+     - Set up: lifecycle/setup.md
+     - "Collection": lifecycle/collection.md
+     - "Process": lifecycle/process.md
+     - "Analyse": lifecycle/analyse.md
+     - "Preserve & Share": lifecycle/preserve-share.md
  - "Blog":
       - "When Archives Break Hearts": news/when-archives-break-hearts.md
       - "Combatting Bias Together! A Reflection on our May Events": news/mayevents.md
