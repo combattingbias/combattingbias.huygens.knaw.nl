@@ -21,7 +21,7 @@ Harmful language can cause hurt to people and make the spaces they access your d
 
 **3 - Process**
 
-- Convert data into readable format
+- [Convert data into readable format](/lifecycle/process/#convert-data-into-readable-format)
 
 
 ## Questions to consider throughout your work

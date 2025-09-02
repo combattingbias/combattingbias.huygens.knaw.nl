@@ -20,11 +20,11 @@ Ownership should be considered in order to confront unbalanced power structures.
 
 **1 - Set up**
 
-- Write Data Management Plan (DMP)
+- [Write Data Management Plan (DMP)](/lifecycle/setup/#write-a-data-management-plan-dmp)
 
-**5 - Share & Preserve**
+**5 - Preserve & Share**
 
-- Create or choose an interface to publish data, analyses, visualisations and other publications
+- [Create or choose an interface to publish data, analyses, visualisations and other publications](/lifecycle/preserve-share/#create-or-choose-an-interface-to-publish-data-analyses-visualisations-and-other-publications)
 
 
 ## Questions to consider throughout your work

@@ -18,10 +18,14 @@ Privacy has many (legal) regulations around it, and is therefore important to co
 
 ## Where does it occur in the lifecycle?
 
+**1 - Set Up**
+- [Write Data Management Plan (DMP)](/lifecycle/setup/#write-a-data-management-plan-dmp)
+
 **2 - Collection**
-- Reflect: Assess data storage structure of DMP
+- [Reflect: Assess data storage structure of DMP](/lifecycle/collection/#reflect-assess-data-storage-structure-of-dmp)
 
 ## Questions to consider throughout your work
+- How will your research data be stored safely? Is there need for anonymisation? 
 - Is the collected data stored safely?
 
 ## Examples

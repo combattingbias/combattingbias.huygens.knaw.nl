@@ -21,18 +21,18 @@ When groups, cultures, and histories are mis- or underrepresented, it skews narr
 
 **1 - Set up**<br>
 
-- Identify a research topic
-- Write funding proposals
+- [Identify a research topic](/lifecycle/setup/#identify-a-research-topic)
+- [Write funding proposals](/lifecycle/setup/#write-funding-proposals)
 
 **2 - Collection**
 
-- Select and curate sources and/or data
-- Create metadata for the data
-- Create usable categories and variables for your dataset
+- [Select and curate sources and/or data](/lifecycle/collection/#select-and-curate-sources-andor-data)
+- [Create metadata for the data](/lifecycle/collection/#create-metadata-for-the-data)
+- [Create usable categories and variables for your dataset](lifecycle/collection/#create-usable-categories-and-variables-for-your-dataset)
 
 **3 - Process**
 
-- Reflect: Reflect on the categories and variables used
+- [Reflect: Reflect on the categories and variables used](/lifecycle/process/#reflect-reflect-on-the-categories-and-variables-used)
 
 
 ## Questions to consider throughout your work

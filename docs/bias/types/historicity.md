@@ -19,10 +19,10 @@ Historicity is important because we do not want to erase past wrongs. A dataset 
 
 ## Where does it occur in the lifecycle?
 
-**2 - Collection**<br>
+**2 - Collection**
 
-- Select and curate sources and/or data
-- Create usable categories and variables for your dataset
+- [Select and curate sources and/or data](/lifecycle/collection/#select-and-curate-sources-andor-data)
+- [Create usable categories and variables for your dataset](/lifecycle/collection/#create-usable-categories-and-variables-for-your-dataset)
 
 
 ## Questions to consider throughout your work

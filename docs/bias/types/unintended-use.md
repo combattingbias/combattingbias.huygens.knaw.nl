@@ -21,11 +21,11 @@ Similar to risk assessments: by considering unintended uses during research, som
 
 **4 - Analyse**
 
-- Analysing and Interpreting Data
+- [Analysing and Interpreting Data](/lifecycle/analyse/#analysing-and-interpreting-data)
 
 **5 - Preserve & Share**
 
-- Contextualise data for external users
+- [Contextualise data for external users](lifecycle/preserve-share/#contextualise-data-for-external-users)
 
 
 ## Questions to consider throughout your work

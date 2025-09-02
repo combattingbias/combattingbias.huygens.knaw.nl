@@ -21,9 +21,9 @@ If impact goes unconsidered, and therefore not discussed in research’s output,
 
 **1 - Set up**<br>
 
-- Identify a research topic
-- Write funding proposals
-- Write Data Management Plan (DMP)
+- [Identify a research topic](/lifecycle/setup/#identify-a-research-topic)
+- [Write funding proposals](/lifecycle/setup/#write-funding-proposals)
+- [Write Data Management Plan (DMP)](/lifecycle/setup/#write-a-data-management-plan-dmp)
 
 
 ## Questions to consider throughout your work

@@ -20,11 +20,11 @@ If research is not reproducible, it means the process has been untransparent. Th
 
 **4 - Analyse**
 
-- Analysing and Interpreting Data
+- [Analysing and Interpreting Data](/lifecycle/analyse/#analysing-and-interpreting-data)
 
 **5 - Preserve & Share**
 
-- Create or choose an interface to publish data, analyses, visualisations and other publications
+- [Create or choose an interface to publish data, analyses, visualisations and other publications](/lifecycle/preserve-share/#create-or-choose-an-interface-to-publish-data-analyses-visualisations-and-other-publications)
 
 ## Questions to consider throughout your work
 

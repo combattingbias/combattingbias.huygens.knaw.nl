@@ -21,21 +21,21 @@ Transparency is crucial in research: in documentation, communication, publicatio
 
 **1 - Set up**
 
-- Write Ethical Commitments
-- Write Mission Statement
+- [Write Ethical Commitments](/lifecycle/setup/#write-ethical-commitments)
+- [Write Mission Statement](/lifecycle/setup/#write-a-mission-statement)
 
 **2 - Collection**
 
-- Create metadata for the data
-- Reflect: Revisit your Set Up documentation
+- [Create metadata for the data](/lifecycle/collection/#create-metadata-for-the-data)
+- [Reflect: Revisit your Set Up documentation](/lifecycle/collection/#reflect-revisit-your-set-up-documentation)
 
 **3 - Process**
 
-- Annotate your data
+- [Annotate your data](/lifecycle/process/#annotate-your-data)
 
-**5 - Share & Preserve**
+**5 - Preserve & Share**
 
-- Contextualise data for external users
+- [Contextualise data for external users](/lifecycle/preserve-share/#contextualise-data-for-external-users)
 
 
 ## Questions to consider throughout your work

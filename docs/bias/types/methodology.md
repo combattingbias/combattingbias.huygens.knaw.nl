@@ -21,11 +21,11 @@ _part of: **opacity**_
 
 **2 - Collect**
 
-- Create usable categories and variables for your dataset
+- [Create usable categories and variables for your dataset](/lifecycle/collection/#create-usable-categories-and-variables-for-your-dataset)
 
 **4 - Analyse**
 
-- Analysing and Interpreting Data
+- [Analysing and Interpreting Data](/lifecycle/analyse/#analysing-and-interpreting-data)
 
 ## Questions to consider throughout your work
 - How might your category choices introduce or amplify bias in ML applications?

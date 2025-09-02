@@ -24,11 +24,11 @@ Silences cause a skewed narrative of history, in which certain narratives are no
 
 **1 - Set up**
 
-- Identify a research topic
+- [Identify a research topic](/lifecycle/setup/#identify-a-research-topic)
 
 **4 - Analyse**
 
-- Reflect: Assess sufficiency of data collection
+- [Reflect: Assess sufficiency of data collection](/lifecycle/analyse/#reflect-assess-sufficiency-of-data-collection)
 
 ## Questions to consider throughout your work
 - What gaps exist in current research? 

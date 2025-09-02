@@ -24,13 +24,13 @@ If multivocality is neither considered, nor represented in the publication of re
 
 **2 - Collection**
 
-- Select and curate sources and/or data
-- Create metadata for the data
-- Create usable categories and variables for your dataset
+- [Select and curate sources and/or data](/lifecycle/collection/#select-and-curate-sources-andor-data)
+- [Create metadata for the data](/lifecycle/collection/#create-metadata-for-the-data)
+- [Create usable categories and variables for your dataset](/lifecycle/collection/#create-usable-categories-and-variables-for-your-dataset)
 
 **3 - Process**
 
-- Annotate your data
+- [Annotate your data](/lifecycle/process/#annotate-your-data)
 
 ## Questions to consider throughout your work
 - Does your data allow for the inclusion of multiple perspectives?

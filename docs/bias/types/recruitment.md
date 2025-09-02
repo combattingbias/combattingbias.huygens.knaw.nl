@@ -21,7 +21,7 @@ If recruitment practices are not done thoughtfully, it will make it so that your
 
 **1 - Set up**
 
-- Write funding proposals
+- [Write funding proposals](/lifecycle/setup/#write-funding-proposals)
 
 ## Questions to consider throughout your work
 - Will your recruitment practices be inclusive?
