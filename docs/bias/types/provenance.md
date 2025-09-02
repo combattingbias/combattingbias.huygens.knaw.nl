@@ -22,9 +22,11 @@ To understand the journey your data has been through, as well as understanding t
 ## Where does it occur in the lifecycle?
 
 **2 - Collection**
-- Select and curate sources and/or data
+
+- [Select and curate sources and/or data](/lifecycle/collection/#select-and-curate-sources-andor-data)
 
 ## Questions to consider throughout your work
+
 - Where does your data come from? What is the context of its creation/inheritance?
 
 ## Examples

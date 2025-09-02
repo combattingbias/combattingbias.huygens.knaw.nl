@@ -21,7 +21,7 @@ Enabling accessibility and availability of your research output after the end of
 
 **1 - Set up**
 
-- Write Data Management Plan (DMP)
+- [Write Data Management Plan (DMP)](/lifecycle/setup/#write-a-data-management-plan-dmp)
 
 ## Questions to consider throughout your work
 - How will you ensure your data remains FAIR in the future, after the project ends?

@@ -1,10 +1,9 @@
-
 ## Description
 _In the **Collect** stage, relevant data is collected and stored in the chosen organisational structure of the project, creating the content of the dataset. It builds on the Set Up stage, but also reflects and updates decisions made then._ 
 
 ---
 
-## 📔 Recommended documentation
+## 📔 Recommended documentation 
 Describe your collection process, metadata creation, contextualisation documentation. 
 > → Include all considerations below each task. <br>
 > → Write about what types of sources and/or data you are creating the dataset from, their creators and historical context (provenance). <br>
@@ -17,7 +16,7 @@ Describe your collection process, metadata creation, contextualisation documenta
 
 ### Select and Curate Sources and/or Data
 
-_When undertaking this task, what should you consider?_
+**_When undertaking this task, what should you consider?_**
 
 #### [**Availability**](../bias/types/availability.md)
 
@@ -53,9 +52,9 @@ e.g. Sex of a person can be explicitly stated in the document or interpreted by 
 - How are you handling ambiguous elements like implied gender or social status?
 
 #### [**Provenance**](../bias/types/provenance.md)
-Where does your data come from? What is the context of its creation/inheritance?
+- Where does your data come from? What is the context of its creation/inheritance?
 
-_What are good practices in relation to this task?_
+**_What are good practices in relation to this task?_**
 
 - Document your collection process according to a documentation template chosen before, e.g. data-envelopes.
     - Include all the knowledge you possess about the data: its shortcomings and your collection practices and how you have modified the data (e.g. your data may not cover certain chronological periods; you may only have access to digitized files of certain types of archives; you may have normalised the spellings of concepts in your data which means that it cannot be used to research spelling variation of terms).
@@ -107,7 +106,7 @@ _What are good practices in relation to this task?_
 
 **Description:** This task refers to the metadata of individual parts of the data as well as the combined dataset. It also refers to a reflection on the original metadata of the source.
 
-_When undertaking this task, what should you consider?_
+**_When undertaking this task, what should you consider?_**
 
 #### [**Accuracy**](../bias/types/accuracy.md)
 

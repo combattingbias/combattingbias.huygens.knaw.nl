@@ -8,7 +8,7 @@ keywords: ["social position", "power structures", "identity", "reflexivity", "pr
 ## Definition
 “One’s social position or place in a given society in relation to race, ethnicity, and other statuses (e.g., age, gender, gender identity and expression, religion, national origin, immigration status, language, disability, sexual orientation, socioeconomic status) within systems of power and oppression. Positionality refers to individual identities and the intersection of those identities and statuses with systems of privilege and oppression. Positionality shapes a person’s psychological experiences, worldview, perceptions others have of them, social relationships, and access to resources (Muhammad et al., 2015). Positionality therefore means actively understanding and negotiating the systemic processes and hierarchy of power and the ways that statuses affect relationships because of power dynamics related to privilege and oppression (APA Task Force on Race and Ethnicity Guidelines in Psychology, 2019)”
 
-_Definition source: **American Psychological Association. (2023). [Inclusive language guide (2nd ed.)](https://www.apa.org/about/apa/equity-diversity-inclusion/language-guidelines.pdf_)**._ 
+_Definition source: **American Psychological Association. (2023). [Inclusive language guide (2nd ed.)](https://www.apa.org/about/apa/equity-diversity-inclusion/language-guidelines.pdf)**._ 
 
 ## Stakes
 _part of: **opacity**_
@@ -19,9 +19,9 @@ When positionality goes unconsidered or unacknowledged, the research is impacted
 
 **1 - Set up**
 
-- Identify a research topic
-- Write funding proposals
-- Write Ethical Commitments
+- [Identify a research topic](/lifecycle/setup/#identify-a-research-topic)
+- [Write funding proposals](/lifecycle/setup/#write-funding-proposals)
+- [Write Ethical Commitments](/lifecycle/setup/#write-ethical-commitments)
 
 ## Questions to consider throughout your work
 - How does the social, political, economic, cultural, academic context you are embedded in impact your choice of research?

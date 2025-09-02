@@ -19,11 +19,11 @@ It is important to be as accurate as you can be - describing precisely your proc
 
 **2 - Collection**
 
-- [Create metadata for the data](/bias/lifecycle/collection)
+- [Create metadata for the data](/lifecycle/collection/#create-metadata-for-the-data)
 
 **3 - Process**
 
-- [Annotate your data](/bias/lifecycle/process)
+- [Annotate your data](/lifecycle/process/#annotate-your-data)
 
 ## Questions to consider throughout your work
 - Is your metadata correct? 

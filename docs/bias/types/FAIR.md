@@ -20,15 +20,15 @@ Adhering to the FAIR Principles ensures your data is technically responsible, as
 
 **1 - Set up**
 
-- Write Data Management Plan (DMP)
+- [Write Data Management Plan (DMP)](/lifecycle/setup/#write-a-data-management-plan-dmp)
 
 **2 - Collection**
 
-- Create usable categories and variables for your dataset
+- [Create usable categories and variables for your dataset](/lifecycle/collection/#create-usable-categories-and-variables-for-your-dataset)
 
 **5 - Share & Preserve**
 
-- Create or choose an interface/repository to publish data, analyses, visualisations and other publications
+- [Create or choose an interface to publish data, analyses, visualisations and other publications](/lifecycle/preserve-share/#create-or-choose-an-interface-to-publish-data-analyses-visualisations-and-other-publications)
 
 ## Questions to consider throughout your work
 - How will your produced data be made FAIR?

@@ -23,7 +23,7 @@ Collaboration in any form is crucial in creating ethically responsible datasets.
 
 **1 - Set up**
 
-- Write funding proposals
+- [Write funding proposals](/lifecycle/setup/#write-funding-proposals)
 
 ## Questions to consider throughout your work
 - In what way could you work with affected communities? 

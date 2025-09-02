@@ -2,7 +2,15 @@ The Lifecycle Model and Guidelines component provides structured guidance for ad
 
 
 ## Structure and Content 
-This document provides guidelines for tasks that feature throughout the dataset lifecycle. It is organised into five key stages:
+This document provides guidelines for tasks that feature throughout the dataset lifecycle. It is organised into five key stages.[^1]:
+
+<div style="display:flex; gap: 1rem; justify-content:center; flex-wrap: wrap;">
+      <a href="/lifecycle/setup" class="md-button md-button--primary">Set Up</a>
+      <a href="/lifecycle/collection" class="md-button">Collection</a>
+      <a href="/lifecycle/process" class="md-button">Process</a>
+      <a href="/lifecycle/analyse" class="md-button">Analyse</a>
+      <a href="/lifecycle/preserve-share" class="md-button">Preserve & Share</a>
+</div>
 
 **1. Set Up:** Project conceptualisation, planning, and funding
 
@@ -29,3 +37,6 @@ The guidelines provide concrete steps that researchers can implement at each sta
 
 ## Relationship to Other Componenets
 While the [Bias Vocabulary](../types/about.md) examines bias expressions conceptually, this Lifecycle Model takes a process-oriented approach, integrating bias considerations directly into standard dataset creation workflows. Together, these components provide both theoretical understanding and practical implementation strategies.
+
+[^1]: This model builds upon Research Data Alliance (July 2024), The creation of a harmonised research data
+lifecycle (RDL) model and crosswalk to existing models. https://www.rd-alliance.org/wp-content/uploads/2024/09/D1_The-creation-of-a-harmonised-research-data-lifecycle-RDL-model-and-crosswalk-to-existing-models-.pdf.

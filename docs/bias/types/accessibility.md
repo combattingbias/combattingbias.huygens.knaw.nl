@@ -22,12 +22,12 @@ Ensuring equal accessibility to your research (data) is a core part of creating 
 
 **2 - Collection**
 
-- Select and curate sources and/or data
+- [Select and curate sources and/or data](/lifecycle/collection/#select-and-curate-sources-andor-data)
 
 
 **5 - Preserve & Share**
 
-- Create or choose an interface to publish data, analyses, visualisations and other publications
+- [Create or choose an interface to publish data, analyses, visualisations and other publications](/lifecycle/preserve-share/#create-or-choose-an-interface-to-publish-data-analyses-visualisations-and-other-publications)
 
 ## Questions to consider throughout your work
 - What sources are available (e.g. only written sources, no oral sources; only governmental reports, no personal histories)? 

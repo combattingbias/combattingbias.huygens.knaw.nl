@@ -21,7 +21,7 @@ Availability of sources impacts what type of research you can conduct and conclu
 
 **2 - Collection**
 
-- [Select and curate sources and/or data](/bias/lifecycle/collection)
+- [Select and curate sources and/or data](/lifecycle/collection/#select-and-curate-sources-andor-data)
 
 ## Questions to consider throughout your work
 - What sources are available (e.g. only written sources, no oral sources; only governmental reports, no personal histories)? 

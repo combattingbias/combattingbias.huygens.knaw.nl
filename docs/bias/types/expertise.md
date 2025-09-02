@@ -21,11 +21,11 @@ Your expertise impacts what type of research you conduct and conclusions you dra
 
 **2 - Collection**
 
-- Select and curate sources and/or data
+- [Select and curate sources and/or data](/lifecycle/collection/#select-and-curate-sources-andor-data)
 
 **3 - Process**
 
-- Annotate your data
+- [Annotate your data](/lifecycle/process/#annotate-your-data)
 
 ## Questions to consider throughout your work
 - What skills and expertise does your research team possess? How does this impact the sources/data you are able to work with and the ways in which you process this data (e.g. knowledge of paleography or knowledge of a historical context might be necessary to work with certain kinds of sources)?
