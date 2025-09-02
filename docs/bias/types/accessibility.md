@@ -37,6 +37,7 @@ Ensuring equal accessibility to your research (data) is a core part of creating 
 
 ## Examples
 - Luthra, Mrinalini, and Charles Jeurgens. “Humanising Digital Archival Practice. Access to Archives Guided by Social Justice.” In Intentional Invisibilization in Modern Asian History: Concealing and Self-Concealed Agents, edited by Mònica Ginés-Blasi. De Gruyter, 2025. https://doi.org/10.1515/9783111381831-008.
+- Open Archief, Artistic Reuse of Archives: https://www.openarchief.com/ 
 - PositiveNegatives: Stories drawn from Research: https://positivenegatives.org/
 
 ## Good-better-best practices

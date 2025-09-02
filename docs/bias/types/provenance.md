@@ -43,6 +43,7 @@ Available at: https://elischolar.library.yale.edu/jcas/vol12/iss1/4
 - Anne Haeming, [_Dynarchiving: Confronting the Bias in Data._](dynarchiving.com) 
     - Reading list and tools
 - Sarah Binta Alam Shoilee, Annastiina Ahola, Heikki Rantala, Eero Hyvönen, Victor de Boer, Jacco van Ossenbruggen, and Susan Legene. "Enhancing Provenance Research with Linked Data: A Visual Approach to Knowledge Discovery." SemDH'25: Second International Workshop of Semantic Digital Humanities, June 1-2 2025, Portoroz, Slovenia. https://seco.cs.aalto.fi/publications/2025/shoilee-et-al-pm-sampo-2025.pdf
+- Katja Kaiser, Catarina Madruga: Tagging Objects from Colonial Contexts. A Decision Tree for Natural History Collections: https://doi.org/10.25360/01-2024-00005 
 
 
 [^1]: Bias type added inspired by Anne Haeming’s approach to archival silences and biases: [dynarchiving](dynarchiving.com). 
