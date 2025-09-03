@@ -1,3 +1,7 @@
-We value your input and are always eager to hear from you. Whether you have feedback about our project, questions you'd like answered, or are interested in potential collaboration opportunities, please reach out!
+From September 2025 onwards, this website is maintained by the Data Management department at the Huygens Institute. 
 
-You can contact us via email at: combattingbias[at]gmail[dot]com
+---
+
+For enquiries or questions about the website (technical issues, accessibility requirements, etc.), please contact **data[at]huygens[dot]knaw[dot]nl**
+
+For feedback, comments, or questions about the content of the website and Combatting Bias project, please contact our [team members](/about/team/team). 
