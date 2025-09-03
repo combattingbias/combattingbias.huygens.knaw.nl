@@ -48,6 +48,26 @@ hide:
   </div>
 </div>
 
+<br>
+
+<div class="cb-grid">
+  <div class="cb-card">
+    <h5>Ethical Commitments</h5>
+    <p>Our mission to reduce harmful bias carries significant responsibility for research integrity and ethics.</p>
+    <a href="bias/types/about" class="md-button">Ethical Commitments</a>
+  </div>
+  <div class="cb-card">
+    <h5>Bias(ed) Maps</h5>
+    <p>When many people come together to think about the question <i> what is bias?</i>: an activity in cutting and pasting.</p>
+    <a href="bias/bias-maps" class="md-button">Bias(ed) Maps</a>
+  </div>
+  <div class="cb-card">
+    <h5>Blog Posts</h5>
+    <p>Newest: <i>When Archives Break Hearts</i> by Asawari Luthra</p>
+    <a href="/news" class="md-button md-button--primary">Read more!</a>
+  </div>
+</div>
+
 <!-- Rest of your content -->
 <hr>
 
