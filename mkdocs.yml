@@ -29,7 +29,7 @@ theme:
     - navigation.path       # Breadcrumbs
     - navigation.top        # Back to top button
     - navigation.prune      # Reduce HTML size
-    # - toc.integrate         # Table of contents in navigation
+    - toc.integrate         # Table of contents in navigation
     
     # Search enhancements
     - search.suggest       # Search suggestions
