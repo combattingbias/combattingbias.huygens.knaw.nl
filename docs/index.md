@@ -64,7 +64,7 @@ hide:
   <div class="cb-card">
     <h5>Blog Posts</h5>
     <p>Newest: <i>When Archives Break Hearts</i> by Asawari Luthra</p>
-    <a href="/news" class="md-button md-button--primary">Read more!</a>
+    <a href="/news/when-archives-break-hearts" class="md-button md-button--primary">Read more!</a>
   </div>
 </div>
 
