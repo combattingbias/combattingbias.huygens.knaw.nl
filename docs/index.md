@@ -53,7 +53,8 @@ hide:
 
 <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 10px;">
    <p class="text-block">Combatting Bias is funded by the <a href="https://nwo.nl" target="_top">Dutch Research Council (NWO)</a> via the  <a href="https://tdcc.nl" target="_blank">Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH)</a><br><br>
-   Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>, <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://bsky.app/profile/combattingbias.bsky.social" target="_top">Bluesky</a>!<br><br>
+   Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>!
+   <!-- <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://bsky.app/profile/combattingbias.bsky.social" target="_top">Bluesky</a>!--><br><br>
 Combatting Bias is hosted at the <a href="https://www.huygens.knaw.nl" target="_top">Huygens Institute</a>.
 </p>
   <div class="logos-container" style="display: flex; flex-direction: column; gap: 4px;">
