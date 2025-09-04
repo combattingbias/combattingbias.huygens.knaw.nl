@@ -777,6 +777,12 @@ a:hover {
   align-items: center;
 }
 
+.cb-hero p {
+  margin-top: 0; /* Removes any default paragraph margin */
+}
+
+
+
 @media (max-width: 900px) {
   .cb-hero {
     grid-template-columns: 1fr;
