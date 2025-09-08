@@ -15,7 +15,6 @@ Leon van Wissen (Globalise, Universiteit van Amsterdam)
 
 *Read more about the partner projects [here](/team/partnerprojects).*
 
-
 ### Network Advisors
 
 Angelica Maineri (ODISSEI)
@@ -52,9 +51,9 @@ Margo Groenenwoud (independent scholar)
 Matthias Rosenbaum-Feldbrügge (Historical Database Suriname and Caribbean)
 Nicole Emmenegger (TDCC-SSH)
 Pouwel van Schooten (Leiden University)
-Rupsa Nag ()
+Rupsa Nag (independent scholar)
 Vicky Breemen (Utrecht Universiteit)
-Wisaal Abrahams (Manvrou Collective)
+Wisaal Abrahams (ManVrou Collective)
 
 
 
