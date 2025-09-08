@@ -1,4 +1,3 @@
-**DOI**: [https://doi.org/10.5281/zenodo.17078580](https://doi.org/10.5281/zenodo.17078580){:target="_blank"}
 
 ## Overview
 
