@@ -307,7 +307,7 @@ hr.solid {
         </p>
     </header>
 
-    <article>
+<article>
         <div class="intro-section">
             <p>
                 <strong>Use the filters below</strong> to explore types of biases by their <strong>category</strong> (discrimination or opacity) 
@@ -316,8 +316,8 @@ hr.solid {
             </p>
         </div>
         
-        <!-- Type Filter -->
-        <div class="filter-section">
+<!-- Type Filter -->
+<div class="filter-section">
             <h3><i class="fa-solid fa-tags"></i> Types of Bias</h3>
             <div class="button-grid">
                 <button class="filter-btn type-btn" data-filter="type" data-value="discrimination">
@@ -331,8 +331,8 @@ hr.solid {
             </div>
         </div>
 
-        <!-- Stage Filter -->
-        <div class="filter-section">
+<!-- Stage Filter -->
+<div class="filter-section">
             <h3><i class="fa-solid fa-project-diagram"></i> Research Stage</h3>
             <div class="button-grid">
                 <button class="filter-btn stage-btn" data-filter="stage" data-value="setup">
@@ -358,8 +358,8 @@ hr.solid {
             </div>
         </div>
 
-        <!-- Search -->
-        <div class="filter-section">
+<!-- Search -->
+<div class="filter-section">
             <h3><i class="fa-solid fa-search"></i> Search Concepts</h3>
             <div class="search-container">
                 <input type="text" id="search-input" placeholder="Search for bias concepts, definitions, keywords, or questions...">
@@ -372,18 +372,18 @@ hr.solid {
             </div>
         </div>
 
-        <!-- Reset -->
-        <div class="filter-section">
+<!-- Reset -->
+<div class="filter-section">
             <button class="reset-btn" data-reset="all">
                 <i class="fa-solid fa-rotate-left"></i>
                 Reset all filters
             </button>
         </div>
 
-        <hr style="border-top: 3px solid #dee2e6; margin: 40px 0;">
+<hr style="border-top: 3px solid #dee2e6; margin: 40px 0;">
 
-        <!-- Results Header -->
-        <div class="results-header">
+<!-- Results Header -->
+<div class="results-header">
             <h2>
                 Bias Concepts (<span id="resource-count">0</span>)
             </h2>
@@ -393,14 +393,14 @@ hr.solid {
             </p>
         </div>
 
-        <!-- Cards Container -->
-        <div id="card-list">
+<!-- Cards Container -->
+<div id="card-list">
             <div class="loading">
                 <i class="fa-solid fa-spinner fa-spin"></i> Loading bias concepts...
             </div>
         </div>
 
-        <script>
+<script>
             // Embedded bias configuration data - no async loading required
             const BIAS_DATA = [
         {
@@ -635,7 +635,7 @@ hr.solid {
                         "benefit",
                         "harm"
                 ],
-                "definition": "an effect on, change or benefit to the economy, society, culture, public policy or services, health, the environment or quality of life (beyond academia)\"\n\n_Definition source: UKRI (n.",
+                "definition": "an effect on, change or benefit to the economy, society, culture, public policy or services, health, the environment or quality of life (beyond academia)",
                 "stakes": "If impact goes unconsidered, and therefore not discussed in research’s output, there can be (unintended) harm done. In order to work as responsibly as possible, while aiming for just knowledge production, impact should be accounted for during conceptualisation of the project already.",
                 "icon": "fa-circle-question"
         },
