@@ -1,3 +1,5 @@
+**DOI**: [https://doi.org/10.5281/zenodo.17078580](https://doi.org/10.5281/zenodo.17078580){:target="_blank"}
+
 ## Overview
 
 The project methodology for developing the Bias-Aware Framework, consists of a three-part iterative approach, combining theoretical analysis with practical validation: 

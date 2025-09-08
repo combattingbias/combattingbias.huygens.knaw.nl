@@ -1,5 +1,7 @@
 # Ethical Commitments
 
+**DOI**: [https://doi.org/10.5281/zenodo.17078580](https://doi.org/10.5281/zenodo.17078580){:target="_blank"}
+
 Our mission to combat bias carries significant responsibility for research integrity and ethics. We embrace this responsibility through a set of ethical commitments that ensure accountability in our work.
 
 Born from the [GLOBALISE](https://globalise.huygens.knaw.nl/) project, Combatting Bias emerged in response to challenges and experiences encountered in building datasets and digital infrastructures. Our ethical commitments supplement and extend [GLOBALISE's Ethics Policy](https://docs.globalise.huygens.knaw.nl/ethics/policy/) by specifically addressing institutional and systemic injustices, and the two should be read in conjunction.
