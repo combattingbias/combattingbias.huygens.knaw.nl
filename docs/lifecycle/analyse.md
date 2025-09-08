@@ -77,7 +77,7 @@ _What are good practices in relation to this task?_
 
 #### Resources
     
-> See [Set Up: Select and Curate Sources and/or Data](/bias/lifecycle/collection/#select-and-curate-sources-andor-data)
+> See [Set Up: Select and Curate Sources and/or Data](/lifecycle/collection/#select-and-curate-sources-andor-data)
 
 
 [^1]: Adapted from RDMkit, [Analysing](https://rdmkit.elixir-europe.org/analysing) (accessed 21 August 2025).

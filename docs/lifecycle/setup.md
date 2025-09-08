@@ -98,7 +98,8 @@ Further websites with helpful guiding questions and toolkits to consider before 
 
 #### Resources
     
-> _No resources yet_
+> Loughborough University, [Embedding EDI in Grant Proposals](https://www.lboro.ac.uk/media/intranet/content/schoolsanddepartments/aacme/research/EDI%20in%20Grant%20Proposals%20Feb%202023.pdf). Version: Feb 2023.
+> Maastricht University, [How to Address Diversity in Research Proposals - A Guide](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-research/how-address-diversity-research-proposals-guide). 
 
 ---
 

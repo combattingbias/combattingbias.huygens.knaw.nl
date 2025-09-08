@@ -11,6 +11,7 @@ _Definition source: **Combatting Bias definition**_
 
 ## Stakes
 _part of: **opacity**_
+
 _related to: **transparency**_
 
 Creating extensive documentation is crucial to ensure adequate contextualisation of your research and transparency around research practices. This creates accountability as well. 

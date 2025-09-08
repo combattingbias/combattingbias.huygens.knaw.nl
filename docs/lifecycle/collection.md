@@ -244,7 +244,7 @@ _What are good practices in relation to this task?_
 
 #### Resources
 
-> See [Set up: Write Data Management Plan](/bias/lifecycle/dmp)
+> See [Set up: Write Data Management Plan](/lifecycle/dmp)
 
 ---
 
@@ -266,7 +266,7 @@ _What are good practices in relation to this task?_
 
 #### Resources
 
-> See [Set up](/bias/lifecycle/setup)
+> See [Set up](/lifecycle/setup)
 
 [^1]: Adapted from Lib4RI, [Collecting](https://www.lib4ri.ch/research-data-management#Collecting) (accessed 27 August 2025). 
 [^2]: Adapted from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019), pp. 3-4. 

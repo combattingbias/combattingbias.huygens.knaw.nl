@@ -12,7 +12,8 @@ _Definition source: **Reproducibility Network (n.d.). [About](https://reproducib
 
 ## Stakes
 _part of: **opacity**_
-_related to: **documentation**; **FAIR**; **accessibility**; **provenance**
+
+_related to: **documentation**; **FAIR**; **accessibility**; **provenance**_
 
 If research is not reproducible, it means the process has been untransparent. The research, as a result, is not trustworthy and lacks accountability.
 
