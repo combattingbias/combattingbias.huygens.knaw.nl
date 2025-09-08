@@ -1,3 +1,9 @@
+---
+title: About Lifecycle
+hide:
+  - toc
+---
+
 The Lifecycle Model and Guidelines component provides structured guidance for addressing bias throughout the dataset creation process. It offers a practical, workflow-oriented approach to dealing with bias in dataset creation.
 
 

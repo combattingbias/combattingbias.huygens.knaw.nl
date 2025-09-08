@@ -1,3 +1,33 @@
+### Overview of Concepts
+
+<div style="display:flex; gap: 1rem; justify-content:center; flex-wrap: wrap;">
+      <a href="/bias/types/positionality" class="md-button md-button--primary">Positionality</a>
+      <a href="/bias/types/silences" class="md-button">Silences</a>
+      <a href="/bias/types/accessibility" class="md-button">Accessibility</a>
+      <a href="/bias/types/representation" class="md-button">Representation</a>
+      <a href="/bias/types/collaboration" class="md-button">Collaboration</a>
+      <a href="/bias/types/durability" class="md-button">Durability</a>
+      <a href="/bias/types/FAIR" class="md-button">FAIR</a>
+      <a href="/bias/types/ownership" class="md-button">Ownership</a>
+      <a href="/bias/types/recruitment" class="md-button">Recruitment</a>
+      <a href="/bias/types/unintended-use" class="md-button">Unintended Use</a>
+      <a href="/bias/types/transparency" class="md-button">Transparency</a>
+      <a href="/bias/types/availability" class="md-button">Availability</a>
+      <a href="/bias/types/expertise" class="md-button">Expertise</a>
+      <a href="/bias/types/multivocality" class="md-button">Multivocality</a>
+      <a href="/bias/types/impact" class="md-button">Impact</a>
+      <a href="/bias/types/harmful-language" class="md-button">Harmful Language</a>
+      <a href="/bias/types/accuracy" class="md-button">Accuracy</a>
+      <a href="/bias/types/historicity" class="md-button">Historicity</a>
+      <a href="/bias/types/methodology" class="md-button">Methodology</a>
+      <a href="/bias/types/privacy" class="md-button">Privacy</a>
+      <a href="/bias/types/provenance" class="md-button">Provenance</a>
+      <a href="/bias/types/reproducibility" class="md-button">Reproducibility</a>
+      <a href="/bias/types/documentation" class="md-button">Documentation</a>
+
+</div>
+
+
 ###Why a Bias Vocabulary?
 
 There is a crisis of shared understanding around bias. The term carries different meanings across disciplines: archivists focus on categorisation issues, historians examine power structures, digital humanists address representation, and computer scientists consider training data biases. This vocabulary addresses the fragmentation by establishing a common language for discussing bias across disciplines, transforming abstract concerns into specific, identifiable manifestations that researchers can systematically address.

@@ -302,7 +302,8 @@ hr.solid {
         <h1 class="post-title">Bias Aware Toolkit</h1>
         <p class="post-description">
             Explore different types of bias and their manifestations throughout the research lifecycle. 
-            Use the filters below to find concepts by category or research stage.
+            Use the filters below to find concepts by category or research stage. <br> <br>
+            ⚠️ <b>Please reload your page for the toolkit to work properly.</b>
         </p>
     </header>
 

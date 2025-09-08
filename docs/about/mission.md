@@ -1,3 +1,5 @@
+**DOI**: [https://doi.org/10.5281/zenodo.17078580](https://doi.org/10.5281/zenodo.17078580){:target="_blank"}
+
 ## Mission
 
 <div style="float: right; margin: 0 0 0 25px; max-width: 150px;">
@@ -18,7 +20,7 @@ We believe this research is relevant and necessary, as epistemic systems and dat
 </figure> -->
 
 ## Objectives
-In short, the objectives of the Combatting Bias project are threefold: 
+In short, the objectives of the Combatting Bias project are fourfold: 
 
 1. **Identify biases**: critically reflect on existing datasets and dataset creation processes. This leads to insights into what is – and more importantly, what is not – represented in current datasets. Through this, it becomes clearer how disproportionate representation or opaque documentation impacts consequent (research) conclusions and causes harm.
 2. **Reduce harm**: develop a toolkit, including a bias vocabulary and practical guidelines, to aid researchers in identifying, understanding, articulating and reducing harm caused by biases. This ultimately leads to the creation of ethical and sustainable datasets.
