@@ -8,7 +8,7 @@ keywords: ["social position", "power structures", "identity", "reflexivity", "pr
 ## Definition
 “One’s social position or place in a given society in relation to race, ethnicity, and other statuses (e.g., age, gender, gender identity and expression, religion, national origin, immigration status, language, disability, sexual orientation, socioeconomic status) within systems of power and oppression. Positionality refers to individual identities and the intersection of those identities and statuses with systems of privilege and oppression. Positionality shapes a person’s psychological experiences, worldview, perceptions others have of them, social relationships, and access to resources (Muhammad et al., 2015). Positionality therefore means actively understanding and negotiating the systemic processes and hierarchy of power and the ways that statuses affect relationships because of power dynamics related to privilege and oppression (APA Task Force on Race and Ethnicity Guidelines in Psychology, 2019)”
 
-_Definition source: **American Psychological Association. (2023). [Inclusive language guide (2nd ed.)](https://www.apa.org/about/apa/equity-diversity-inclusion/language-guidelines.pdf)**._ 
+_Definition source: **American Psychological Association. (2023). [Inclusive language guide (2nd ed.)](https://www.apa.org/about/apa/equity-diversity-inclusion/language-guidelines.pdf){:target="_blank"}**._ 
 
 ## Stakes
 _part of: **opacity**_
@@ -33,9 +33,9 @@ When positionality goes unconsidered or unacknowledged, the research is impacted
 
 ## Examples
 - KB Researchers-in-Residence Kelly Breemen and Vicky Breemen (publication forthcoming)
-- Uncomfortable Oxford Tours: https://www.uncomfortableoxford.com/ 
-- La Vaughn Belle, In the Place of Shadows: https://www.lavaughnbelle.com/home-1#/in-the-place-of-shadows/ 
-- Feral Atlas: https://feralatlas.org
+- [Uncomfortable Oxford Tours](https://www.uncomfortableoxford.com/){:target="_blank"}
+- [La Vaughn Belle, In the Place of Shadows](https://www.lavaughnbelle.com/home-1#/in-the-place-of-shadows/){:target="_blank"}
+- [Feral Atlas](https://feralatlas.org){:target="_blank"}
 
 ## Good-better-best practices
 
@@ -48,8 +48,8 @@ When positionality goes unconsidered or unacknowledged, the research is impacted
 ## Resources
 - Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” In Feminist Theory Reader, 5th ed. Routledge, 2020.
 
-[^1]: Question taken from Dataschool Utrecht, [DEDA Worksheet](https://deda.dataschool.nl/wp-content/uploads/sites/415/2022/11/DEDA-NL.worksheet.V3.1.pdf) (2022). 
-[^2]: Adapted from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019).
+[^1]: Question taken from Dataschool Utrecht, [DEDA Worksheet](https://deda.dataschool.nl/wp-content/uploads/sites/415/2022/11/DEDA-NL.worksheet.V3.1.pdf){:target="_blank"} (2022). 
+[^2]: Adapted from Archives for Black Lives, [Anti-Racist Description Resources](https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf){:target="_blank"} (2019).
 [^3]: Cf. interviews with Globalise
-[^4]: See Jasmine K Gani, Rabea M Khan, Positionality Statements as a Function of Coloniality: Interrogating Reflexive Methodologies, _International Studies Quarterly_, Volume 68, Issue 2, June 2024, https://doi.org/10.1093/isq/sqae038
+[^4]: See Jasmine K Gani, Rabea M Khan, <a href="https://doi.org/10.1093/isq/sqae038" target="_blank" rel="noopener noreferrer">Positionality Statements as a Function of Coloniality: Interrogating Reflexive Methodologies</a>, _International Studies Quarterly_, Volume 68, Issue 2, June 2024
 [^5]: Kelly Breemen and Vicky Breemen (forthcoming publication).  

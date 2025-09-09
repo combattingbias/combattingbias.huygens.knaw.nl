@@ -7,14 +7,14 @@ hide:
 # Combatting Bias
 <div class="cb-hero">
   <div>
-    <p style="text-align: justify; margin-top: -7rem;">
+    <p style="text-align: justify; margin-top: 0;">
     Combatting Bias is an initiative that has created a <strong>"bias-aware framework"</strong> to support researchers in identifying, describing, and reducing harmful biases in their data. 
     
     Rather than pursuing the impossible goal of complete bias elimination, this project provides <strong>guidelines for researchers to understand and transparently document biases</strong>. While predominantly focused on historical data, the framework provides a broad scope for any researcher or user to think about issues of bias in their work.</p>
   </div>
   <div>
-    <img id="biasMapRotator" src="/static/img/bias-maps/1.png" style="width:190%; border-radius:8px;" alt="A map made of journal scraps, to represent bias as a concept">
-    <p style="text-align:center; margin-top:.5rem;"><small style="color:#6b6b6b;">Bias Maps created by workshop participants</small></p>
+    <img id="biasMapRotator" src="/static/img/bias-maps/1.png" style="width:100%; border-radius:8px;" alt="A map made of journal scraps, to represent bias as a concept">
+    <p style="text-align:center; margin-top:.5rem;"><small style="color:#6b6b6b;"><a href="bias/bias-maps">Bias(ed) Maps</a> created by workshop participants</small></p>
     <script>
     (function () {
       const img = document.getElementById('biasMapRotator');
