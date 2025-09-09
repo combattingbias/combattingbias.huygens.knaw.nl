@@ -14,7 +14,7 @@ hide:
   </div>
   <div>
     <img id="biasMapRotator" src="/static/img/bias-maps/1.png" style="width:100%; border-radius:8px;" alt="A map made of journal scraps, to represent bias as a concept">
-    <p style="text-align:center; margin-top:.5rem;"><small style="color:#6b6b6b;"><a href="bias/bias-maps">Bias(ed) Maps</a> created by workshop participants</small></p>
+    <p style="text-align:center; margin-top:.5rem;"><small style="color:#6b6b6b;"><a href="bias/bias-maps"><strong>Bias(ed) Maps</strong></a> created by workshop participants</small></p>
     <script>
     (function () {
       const img = document.getElementById('biasMapRotator');
@@ -75,10 +75,10 @@ hide:
 <hr>
 
 <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 10px;">
-   <p class="text-block">Combatting Bias is funded by the <a href="https://nwo.nl" target="_top">Dutch Research Council (NWO)</a> via the  <a href="https://tdcc.nl" target="_blank">Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH)</a><br><br>
-   Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_top">LinkedIn</a>!
+   <p class="text-block">Combatting Bias is funded by the <a href="https://nwo.nl" target="_blank"><strong>Dutch Research Council (NWO)</strong></a> via the  <a href="https://tdcc.nl" target="_blank"><strong>Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH)</strong></a><br><br>
+   Follow us on <a href="https://www.linkedin.com/company/combatting-bias/" target="_blank"><strong>LinkedIn</strong></a>!
    <!-- <a href="https://mastodon.social/@combattingbias" target="_top">Mastodon</a>, and <a href="https://bsky.app/profile/combattingbias.bsky.social" target="_top">Bluesky</a>!--><br><br>
-Combatting Bias is hosted at the <a href="https://www.huygens.knaw.nl" target="_top">Huygens Institute</a>.
+Combatting Bias is hosted at the <a href="https://www.huygens.knaw.nl" target="_blank"><strong>Huygens Institute</strong></a>.
 </p>
   <div class="logos-container" style="display: flex; flex-direction: column; gap: 4px;">
         <div class="image-block">

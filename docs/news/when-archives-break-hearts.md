@@ -1,7 +1,8 @@
 # When Archives Break Hearts
 
-**Written by Asawari Luthra** <br/>
-_(This blog post was originally posted on the [Globalise website](https://globalise.huygens.knaw.nl/when-archives-break-hearts/))_
+**Written by Asawari Luthra** [<img src="/static/img/LinkedIn_icon.svg.png" alt="linkedin logo" style="width:2%;">](https://www.linkedin.com/in/asawariluthra/){:target="_blank"}<br/>
+
+_This blog post was originally posted on the [**Globalise website**](https://globalise.huygens.knaw.nl/when-archives-break-hearts/){:target="_blank"}_
 
 > _Asawari Luthra joined the GLOBALISE project as a guest researcher in the period June 2024 – May 2025. Trained as both a historian and anthropologist, she conducted ethnographic research to explore how access to GLOBALISE’s digital infrastructure can be made safer and more decolonised. Through interviews with archivists, historians, artists, and community members from diverse backgrounds, she gathered insights into the emotional and political impact of engaging with colonial archives. GLOBALISE will build on her thoughtful recommendations in its ongoing development, while also acknowledging that not all suggestions can be implemented within the current scope of the project._
 

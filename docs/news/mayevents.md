@@ -1,5 +1,6 @@
 # Combatting Bias Together! A Reflection on our May Events
-**Written by Amber Zijlma** </br>
+**Written by Amber Zijlma**
+[<img src="/static/img/LinkedIn_icon.svg.png" alt="linkedin logo" style="width:2%;">](https://www.linkedin.com/in/amber-z-347430200/){:target="_blank"}<br/>
 
 <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 40px;">
    <p class="text-block">
