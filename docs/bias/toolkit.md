@@ -938,7 +938,7 @@ hr.solid {
                     const keywordsText = bias.keywords.join(', ');
 
                     return `
-                        <div class="card-wrapper" onclick="this.navigateToPage('${bias.slug}');" style="cursor: pointer;">
+                        <div class="card-wrapper" data-slug="${bias.slug}" style="cursor: pointer;">
                             <div class="card" data-type="${bias.types.join(',')}" data-stage="${bias.stages.join(',')}">
                                 <div class="card-body">
                                     <h5 class="card-title">
@@ -969,7 +969,7 @@ hr.solid {
 
                 navigateToPage(slug) {
                     // SPA navigation - can be customized for your routing
-                    window.open(`../types/${slug}/`, '_blank');
+                    window.open(`../types/${slug}`, '_blank');
                 }
 
                 capitalizeFirst(str) {
@@ -988,6 +988,16 @@ hr.solid {
                 }
 
                 bindEvents() {
+                    // Card click events
+                    document.querySelectorAll(".card-wrapper").forEach(wrapper => {
+                        wrapper.addEventListener("click", () => {
+                            const slug = wrapper.dataset.slug;
+                            if (slug) {
+                                this.navigateToPage(slug);
+                            }
+                        });
+                    });
+
                     // Type filter buttons
                     document.querySelectorAll(".type-btn").forEach(btn => {
                         btn.addEventListener("click", () => this.handleFilter("type", btn));
