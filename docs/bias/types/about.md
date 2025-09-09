@@ -53,3 +53,7 @@ Each expression of bias includes mitigation strategies organized in a good-bette
 
 This progressive structure allows researchers to implement strategies based on their available resources and project requirements. The structure has been humbly taken over from [Chilcott (2019)](https://doi.org/10.1007/s10502-019-09314-y){:target="_blank"}.
 We recommend you create your own Good-Better-Best schema (see [template](https://docs.google.com/document/d/1L__Y7xpxGwYeRd54vcXkoVM912shOnxsF7YJZTofbnM/edit?usp=sharing){:target="_blank"} that aligns with your research project and include it in your project documentation. The process of filling out this template will allow for your team to identify and discuss biases with regards to your project collectively. 
+
+###Limitations
+
+We acknowledge that we will inadvertently have missed certain considerations of bias, as well as forms of bias as they appear in other fields, such as cognitive biases. This overview is not intended to be - nor should it be interpreted as - conclusive or comprehensive. For any queries, comments or feedback, please feel free to [contact us](../../../contact/contact).

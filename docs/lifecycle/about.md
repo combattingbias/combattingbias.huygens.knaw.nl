@@ -44,5 +44,9 @@ The guidelines provide concrete steps that researchers can implement at each sta
 ## Relationship to Other Componenets
 While the [Bias Vocabulary](../types/about.md) examines bias expressions conceptually, this Lifecycle Model takes a process-oriented approach, integrating bias considerations directly into standard dataset creation workflows. Together, these components provide both theoretical understanding and practical implementation strategies.
 
+## Limitations
+
+We acknowledge that we will inadvertently have missed certain considerations of bias, as well as forms of bias as they appear in other fields, such as cognitive biases. This overview is not intended to be - nor should it be interpreted as - conclusive or comprehensive. For any queries, comments or feedback, please feel free to [contact us](../../../contact/contact).
+
 [^1]: This model builds upon Research Data Alliance (July 2024), The creation of a harmonised research data
 lifecycle (RDL) model and crosswalk to existing models. https://www.rd-alliance.org/wp-content/uploads/2024/09/D1_The-creation-of-a-harmonised-research-data-lifecycle-RDL-model-and-crosswalk-to-existing-models-.pdf.
