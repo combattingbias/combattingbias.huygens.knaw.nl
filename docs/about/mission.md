@@ -6,12 +6,12 @@
     <img src="\static\img\RP-P-1956-760.jpg"/>
 <figcaption style="font-size: 16px; color: #666; margin-top: 5px;">
         <i> Carp Swimming Against a Waterfall</i>. Utagawa Hiroshige. 
-        Image credit: <a href="https://id.rijksmuseum.nl/200134856">Rijksmuseum</a>
+        Image credit: <a href="https://id.rijksmuseum.nl/200134856" target="_blank"><strong>Rijksmuseum</strong></a>
     </figcaption>
 </div>
 Our mission is to promote ethical and responsible data practices in the humanities and social sciences (SSH)[^1] by developing a toolkit, including vocabulary, comprehensive guidelines, and resources, for creating datasets that prioritise transparency, inclusivity and respect for diverse perspectives and experiences. 
 
-We believe this research is relevant and necessary, as epistemic systems and data creation are deeply intertwined. The increasing use of data in the field of SSH has allowed for more diversity in approaches to research questions, as well as broadened the possible range of questions that can be asked. However, historical data used in SSH research is by nature overwhelmed by biases, impacted by the author’s positionality and context, producing problematic language and categorisations. There is harm in these biases: they can have real impacts on minoritised groups today, through the production of incorrect and/or one-dimensional narratives that further silence and obscure marginalised perspectives. Alongside (research) frameworks that centre around the role of data in the advancement of social justice, such as [data justice](https://guides.lib.berkeley.edu/c.php?g=1353693&p=9993493)[^2], [data feminism](https://data-feminism.mitpress.mit.edu/), [data advocacy](https://da4all.github.io/methodology/) and [CARE](https://www.gida-global.org/care), we hope to add to the critical discourse around responsible creation and use of data to produce knowledge.
+We believe this research is relevant and necessary, as epistemic systems and data creation are deeply intertwined. The increasing use of data in the field of SSH has allowed for more diversity in approaches to research questions, as well as broadened the possible range of questions that can be asked. However, historical data used in SSH research is by nature overwhelmed by biases, impacted by the author’s positionality and context, producing problematic language and categorisations. There is harm in these biases: they can have real impacts on minoritised groups today, through the production of incorrect and/or one-dimensional narratives that further silence and obscure marginalised perspectives. Alongside (research) frameworks that centre around the role of data in the advancement of social justice, such as [**data justice**](https://guides.lib.berkeley.edu/c.php?g=1353693&p=9993493){:target="_blank"}[^2], [**data feminism**](https://data-feminism.mitpress.mit.edu/){:target="_blank"}, [**data advocacy**](https://da4all.github.io/methodology/){:target="_blank"}, and [**CARE**](https://www.gida-global.org/care){:target="_blank"}, we hope to add to the critical discourse around responsible creation and use of data to produce knowledge.
 
 <!-- 
 <figure>
@@ -30,9 +30,9 @@ In short, the objectives of the Combatting Bias project are fourfold:
 ## What's the Buzz about Bias?
 We take **bias** centrally as a concept to approach more responsible research practices within the SSH, because it is the foundation in which many of the concerns within data ethics are rooted. Data is not neutral – it is _always_ biased – and by analysing this ‘bias’, we can begin to understand the significance and impacts of our data(sources).  By scrutinising the concept of bias itself, therefore, we can use bias as a category of analysis, a lens, to address a whole host of ethical concerns when creating and using data. This attention to bias is so important because it grounds us to a method of research that is rooted in care and respect, which is precisely what is necessary when working with data, as it represents living things that require this care.
 
-Bias is already a widely used term in the context of creating, identifying and analysing data: it has become a real buzzword, especially in recent times with the quick development of AI tools. The [EU AI Act](https://artificialintelligenceact.eu/), for example, mentions ‘bias’ 25 times, but never provides an explanation of what it means exactly, nor what ‘bias correction’ should look like. Once we understand bias (in all its forms), it becomes less daunting to critically engage with it – this is why we believe it’s necessary to dive into the concept of bias. 
+Bias is already a widely used term in the context of creating, identifying and analysing data: it has become a real buzzword, especially in recent times with the quick development of AI tools. The [**EU AI Act**](https://artificialintelligenceact.eu/){:target="_blank"}, for example, mentions ‘bias’ 25 times, but never provides an explanation of what it means exactly, nor what ‘bias correction’ should look like. Once we understand bias (in all its forms), it becomes less daunting to critically engage with it – this is why we believe it’s necessary to dive into the concept of bias. 
 
-For more on our conceptualisation of bias, see [_On Bias_](/bias/onbias). 
+For more on our conceptualisation of bias, see **[_On Bias_](/bias/onbias){:target="_blank"}**. 
 
 ## Why Datasets?
 
@@ -41,11 +41,11 @@ Within the broader developments of the increased entanglement between computatio
 <div style="float: left; margin: 5px 25px 0 0; max-width: 400px;">
     <img src="\static\img\computerstudents.webp"/>
 <figcaption style="font-size: 16px; color: #666; margin-top: 5px;">
-        Ed van der Elsken, Groningen and Kyoto students trying-out a translating computer at Kyoto University, May 1985. © Ed van der Elsken (<a href="https://id.rijksmuseum.nl/200134856">Rijksmuseum</a>)
+        Ed van der Elsken, Groningen and Kyoto students trying-out a translating computer at Kyoto University, May 1985. © Ed van der Elsken (<a href="https://id.rijksmuseum.nl/200134856" target="_blank"><strong>Rijksmuseum</strong></a>)
     </figcaption>
 </div>
 
-Datasets are not only areas of ‘risk’ in need of intervention, they are also areas of immense possibility, if created critically and with awareness of bias. Dataset creation is the ‘deconstruction of archival sources’[^4], through which researchers can uncover new insights and gaps in their sources. It is, for example, due to the creation of datasets and their analysis that it becomes clear that a [17-year old woman named Flora](https://doi.org/10.1080/1081602X.2024.2340542) played a key role in the escape of nineteen peoples from slavery - re-inscribing her into the historical narrative, when her name is not barely in sources. 
+Datasets are not only areas of ‘risk’ in need of intervention, they are also areas of immense possibility, if created critically and with awareness of bias. Dataset creation is the ‘deconstruction of archival sources’[^4], through which researchers can uncover new insights and gaps in their sources. It is, for example, due to the creation of datasets and their analysis that it becomes clear that a [**17-year old woman named Flora**](https://doi.org/10.1080/1081602X.2024.2340542){:target="_blank"} played a key role in the escape of nineteen peoples from slavery - re-inscribing her into the historical narrative, when her name is not barely in sources. 
 
 ## Urgent Questions and Urgent Responses
 There are several troubles with the concept of bias that make it both urgent and crucial to deal with if we want to advance within data ethics:
@@ -62,8 +62,8 @@ These three concerns are current roadblocks in the data ethics practices of the 
 
 <div style="text-align: center; margin: 0 auto; max-width: 500px;">
     <img src="../../static/img/dayanita_files.jpeg" alt="Sea of Files" style="width: 100%;" />
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 5px;">
-        Dayanita Singh, File Room, 2013. © <a href="https://dayanitasingh.net/file-room/"/>Dayanita Singh</a>
+    <figcaption style="font-size: 16px; color: #666; margin-top: 5px;">
+        Dayanita Singh, File Room, 2013. © <a href="https://dayanitasingh.net/file-room/" target="_blank"><strong>Dayanita Singh</strong></a>
     </figcaption>
 </div>
 
@@ -93,7 +93,7 @@ The above points, specifically the Vocabulary, will be integrated into existing 
 <!-- changed logos to vertical alignment -->
 
 <div class="flex-container" style="align-items: center; justify-content: space-between; margin-top: 10px;">
-   <p class="text-block">Combatting Bias is a collaborative project. We are grateful to work closely together with over 15 researchers, practitioners, and domain experts (see <a href="https://combattingbias.huygens.knaw.nl/about/team/partnerprojects" target="_top"><i>Partner Projects</i></a> and <a href="https://combattingbias.huygens.knaw.nl/about/team/advisors/" target="_top"><i>Advisors</i></a>), who shape our work and thinking through insights into their experiences and expertise in cultural heritage, critical archival studies, community (memory) work, natural language processing, and the FAIR principles, among others. The project itself is also embedded in two research institutes: Huygens Institute and the International Institute of Social History (IISH). Read more about our collaboration with partner projects and advisors in our <a href="/about/projectmethodology" target="_top"><i>Project Methodology</i></a>. 
+   <p class="text-block">Combatting Bias is a collaborative project. We are grateful to work closely together with over 15 researchers, practitioners, and domain experts (see <a href="https://combattingbias.huygens.knaw.nl/about/team/partnerprojects" target="_top"><i><strong>Partner Projects</strong></i></a> and <a href="https://combattingbias.huygens.knaw.nl/about/team/advisors/" target="_top"><i><strong>Advisors</strong></i></a>), who shape our work and thinking through insights into their experiences and expertise in cultural heritage, critical archival studies, community (memory) work, natural language processing, and the FAIR principles, among others. The project itself is also embedded in two research institutes: Huygens Institute and the International Institute of Social History (IISH). Read more about our collaboration with partner projects and advisors in our <a href="/about/projectmethodology" target="_top"><i><strong>Project Methodology</strong></i></a>. 
 </p>
    
    <div class="logos-container" style="display: flex; flex-direction: column; gap: 40px;">
@@ -126,7 +126,7 @@ The above points, specifically the Vocabulary, will be integrated into existing 
    </div>
 </div> -->
 
-[^1]: Data definition: 'Data is “units of information observed, collected, or created in the course of research” (Erway et al. 2013).' In: Di Cresce, Rachel, and Julia King. “Developing Collaborative Best Practices for Digital Humanities Data Collection: A Case Study.” College & Undergraduate Libraries 24, no. 2–4 (October 2, 2017): 226–37. https://doi.org/10.1080/10691316.2017.1326330.
-[^2]: See David Leslie, Michael Katell, Mhairi Aitken, et al. “Advancing Data Justice Research and Practice: An Integrated Literature Review.” SSRN Scholarly Paper No. 4073376. Social Science Research Network, March 22, 2022. https://doi.org/10.2139/ssrn.4073376; Data Justice Lab https://datajusticelab.org/; Global Data Justice https://globaldatajustice.org/. 
-[^3]: Dataset definition: 'a collection of data, published or curated by a single agent or identifiable community. The notion of dataset [...] is broad and inclusive, with the intention of accommodating resource types arising from all communities. Data comes in many forms including numbers, text, pixels, imagery, sound and other multi-media, and potentially other types, any of which might be collected into a dataset.' In: W3C Data Catalog Vocabulary (DCAT) - Version 3. https://www.w3.org/TR/vocab-dcat/#introduction
+[^1]: Data definition: 'Data is “units of information observed, collected, or created in the course of research” (Erway et al. 2013).' In: Di Cresce, Rachel, and Julia King. “Developing Collaborative Best Practices for Digital Humanities Data Collection: A Case Study.” College & Undergraduate Libraries 24, no. 2–4 (October 2, 2017): 226–37. **[https://doi.org/10.1080/10691316.2017.1326330](https://doi.org/10.1080/10691316.2017.1326330){target="_blank"}**.
+[^2]: See David Leslie, Michael Katell, Mhairi Aitken, et al. “Advancing Data Justice Research and Practice: An Integrated Literature Review.” SSRN Scholarly Paper No. 4073376. Social Science Research Network, March 22, 2022. **[https://doi.org/10.2139/ssrn.4073376](https://doi.org/10.2139/ssrn.4073376){target="_blank"}**; **[Data Justice Lab](https://datajusticelab.org/){target="_blank"}**; **[Global Data Justice](https://globaldatajustice.org/){target="_blank"}**. 
+[^3]: Dataset definition: 'a collection of data, published or curated by a single agent or identifiable community. The notion of dataset [...] is broad and inclusive, with the intention of accommodating resource types arising from all communities. Data comes in many forms including numbers, text, pixels, imagery, sound and other multi-media, and potentially other types, any of which might be collected into a dataset.' In: W3C Data Catalog Vocabulary (DCAT) - v3. **[https://www.w3.org/TR/vocab-dcat/#introduction](https://www.w3.org/TR/vocab-dcat/#introduction){target="_blank"}**.
 [^4]: Interview with Historische Database Suriname and Caribbean, 2024/25.
