@@ -8,7 +8,7 @@ keywords: ["available", "findable", "inclusivity"]
 ## Definition
 “Accessibility ensures that all people—regardless of ability—can interact with the information or services you provide. [...] Digital accessibility ensures everyone can perceive, understand, navigate and interact with information on the internet, regardless of ability.” This goes for both the research you make available to others, as well as what resources are accessible to yourself.
 
-_Definition source: **Case Western Reserve University (n.d.). [What is Accessibility?](https://case.edu/accessibility/what-accessibility)**_
+_Definition source: **Case Western Reserve University (n.d.). [What is Accessibility?](https://case.edu/accessibility/what-accessibility){:target="_blank"}**_
 
 
 ## Stakes

@@ -8,7 +8,7 @@ keywords: ["inclusion", "diversity", "voice", "visibility", "marginalization", "
 ## Definition
 "How (in what ways) something is depicted. However ‘realistic’ texts may seem to be, they involve some form of transformation. Representations are unavoidably selective (none can ever ‘show the whole picture’), and within a limited frame, some things are foregrounded and others backgrounded: see also framing; generic representation; selective representation; stylization. In factual genres in the mass media, critics understandably focus on issues such as truth, accuracy, bias, and distortion (see also reflectionism), or on whose realities are being represented and whose are being denied. See also dominant ideology; manipulative model; stereotyping; symbolic erasure."
 
-_Definition source: **representation. [Oxford Reference](https://www.oxfordreference.com/view/10.1093/oi/authority.20111014165925770)**. Retrieved 30 Jan._
+_Definition source: **representation. [Oxford Reference](https://www.oxfordreference.com/view/10.1093/oi/authority.20111014165925770){:target="_blank"}**. Retrieved 30 Jan._
 
 ## Stakes
 _part of: **discrimination**_

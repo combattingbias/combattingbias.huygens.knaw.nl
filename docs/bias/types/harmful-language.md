@@ -10,7 +10,7 @@ keywords: ["harm", "racism", "categories"]
 ## Definition
 Language that causes uncomfort, pain, feelings of unsafety to an individual or group of people.
 
-_Definition source: **Combatting Bias definition.**_
+_Definition source: **Combatting Bias definition**._
 
 ## Stakes
 _part of: **discrimination**_

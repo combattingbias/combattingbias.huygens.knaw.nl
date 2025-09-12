@@ -8,7 +8,7 @@ keywords: ["original", "primary source", "significance", "context"]
 ## Definition
 Philosophical term denoting an authenticity of an event in the past. 
 
-_Definition source: **Combatting Bias definition**_
+_Definition source: **Combatting Bias definition**._
 
 ## Stakes
 _part of: **opacity, discrimination**_

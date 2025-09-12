@@ -8,7 +8,7 @@ keywords: ["impact", "harm", "accountability", "risk assessment", "misinterpreta
 ## Definition
 Uses of produced data that are not as intended by the researcher. 
 
-_Definition source: **Combatting Bias definition** (based on conversations with partner projects)_
+_Definition source: **Combatting Bias definition** (based on conversations with partner projects)._
 
 ## Stakes
 _part of: **opacity, discrimination**_

@@ -8,7 +8,7 @@ keywords: ["accessible", "findable", "inclusivity"]
 ## Definition
 Denotes whether a source of data is in existence, reachable and operational. 
 
-_Definition source: **Combatting Bias definition** (based on technical definitions for ‘data availability’)_.
+_Definition source: **Combatting Bias definition** (based on technical definitions for ‘data availability’)._
 
 ## Stakes
 _part of: **discrimination**_

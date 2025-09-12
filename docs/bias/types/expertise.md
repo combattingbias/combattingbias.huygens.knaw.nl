@@ -8,7 +8,7 @@ keywords: ["knowledge", "power", "multivocality", "collaboration", "team"]
 ## Definition
 “A high level of knowledge or skill”
 
-_Definition source: **Cambridge Dictionary (n.d.). [expertise](https://dictionary.cambridge.org/dictionary/english/expertise).**_
+_Definition source: **Cambridge Dictionary (n.d.). [expertise](https://dictionary.cambridge.org/dictionary/english/expertise){:target="_blank"}.**_
 
 ## Stakes
 _part of: **discrimination**, **opacity**_

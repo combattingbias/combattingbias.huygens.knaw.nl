@@ -9,7 +9,7 @@ keywords: ["possession", "responsibility", "power", "accessible", "privilege", "
 "Data ownership refers to both the possession of and responsibility for information. Ownership implies power as well as control. The control of information includes not just the ability to access, create, modify, package, derive benefit from, sell or remove data, but also the right to assign these access privileges to others (Loshin, 2002)."
 This definition is both related to the data itself (who owns data?), but also about the knowledge inside of it. 
 
-_Definition source: **Northern Illinois University (n.d.), [Responsible Conduct in Data Management](https://ori.hhs.gov/education/products/n_illinois_u/datamanagement/dotopic.html).**._ 
+_Definition source: **Northern Illinois University (n.d.), [Responsible Conduct in Data Management](https://ori.hhs.gov/education/products/n_illinois_u/datamanagement/dotopic.html){:target="_blank"}.**_ 
 
 ## Stakes
 _part of: **discrimination**_

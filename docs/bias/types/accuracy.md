@@ -8,7 +8,7 @@ keywords: ["factual", "correct", "errors"]
 ## Definition
 Being exact or correct.
 
-_Definition source: **Cambridge Dictionary (n.d.).** accuracy. https://dictionary.cambridge.org/dictionary/english/accuracy_
+_Definition source: **Cambridge Dictionary (n.d.). [accuracy](https://dictionary.cambridge.org/dictionary/english/accuracy){:target="_blank"}**._
 
 ## Stakes
 _part of: **opacity**_

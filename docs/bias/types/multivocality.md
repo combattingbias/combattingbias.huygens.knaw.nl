@@ -10,7 +10,7 @@ keywords: ["perspectives", "narratives", "silences", "plurivocality","polyvocali
 
 _Alterative concepts: plurivocality; polyvocality_
  
-_Definition source: **Oxford Reference (n.d.). [multivocality](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100216225).** Retrieved 30 Jan. 2025._
+_Definition source: **Oxford Reference (n.d.). [multivocality](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100216225){:target="_blank"}.** Retrieved 30 Jan. 2025._
 
 ## Stakes
 _part of: **discrimination**, **opacity**_

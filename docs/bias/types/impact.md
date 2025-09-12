@@ -8,7 +8,7 @@ keywords: ["topic", "audience", "community", "benefit", "harm"]
 ## Definition
 "an effect on, change or benefit to the economy, society, culture, public policy or services, health, the environment or quality of life (beyond academia)"
 
-_Definition source: **UKRI (n.d.) REF Impact.** https://www.ukri.org/who-we-are/research-england/research-excellence/ref-impact/_
+_Definition source: **UKRI (n.d.) [REF Impact](https://www.ukri.org/who-we-are/research-england/research-excellence/ref-impact/){:target="_blank"}.**_
 
 ## Stakes
 _part of: **opacity, discrimination**_
@@ -45,4 +45,4 @@ If impact goes unconsidered, and therefore not discussed in research’s output,
 - David Leslie, Michael Katell, Mhairi Aitken, et al. “Advancing Data Justice Research and Practice: An Integrated Literature Review.” SSRN Scholarly Paper No. 4073376. Social Science Research Network, March 22, 2022. https://doi.org/10.2139/ssrn.4073376.
 - Data Advocacy 4 All: https://da4all.github.io/
 
-[^1]: https://rdmkit.elixir-europe.org/ethics#which-aspects-of-rdm-might-raise-ethical-issues 
+[^1]: Adapted from RDMkit, [Ethical aspects](https://rdmkit.elixir-europe.org/ethics#which-aspects-of-rdm-might-raise-ethical-issues) (accessed 21 August 2025). 

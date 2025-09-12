@@ -8,7 +8,7 @@ keywords: ["legal", "difficult to share"]
 ## Definition
 Privacy is concerned with the protection of personal data: “any information that relates to an identified or identifiable living individual (data subject).”
  
-_Definition source: **European Commission (n.d.). [Data protection explained](https://commission.europa.eu/law/law-topic/data-protection/data-protection-explained_en).**_
+_Definition source: **European Commission (n.d.). [Data protection explained](https://commission.europa.eu/law/law-topic/data-protection/data-protection-explained_en){:target="_blank"}.**_
 
 ## Stakes
 _part of: **opacity**_
@@ -19,9 +19,11 @@ Privacy has many (legal) regulations around it, and is therefore important to co
 ## Where does it occur in the lifecycle?
 
 **1 - Set Up**
+
 - [Write Data Management Plan (DMP)](/lifecycle/setup/#write-a-data-management-plan-dmp)
 
 **2 - Collection**
+
 - [Reflect: Assess data storage structure of DMP](/lifecycle/collection/#reflect-assess-data-storage-structure-of-dmp)
 
 ## Questions to consider throughout your work

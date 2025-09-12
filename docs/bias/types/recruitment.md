@@ -8,7 +8,7 @@ keywords: ["diversity", "representation", "expertise", "team", "inclusivity", "m
 ## Definition
 The process of finding and hiring people to work in the same project as you.
 
-_Definition source: **Cambridge Dictionary (n.d.). [recruitment](https://dictionary.cambridge.org/dictionary/english/recruitment).**_
+_Definition source: **Cambridge Dictionary (n.d.). [recruitment](https://dictionary.cambridge.org/dictionary/english/recruitment){:target="_blank"}.**_
 
 ## Stakes
 _part of: **opacity**, **discrimination**_

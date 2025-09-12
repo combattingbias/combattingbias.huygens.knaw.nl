@@ -8,7 +8,7 @@ keywords: ["robustness", "future", "sustainability", "FAIR", "data management"]
 ## Definition
 Maintenance of data's integrity and availability for the future. Done in a sustainable way, it minimises environmental impact.
 
-_Definition source: **Sustainability Directory (2025). [Data Durability](https://energy.sustainability-directory.com/term/data-durability/).**_
+_Definition source: **Sustainability Directory (2025). [Data Durability](https://energy.sustainability-directory.com/term/data-durability/){:target="_blank"}.**_
 
 ## Stakes
 _part of: **opacity**, **discrimination**_

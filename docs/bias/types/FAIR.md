@@ -9,7 +9,7 @@ keywords: ["findable", "reusable", "interoperable", "accessible", "reuse", "lega
 Principles to improve "the Findability, Accessibility, Interoperability, and Reuse of digital assets. The principles emphasise machine-actionability (i.e., the capacity of computational systems to find, access, interoperate, and reuse data with none or minimal human intervention) because humans increasingly rely on computational support to deal with data as a result of the increase in volume, complexity, and creation speed of data."
 
 
-_Definition source: **GO FAIR (n.d.). [FAIR Principles](https://www.go-fair.org/fair-principles/).**._ 
+_Definition source: **GO FAIR (n.d.). [FAIR Principles](https://www.go-fair.org/fair-principles/){:target="_blank"}.**_ 
 
 ## Stakes
 _part of: **opacity**_

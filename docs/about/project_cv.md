@@ -19,10 +19,11 @@ The Combatting Bias project (file number ICT.TDCC.001.001) is a **TDCC-SSH Bottl
 
 ## Publications
 
-- Combatting Bias. (September 2025). _About the Combatting Bias Project_ **[https://zenodo.org/records/17084239](https://zenodo.org/records/17084239){:target="_blank"}**.
-- Combatting Bias. (September 2025). _Combatting Bias Project Mission Statement_ **[https://zenodo.org/records/17078580](https://zenodo.org/records/17078580){:target="_blank"}**.
+- Combatting Bias. (September 2025). _Bias Vocabulary._ **[https://doi.org/10.5281/zenodo.17078016](https://doi.org/10.5281/zenodo.17078016){:target="_blank"}**.
+- Combatting Bias. (September 2025). _About the Combatting Bias Project._ **[https://doi.org/10.5281/zenodo.17084239](https://doi.org/10.5281/zenodo.17084239){:target="_blank"}**.
+- Combatting Bias. (September 2025). _Combatting Bias Project Mission Statement._ **[https://doi.org/10.5281/zenodo.17078580](https://doi.org/10.5281/zenodo.17078580){:target="_blank"}**.
 - Combatting Bias. (August 2025). _Bias(ed) Maps_. **[https://doi.org/10.5281/zenodo.16943470](https://doi.org/10.5281/zenodo.16943470){:target="_blank"}**.
-- Combatting Bias. (August 2025). _Combatting Bias Resources List_. **[https://doi:10.5281/zenodo.16919549](https://doi:10.5281/zenodo.16919549){:target="_blank"}**.
+- Combatting Bias. (August 2025). _Combatting Bias Resources List_. **[https://doi.org/10.5281/zenodo.16919549](https://doi.org/10.5281/zenodo.16919549){:target="_blank"}**.
     - Zotero Group Library: **[https://www.zotero.org/groups/5670390/combatting_bias/library](https://www.zotero.org/groups/5670390/combatting_bias/library){:target="_blank"}**.
 
 **Extended Abstracts** <br/>
@@ -41,7 +42,7 @@ The Combatting Bias project (file number ICT.TDCC.001.001) is a **TDCC-SSH Bottl
 - Mrinalini Luthra and Amber Zijlma. (2025, 14-18 July). _From Bias Paralysis to Bias as a Category of Analysis_ [Short paper presentation]. [**Digital Humanities Conference 2025**](https://dh2025.adho.org/){:target="_blank"}, Lisbon, Portugal. 
 - Mrinalini Luthra and Amber Zijlma. (2025, 11-13 June). _From Bias Paralysis to Bias as a Category of Analysis. Introducing the Bias-Aware Framework_ [Paper presentation]. [**Association for Digital Humanities and Digital Culture (AIUCD)**](https://aiucd2025.dlls.univr.it/en-gb/){:target="_blank"}, Verona, Italy. 
 - Mrinalini Luthra and Amber Zijlma. (2025, 3-6 June). _So everything is biased … now what?!_ [Workshop]. [**Digital Humanities Benelux**](https://2025.dhbenelux.org/){:target="_blank"}, Amsterdam, The Netherlands.
-- Mrinalini Luthra and Amber Zijlma. (2025, 2 June). _Everything is biased ... now what?! Introducing the Bias-Aware Framework_ [Short paper presentation]. **[SemDH Workshop](https://semdh.github.io/){:target="_blank"}**, Portorož, Slovenia.
+- Mrinalini Luthra and Amber Zijlma. (2025, 2 June). _Everything is biased ... now what?! Introducing the Bias-Aware Framework_ [Short paper presentation]. [**SemDH Workshop**](https://semdh.github.io/){:target="_blank"}, Portorož, Slovenia.
 - Laura Hollink, Rossana Damiano, Torsten Schrade, Harald Sack, Mrinalini Luthra, and Amber Zijlma. (2025, 2 June). _Cultural Bias_ [Panel discussion]. [**SemDH Workshop**](https://semdh.github.io/){:target="_blank"}, Portorož, Slovenia.
 - Mrinalini Luthra. (2025, 26 March). _So everything is biased … now what?!_ [Presentation]. [**Luxembourg Centre for Contemporary and Digital History (C²DH) Hands-on-History Lecture**](https://www.uni.lu/c2dh-en/events/so-everything-is-biased-now-what/){:target="_blank"}, Esch-sur-Alzette, Luxembourg.
 - Mrinalini Luthra and Amber Zijlma. (2025, 18 March). _Everything is biased… Now what?! Introducing the Combatting Bias Project_ [Presentation]. [**COGLOSS x Globalise Webinar**](https://www.universiteitleiden.nl/en/events/2025/03/cogloss-march-2025){:target="_blank"}, online. 

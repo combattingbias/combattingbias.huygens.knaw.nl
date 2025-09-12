@@ -10,7 +10,7 @@ keywords: ["stakeholder engagement", "community involvement", "plurivocality", "
 ## Definition
 Working together respectfully with others who bring in different perspectives. This encompasses both working together with affected communities, as well as with experts in different (academic) fields and circles than you are. This includes building a trusting connection with communities affected by the research you are doing. Communities can either be directly (publishing sensitive materials open-access) or indirectly (they are source groups mentioned in archival sources) impacted. The relationship needs to center the community's needs and well-being, and their expertise should be valued and recompensated.
 
-_Definition source: **Combatting Bias definition** (in conversation with Margo Groenewoud and HDSC); **DE-BIAS (2024), [Community Engagement Recommendations](https://pro.europeana.eu/files/Europeana_Professional/Projects/debias/DE-BIAS_recommendations_for_community_engagement.pdf).**_
+_Definition source: **Combatting Bias definition** (in conversation with Margo Groenewoud and HDSC); **DE-BIAS (2024), [Community Engagement Recommendations](https://pro.europeana.eu/files/Europeana_Professional/Projects/debias/DE-BIAS_recommendations_for_community_engagement.pdf){:target="_blank"}.**_
 
 ## Stakes
 _part of: **opacity**_

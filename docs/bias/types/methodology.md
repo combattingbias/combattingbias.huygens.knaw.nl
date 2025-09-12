@@ -9,7 +9,7 @@ keywords: ["algorithm", "methods", "evaluate", "approach"]
 ## Definition
 "a systematic deviation in the outcomes of an evaluation process, stemming directly from the specific methods or approaches employed."
  
-_Definition source: **Sustainability Directory (2025). [Assessment Methodological Bias](https://energy.sustainability-directory.com/term/data-durability/).**_
+_Definition source: **Sustainability Directory (2025). [Assessment Methodological Bias](https://energy.sustainability-directory.com/term/data-durability/){:target="_blank"}.**_
 
 ## Stakes
 _part of: **opacity**_

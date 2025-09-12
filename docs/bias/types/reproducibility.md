@@ -8,7 +8,7 @@ keywords: ["documentation", "reuse", "evaluate"]
 ## Definition
 "A central tenet of science: To produce a reliable scientific body of knowledge, researchers must be able to trace the steps of each other’s work and verify that they yield the claimed results, or to explore why they don’t."
  
-_Definition source: **Reproducibility Network (n.d.). [About](https://reproducibilitynetwork.nl/about-nlrn/).**_
+_Definition source: **Reproducibility Network (n.d.). [About](https://reproducibilitynetwork.nl/about-nlrn/){:target="_blank"}.**_
 
 ## Stakes
 _part of: **opacity**_

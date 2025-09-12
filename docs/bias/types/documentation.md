@@ -7,7 +7,7 @@ keywords: ["transparency", "context", "reuse", "robust"]
 ## Definition
 The descriptive account of the process of creating or curating information. This record accompanies the publication of such information. It provides contextualising information from a disciplinary point of view.
  
-_Definition source: **Combatting Bias definition**_
+_Definition source: **Combatting Bias definition**._
 
 ## Stakes
 _part of: **opacity**_

@@ -10,7 +10,7 @@ keywords: ["reuse", "documentation", "contextualisation", "audit"]
 ## Definition
 "make data, analysis, methods, and interpretive choices underlying their claims visible in a way that allows others to evaluate them"
 
-_Definition source: **Princeton (n.d.). [Transparency in Qualitative Research](https://www.princeton.edu/~amoravcs/library/TransparencyinQualitativeResearch.pdf).**_
+_Definition source: **Princeton (n.d.). [Transparency in Qualitative Research](https://www.princeton.edu/~amoravcs/library/TransparencyinQualitativeResearch.pdf){:target="_blank"}.**_
 
 ## Stakes
 _part of: **opacity**_

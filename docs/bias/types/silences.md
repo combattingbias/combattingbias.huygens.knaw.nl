@@ -9,8 +9,8 @@ keywords: ["archival gaps", "missing data", "representation", "absences", "docum
 “A gap in the (historical) record resulting from the unintentional or purposeful absence or distortion of documentation.” This goes for both the documentation as well as processes and institutional policies.
 
 
-_Definition source: **Society of American Archivists (n.d.) [Dictionary of
-Archives Terminology](https://dictionary.archivists.org/entry/archival-silence.html ){:target="_blank"}**._ 
+_Definition source: **Society of American Archivists (n.d.). [Dictionary of
+Archives Terminology](https://dictionary.archivists.org/entry/archival-silence.html){:target="_blank"}**._ 
 
 ## Stakes
 _part of: **opacity, discrimination**_
@@ -56,6 +56,6 @@ Silences cause a skewed narrative of history, in which certain narratives are no
 
 
 [^1]: This dataset features a skewed gender representation where only a small minority of women is featured in the sources. The dataset (and its corresponding documentation and data-envelope) of the Namebooks of the Dutch East India Company (1730-1794) can be found here: [https://hdl.handle.net/10622/DITM0Z](https://hdl.handle.net/10622/DITM0Z){:target="_blank"}
-[^2]: [Archives for Black Lives in Philadephia - Anti-Racist Description Resources](https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf){:target="_blank"}.
+[^2]: Adapted from Archives for Black Lives, <a href='https://archivesforblacklives.wordpress.com/wp-content/uploads/2019/10/ardr_final.pdf'>Anti-Racist Description Resources</a> (2019).
 [^3]: Given you know exactly what you're looking for. 
  
