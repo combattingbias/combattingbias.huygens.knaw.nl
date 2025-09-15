@@ -1,3 +1,5 @@
+**DOI: [https://doi.org/10.5281/zenodo.17122595](https://doi.org/10.5281/zenodo.17122595){:target="_blank"}**
+
 
 <!-- Everyone talks about bias, but **what exactly are we talking about?** When a computer scientist mentions "bias," they might mean skewed training data. When a historian says it, they could be referring to archival silences. When an archivist uses the term, they might mean cataloguing inconsistencies. This definitional chaos not just makes collaboration nearly impossible and undermines efforts to address bias systematically. -->
 

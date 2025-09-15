@@ -4,6 +4,8 @@ hide:
   - toc
 ---
 
+**DOI: [https://doi.org/10.5281/zenodo.17122517](https://doi.org/10.5281/zenodo.17122517){:target="_blank"}**
+
 The Lifecycle Model and Guidelines component provides structured guidance for addressing bias throughout the dataset creation process. It offers a practical, workflow-oriented approach to dealing with bias in dataset creation.
 
 

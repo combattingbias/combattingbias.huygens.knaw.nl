@@ -1,4 +1,4 @@
-**DOI: [https://doi.org/10.5281/zenodo.17078016 ](https://doi.org/10.5281/zenodo.17078016){:target="_blank"}**
+**DOI: [https://doi.org/10.5281/zenodo.17078016](https://doi.org/10.5281/zenodo.17078016){:target="_blank"}**
 
 ### Overview of Concepts
 

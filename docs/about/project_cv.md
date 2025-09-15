@@ -20,6 +20,8 @@ The Combatting Bias project (file number ICT.TDCC.001.001) is a **TDCC-SSH Bottl
 ## Publications
 
 - Combatting Bias. (September 2025). _Bias Vocabulary._ **[https://doi.org/10.5281/zenodo.17078016](https://doi.org/10.5281/zenodo.17078016){:target="_blank"}**.
+- Combatting Bias. (September 2025). _Bias in the Research Lifecycle: Model and Guidelines._ **[https://doi.org/10.5281/zenodo.17122517](https://doi.org/10.5281/zenodo.17122517){:target="_blank"}**
+- Combatting Bias. (September 2025). _On Bias._ **[https://doi.org/10.5281/zenodo.17122595](https://doi.org/10.5281/zenodo.17122595){:target="_blank"}**
 - Combatting Bias. (September 2025). _About the Combatting Bias Project._ **[https://doi.org/10.5281/zenodo.17084239](https://doi.org/10.5281/zenodo.17084239){:target="_blank"}**.
 - Combatting Bias. (September 2025). _Combatting Bias Project Mission Statement._ **[https://doi.org/10.5281/zenodo.17078580](https://doi.org/10.5281/zenodo.17078580){:target="_blank"}**.
 - Combatting Bias. (August 2025). _Bias(ed) Maps_. **[https://doi.org/10.5281/zenodo.16943470](https://doi.org/10.5281/zenodo.16943470){:target="_blank"}**.
