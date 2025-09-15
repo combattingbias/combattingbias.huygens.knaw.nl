@@ -16,7 +16,7 @@ Describe your analysis process and workflow. <br>
 
 ### Analysing and Interpreting Data
 
-_When undertaking this task, what should you consider?_
+**_When undertaking this task, what should you consider?_**
 
 #### [**Unintended Use**](../bias/types/unintended-use.md)
 
@@ -37,7 +37,7 @@ _When undertaking this task, what should you consider?_
 - How might your analytical methods themselves introduce bias?
 - What assumptions underlie your interpretive frameworks?
 
-_What are good practices in relation to this task?_
+**_What are good practices in relation to this task?_**
 
 - Document the shortcomings and possibilities of your analysis
 
@@ -51,15 +51,15 @@ _What are good practices in relation to this task?_
 
 #### Resources
     
-> Data Feminism https://data-feminism.mitpress.mit.edu/
+> - Data Feminism https://data-feminism.mitpress.mit.edu/
 
-> Generous Interfaces for Digital Cultural Collections https://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html
+> - Generous Interfaces for Digital Cultural Collections https://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html
 
 ---
 
 ### Reflect: Assess sufficiency of data collection
 
-_When undertaking this task, what should you consider?_
+**_When undertaking this task, what should you consider?_**
 
 #### [**Silences**](../bias/types/silences.md)
 

@@ -18,7 +18,7 @@ Publish documentation and contextualisation on your dataset, adapting it to your
 
 ### Contextualise data for external users
 
-_When undertaking this task, what should you consider?_
+**_When undertaking this task, what should you consider?_**
 
 #### [**Unintended Use**](../bias/types/unintended-use.md)
 
@@ -34,7 +34,7 @@ _When undertaking this task, what should you consider?_
 - What alternative resources that may address gaps/relevant topics to your research do you refer your users to?
     - Have/Can you link this data to other archives/data?
 
-_What are good practices in relation to this task?_
+**_What are good practices in relation to this task?_**
 
 - Refer and/or link to different resources that may address similar topics to your research. 
 
@@ -66,10 +66,11 @@ _What are good practices in relation to this task?_
 >
 > - Responsible Datasets in Context: https://www.responsible-datasets-in-context.com/
 
+---
 
 ### Create or choose an interface to publish data, analyses, visualisations and other publications
 
-_When undertaking this task, what should you consider?_
+**_When undertaking this task, what should you consider?_**
 
 #### [**Accessibility**](../bias/types/accessibility.md)
 
@@ -88,7 +89,7 @@ _When undertaking this task, what should you consider?_
 #### [**Reproducibility**](../bias/types/reproducibility.md)
 - Is your work reproducible?
 
-_What are good practices in relation to this task?_
+**_What are good practices in relation to this task?_**
 
 - Prioritise access for owners of the data and affected communities. 
     - For example, Surinamese data housed in the Netherlands needs to be accessible for Surinamese citizens.[^4]
