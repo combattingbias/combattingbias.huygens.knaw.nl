@@ -75,8 +75,8 @@ Describe your processing process.
 
 - Does your data contain offensive/harmful language and/or categories?
 
-_What are good practices in relation to this task?_
-
+**_What are good practices in relation to this task?_
+**
 - Use ‘preferred’ and ‘alternative’ labels to distinguish offensive and usable terminology.
     - This flags to the computational model that certain words are not preferable, yet retains historicity. 
 
@@ -88,7 +88,7 @@ _What are good practices in relation to this task?_
     
 > Previous research to help identify harmful language:
 >
-> - DE-BIAS: 
+> DE-BIAS: 
 >   - Vocabulary: https://pro.europeana.eu/page/the-de-bias-vocabulary 
 >   - Identification tool: https://pro.europeana.eu/page/the-de-bias-tool 
 >
@@ -105,6 +105,8 @@ _What are good practices in relation to this task?_
 > - Gender, Sex and Sexual Orientation: https://gsso.research.cchmc.org/#!/ (ontology)
 > - Homosaurus: https://homosaurus.org/ (linked data vocabulary)
 
+---
+
 ### Reflect: Reflect on the categories and variables used
 
 **_When undertaking this task, what should you consider?_**
@@ -116,6 +118,7 @@ _What are good practices in relation to this task?_
 
 - Rethink/add categories or find a new framework for your data so that it reflects your data accurately. 
 
+---
 #### Resources
 
 > _See [**Collection: Create usable categories and variables for your dataset**](/lifecycle/collection/#create-usable-categories-and-variables-for-your-dataset)_

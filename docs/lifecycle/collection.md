@@ -127,7 +127,7 @@ e.g. Sex of a person can be explicitly stated in the document or interpreted by 
 - Does the metadata of your source (data) do so?
 - How does your metadata handle contested or evolving terminology?
 
-_What are good practices in relation to this task?_
+**_What are good practices in relation to this task?_**
 
 - For technical metadata: use a metadata standard useful for your project - and adapt it to include all information you need. Using a metadata standard ensures consistency across research.[^1]
     - Check the metadata standards of the repository you will use to store your research.
@@ -160,7 +160,7 @@ https://harvardwiki.atlassian.net/wiki/spaces/hmschommanual/pages/49446971/Guide
 
 ### Create usable categories and variables for your dataset
 
-_When undertaking this task, what should you consider?_
+**_When undertaking this task, what should you consider?_**
 
 #### [**FAIR**](../bias/types/FAIR.md)
 
@@ -187,7 +187,7 @@ _When undertaking this task, what should you consider?_
 - How might simplifications in categorization lead to algorithmic discrimination?
 - How might missing or unbalanced data within categories affect computational analysis?
 
-_What are good practices in relation to this task?_
+**_What are good practices in relation to this task?_**
 
 - Look at other vocabularies out there (see Resources).
 
@@ -230,7 +230,7 @@ _What are good practices in relation to this task?_
 
 ### Reflect: Assess data storage structure of DMP
 
-_When undertaking this task, what should you consider?_
+**_When undertaking this task, what should you consider?_**
 
 #### [**Privacy**](../bias/types/privacy.md)
 
@@ -250,13 +250,13 @@ _What are good practices in relation to this task?_
 
 ### Reflect: Revisit your Set Up documentation
 
-_When undertaking this task, what should you consider?_
+**_When undertaking this task, what should you consider?_**
 
 #### [**Transparency**](../bias/types/transparency.md)
 
 - Does the documentation reflect your current thinking in your research?
 
-_What are good practices in relation to this task?_
+**_What are good practices in relation to this task?_**
 
 - Update the living documents (DMP, Mission Statement, and Ethics Commitment) to reflect changes in research and thinking. 
 

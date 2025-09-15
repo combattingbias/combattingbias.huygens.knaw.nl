@@ -5,7 +5,7 @@ _During **Set up**, the research is conceptualised, planned and funded. This sta
 ---
 
 ## 📔 Recommended documentation
-Describe your project beginnings <br>
+Describe your project beginnings. <br>
 > → Write your [Data Management Plan](/lifecycle/setup/#write-a-data-management-plan-dmp), [Ethical Commitments](/lifecycle/setup/#write-ethical-commitments) and [Mission Statement](/lifecycle/setup/#write-a-mission-statement) <br>
 > → Document your answers to questions regarding project conceptualisation. 
     This will both be a guide as well as a place of reflection throughout your research.
@@ -21,7 +21,7 @@ Describe your project beginnings <br>
 #### [**Positionality**](../bias/types/positionality.md)
 
 - How does the social, political, economic, cultural, academic context you are embedded in impact your choice of research?
-- Are there policies/guidelines within your institution that are relevant to your project - if so, which ones?[^1]
+- Are there policies/guidelines within your institution that are relevant to your project -- if so, which ones?[^1]
 
 #### [**Silences**](../bias/types/silences.md)
 
@@ -48,13 +48,13 @@ Describe your project beginnings <br>
 
 #### Resources
 
-Further websites with helpful guiding questions and toolkits to consider before the start of your research:
+Further websites with helpful guiding questions and toolkits to consider *before* the start of your research:
     
 > - Data Ethics Decision Aid: https://deda.dataschool.nl/en/ 
 > - USC Libraries, _Inclusive and Responsible Dataset Usage_: https://libguides.usc.edu/inclusive-datasets/considerations 
 > - University of Bath, _Research Data Service Homepage: Research Data Home_: https://library.bath.ac.uk/research-data
 > - RDMkit, _Ethical aspects_: https://rdmkit.elixir-europe.org/ethics#which-aspects-of-rdm-might-raise-ethical-issues 
-> - Always Already Computational - Collections as Data. 50  things yu can do: https://collectionsasdata.github.io/fiftythings/
+> - Always Already Computational - Collections as Data. 50  things you can do: https://collectionsasdata.github.io/fiftythings/
 
 ---
 
@@ -99,8 +99,8 @@ Further websites with helpful guiding questions and toolkits to consider before 
 
 #### Resources
     
-> Loughborough University, [Embedding EDI in Grant Proposals](https://www.lboro.ac.uk/media/intranet/content/schoolsanddepartments/aacme/research/EDI%20in%20Grant%20Proposals%20Feb%202023.pdf). Version: Feb 2023.
-> Maastricht University, [How to Address Diversity in Research Proposals - A Guide](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-research/how-address-diversity-research-proposals-guide). 
+> - Loughborough University, [Embedding EDI in Grant Proposals](https://www.lboro.ac.uk/media/intranet/content/schoolsanddepartments/aacme/research/EDI%20in%20Grant%20Proposals%20Feb%202023.pdf). Version: Feb 2023.
+> - Maastricht University, [How to Address Diversity in Research Proposals - A Guide](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-research/how-address-diversity-research-proposals-guide). 
 
 ---
 
@@ -142,7 +142,7 @@ Further websites with helpful guiding questions and toolkits to consider before 
     - This ensures your DMP includes details on version control practices and proposed usages of the created dataset.
     - Examples of dataset documentation are [data-envelopes](https://aclanthology.org/2024.legal-1.9/) and [datasheets (for cultural heritage)](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.124). 
 
-- Use the the [FAIR Implementation Profile](https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/) questionnaire to guide writing your DMP, specifically with regards to what specifications to consider to make your dataset FAIR compliant. 
+- Use the [FAIR Implementation Profile](https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/) questionnaire to guide writing your DMP, specifically with regards to what specifications to consider to make your dataset FAIR compliant. 
 
 - Include how harm to other beings and the environment can be identified and mitigated in a timely manner.[^5]
 
@@ -274,5 +274,5 @@ Take a look at your institutional (faculty, department) guidelines and/or Code o
 [^8]: From conversations with [Globalise](https://docs.globalise.huygens.knaw.nl/ethics/policy/); Kelly and Vicky Breemen, forthcoming publication. 
 [^9]: Adapted from DAIR Institute, [Our Reseach Philosophy](https://www.dair-institute.org/research-philosophy/) (2022). 
 [^10]: Adapted from Jaap Kunst Sound Collection, [Methodology](https://jaapkunst.org/about/) (accessed 21 August 2025).
-[^11]: Adapted from Jaap Kunst Sound Collection, [Uses](https://jaapkunst.org/about/) (accessed 21 August 2025).s
+[^11]: Adapted from Jaap Kunst Sound Collection, [Uses](https://jaapkunst.org/about/) (accessed 21 August 2025).
 

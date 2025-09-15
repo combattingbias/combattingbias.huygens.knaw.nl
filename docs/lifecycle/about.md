@@ -8,7 +8,7 @@ The Lifecycle Model and Guidelines component provides structured guidance for ad
 
 
 ## Structure and Content 
-This document provides guidelines for tasks that feature throughout the dataset lifecycle. It is organised into five key stages.[^1]:
+This document provides guidelines for tasks that feature throughout the dataset lifecycle. It is organised into five key stages[^1]:
 
 <div style="display:flex; gap: 1rem; justify-content:center; flex-wrap: wrap;">
       <a href="/lifecycle/setup" class="md-button md-button--primary">Set Up</a>
@@ -41,12 +41,12 @@ Good documentation should detail how data is curated: who collected it and when,
 ### Implementation Framework
 The guidelines provide concrete steps that researchers can implement at each stage of their work. By following this structured approach, teams can systematically identify and address biases that might otherwise go unnoticed until later stages of the research process. Document your bias mitigation strategies using a **Good-Better-Best** approach that outlines progressive strategies based on available resources. We recommend creating your own schema (see [template](https://doi.org/10.5281/zenodo.17107509)) that aligns with your research project—this process helps teams collectively identify and discuss project-specific biases while contributing to shared methodological understanding across the research community. 
 
-## Relationship to Other Componenets
+## Relationship to Other Components
 While the [Bias Vocabulary](../types/about.md) examines bias expressions conceptually, this Lifecycle Model takes a process-oriented approach, integrating bias considerations directly into standard dataset creation workflows. Together, these components provide both theoretical understanding and practical implementation strategies.
 
 ## Limitations
 
 We acknowledge that we will inadvertently have missed certain considerations of bias, as well as forms of bias as they appear in other fields, such as cognitive biases. This overview is not intended to be - nor should it be interpreted as - conclusive or comprehensive. For any queries, comments or feedback, please feel free to [contact us](../../../contact/contact).
 
-[^1]: This model builds upon Research Data Alliance (July 2024), The creation of a harmonised research data
-lifecycle (RDL) model and crosswalk to existing models. https://www.rd-alliance.org/wp-content/uploads/2024/09/D1_The-creation-of-a-harmonised-research-data-lifecycle-RDL-model-and-crosswalk-to-existing-models-.pdf.
+[^1]: This model builds upon Research Data Alliance (July 2024), *The creation of a harmonised research data
+lifecycle (RDL) model and crosswalk to existing models*. https://www.rd-alliance.org/wp-content/uploads/2024/09/D1_The-creation-of-a-harmonised-research-data-lifecycle-RDL-model-and-crosswalk-to-existing-models-.pdf.
